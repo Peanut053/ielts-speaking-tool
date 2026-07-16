@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "ans_0001",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "question": "When will you read carefully?",
+    "linked_question_ids": ["q_0050", "q_0051"],
+    "paragraphs": [
+      "I read carefully when the content really matters. For example, if I'm reading a contract or an official notice, I definitely wouldn't just skim it. I would slow down and read it word for word, especially the parts about deadlines, fees, or terms. Sometimes I even read the same sentence twice, just to make sure I don't miss one tiny detail. So yeah, when the stakes are high, I try to stay focused."
+    ],
+    "key_phrases": [
+      "the content really matters",
+      "slow down and read it word for word",
+      "one tiny detail",
+      "when the stakes are high"
+    ]
+  },
+  {
+    "id": "ans_0002",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "question": "When won't you read carefully?",
+    "linked_question_ids": ["q_0052", "q_0054"],
+    "paragraphs": [
+      "Honestly, most of the time I don't read everything carefully. If it's just casual content, like random posts on my feed or promotional messages from apps, I usually skim through them and get the gist. For example, in the morning, I might open my phone and see a bunch of notifications, so I just glance at them quickly while brushing my teeth. I mean, we are bombarded with information every day, so unless something really sparks my curiosity, I just move on pretty quickly."
+    ],
+    "key_phrases": [
+      "random posts on my feed",
+      "skim through them and get the gist",
+      "bombarded with information",
+      "sparks my curiosity",
+      "move on pretty quickly"
+    ]
+  },
+  {
+    "id": "ans_0003",
+    "part": "P1",
+    "topic": "Typing",
+    "question": "Do you prefer typing or writing things by hand?",
+    "linked_question_ids": ["q_0038"],
+    "paragraphs": [
+      "For daily work or study, I definitely gravitate toward typing. When I'm taking notes during a lecture or typing out useful phrases, typing is just faster, and it's easier to edit and reorganise my notes later. My hand really can't keep up sometimes, especially when the teacher is speaking fast. That said, I still like handwriting for personal stuff, like journaling or writing a short card. When I write something by hand, I feel like I slow down a little, and pen and paper feel more personal and real."
+    ],
+    "key_phrases": [
+      "gravitate toward typing",
+      "taking notes during a lecture",
+      "typing out useful phrases",
+      "edit and reorganise my notes",
+      "My hand really can't keep up",
+      "pen and paper feel more personal and real"
+    ]
+  },
+  {
+    "id": "ans_0004",
+    "part": "P1",
+    "topic": "Typing",
+    "question": "How can you improve your typing skills?",
+    "linked_question_ids": ["q_0039"],
+    "paragraphs": [
+      "Honestly, the best way is just to type a lot. I don't think there is a magic shortcut. At first, you may keep looking at your hands all the time, and I used to do that as well, but you have to break that habit and practise touch typing. If you type real things every day, like messages, homework, or notes, you slowly build muscle memory. After a while, you don't really think about where each key is anymore. Your accuracy improves, and your speed goes up naturally."
+    ],
+    "key_phrases": [
+      "a magic shortcut",
+      "break that habit",
+      "practise touch typing",
+      "type real things every day",
+      "build muscle memory",
+      "your speed goes up naturally"
+    ]
+  },
+  {
+    "id": "ans_0005",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "question": "What's the most popular animal in China?",
+    "linked_question_ids": ["q_0034"],
+    "paragraphs": [
+      "Definitely pandas. When people talk about animals in China, pandas have basically become a national icon, so that one’s pretty obvious.",
+      "Besides pandas, China is also home to some very distinctive animals, like Siberian tigers, as well as some unique species such as golden snub-nosed monkeys and red-crowned cranes, which you don’t really see in many other countries. Animals like sheep, deer, and monkeys are also quite familiar to us, especially through traditional stories and culture, and you see them all the time in zoos."
+    ],
+    "key_phrases": [
+      "pandas have basically become a national icon",
+      "home to some very distinctive animals",
+      "Siberian tigers",
+      "some unique species",
+      "golden snub-nosed monkeys",
+      "red-crowned cranes",
+      "sheep, deer, and monkeys"
+    ]
+  },
+  {
+    "id": "ans_0006",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "question": "Have you ever had a pet before?",
+    "linked_question_ids": [],
+    "paragraphs": [
+      "Yes, I have. When I was growing up, I kept quite a few pets, like a pet rabbit, hamsters, and even some aquarium fish. I also had small parrots, and some of them could actually mimic human speech, which was pretty funny.",
+      "I didn’t keep most of them for very long, though. Sometimes my grandma would give them away to someone else, and I remember crying my eyes out. I was too young to really understand why, but I was genuinely upset.",
+      "Later on, when I was in primary school, or maybe junior high, my family had a toy poodle. It was super mischievous and full of energy. Once it even broke a whole box of eggs and completely messed up the kitchen. My mom tried really hard to train it to behave, but it was definitely a handful."
+    ],
+    "key_phrases": [
+      "a pet rabbit, hamsters, and even some aquarium fish",
+      "small parrots",
+      "mimic human speech",
+      "give them away to someone else",
+      "crying my eyes out",
+      "a toy poodle",
+      "super mischievous and full of energy",
+      "messed up the kitchen",
+      "it was definitely a handful"
+    ]
+  },
+  {
+    "id": "ans_0007",
+    "part": "P1",
+    "topic": "Music",
+    "question": "Is it easy to learn music?",
+    "linked_question_ids": ["q_0096"],
+    "paragraphs": [
+      "Not really. I think it's easy to pick up the basics, like learning a simple song or following a basic rhythm, but it takes a lot of time and patience to get really good at it. For example, you might learn a simple song quite quickly, but playing it smoothly is a different story. For me, the hardest part is sticking with it when you have to practise the same part over and over again."
+    ],
+    "key_phrases": [
+      "pick up the basics",
+      "following a basic rhythm",
+      "get really good at it",
+      "playing it smoothly is a different story",
+      "sticking with it",
+      "practise the same part over and over again"
+    ]
+  },
+  {
+    "id": "ans_0008",
+    "part": "P1",
+    "topic": "Music",
+    "question": "Do you learn music lessons at school?",
+    "linked_question_ids": ["q_0097"],
+    "paragraphs": [
+      "Yes, I did when I was at school, but they were pretty basic. I still remember we used to sing songs, learn a little bit about rhythm, and sometimes listen to different kinds of music. It wasn't very exam-oriented, so I didn't feel much pressure. That said, when exams were coming up, music class was sometimes pushed aside by core subjects like Chinese, maths, and English. Looking back, I didn't become good at music because of those classes, but they did make the school day feel less intense."
+    ],
+    "key_phrases": [
+      "we used to",
+      "wasn't very exam-oriented",
+      "when exams were coming up",
+      "pushed aside",
+      "make the school day feel less intense"
+    ]
+  },
+  {
+    "id": "ans_0009",
+    "part": "P3",
+    "topic": "Mobile phones and friendship",
+    "question": "What positive and negative impact do mobile phones have on friendship?",
+    "linked_question_ids": [],
+    "paragraphs": [
+      "I’d say mobile phones are kind of a mixed bag when it comes to friendship.",
+      "On the positive side, they make it much easier to connect with people who share the same interests. I mean, people can find people to do things with online — we’ve got gym buddies, travel buddies, and so forth. For example, on platforms like Xiaohongshu or TikTok, people join interest groups, chat online first, and then take it offline by working out, travelling, or attending events together. That’s how a lot of friendships start these days.",
+      "Phones can also help friendships grow emotionally. When you’re texting, you can slow things down, think before you reply, and express your feelings more clearly. Some people actually find it easier to open up and have deep conversations through messages.",
+      "On the negative side, phones can easily get in the way of real connection. When friends finally meet up face to face, many people are busy scrolling through social media, checking notifications, or even taking photos and then editing them one by one instead of talking. As a result, people may be physically together but mentally distracted.",
+      "So overall, mobile phones can bring people together, but they can also weaken real-life interaction if they’re overused."
+    ],
+    "key_phrases": [
+      "a mixed bag",
+      "On the positive side",
+      "connect with people who share the same interests",
+      "people to do things with",
+      "gym buddies",
+      "travel buddies",
+      "take it offline",
+      "slow things down",
+      "express your feelings more clearly",
+      "deep conversations",
+      "On the negative side",
+      "meet up face to face",
+      "scrolling through social media",
+      "editing them one by one",
+      "bring people together",
+      "weaken real-life interaction"
+    ]
+  },
+  {
+    "id": "ans_0010",
+    "part": "P3",
+    "topic": "Mobile phone photography",
+    "question": "Is it a waste of time to take pictures with mobile phones?",
+    "linked_question_ids": ["q_0077"],
+    "paragraphs": [
+      "I’d say to some extent, yes, but it really depends on how and why people take photos.",
+      "Sometimes people take pictures not to record the moment, but just to post them on social media, grab attention, or crave validation, like waiting for likes and comments. Instead of soaking in the moment, they’re busy adjusting the lighting, fixing the angle, and retaking the same photo over and over again.",
+      "For example, when you’re travelling abroad and looking at a stunning view, like a sunset over a river or a historic city skyline, instead of pausing and enjoying the moment, you immediately pull out your phone, zoom in and out, fix the angle, and start editing photos. That can really kill the experience, because you’re not fully present and don’t get the chance to take it in with your own eyes.",
+      "That said, I have to admit that taking photos with a smartphone isn’t always a waste of time. When done with care, it can be a great way to store precious memories. Sometimes you capture moments that are truly unique, like sudden lightning in the desert, heavy rain during a night out with friends, or a spontaneous laugh. Those photos are never a waste — they’re more like a gift, because even days or years later, you can look back and relive those moments."
+    ],
+    "key_phrases": [
+      "to some extent",
+      "how and why",
+      "not to record the moment",
+      "post them on social media",
+      "grab attention",
+      "crave validation",
+      "soaking in the moment",
+      "kill the experience",
+      "store precious memories",
+      "look back and relive those moments"
+    ]
+  },
+  {
+    "id": "ans_0011",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "question": "What do you think of the view that it is possible for people to make good friends online?",
+    "linked_question_ids": ["q_0473"],
+    "paragraphs": [
+      "I think it’s definitely possible, but it depends on whether the friendship stays purely online or gradually becomes part of real life. You know, online platforms make it much easier for people to find others with the same interests.",
+      "For example, let’s say someone has just moved to a new city and doesn’t really know anyone there. They might join a local photography group, a hiking group, or even a gaming community. At first, they may just send messages, share tips, or comment on each other’s posts. But later, if they take it offline and meet up face to face at an event, they can slowly build trust, and the friendship becomes much more real.",
+      "That said, if the relationship only stays at the level of shallow likes and comments, I don’t think it’s easy to turn it into a close friendship. So yeah, online friendships can be real, but they usually need consistency, trust, and sometimes real-life interaction to grow deeper."
+    ],
+    "key_phrases": [
+      "stays purely online",
+      "becomes part of real life",
+      "find others with the same interests",
+      "send messages",
+      "share tips",
+      "comment on each other’s posts",
+      "take it offline",
+      "meet up face to face",
+      "build trust",
+      "shallow likes and comments"
+    ]
+  },
+  {
+    "id": "ans_0012",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "question": "Do you think it is important to introduce new rules for using mobile phones?",
+    "linked_question_ids": ["q_0349"],
+    "paragraphs": [
+      "Yes, I think so, but the rules should be reasonable and limited.",
+      "Phones are useful, but in some situations, they can put people at risk or seriously disturb others. For example, in schools, if students keep checking notifications in class, they may lose focus and miss what the teacher is saying. And on the road, if drivers glance at their phones for just a few seconds, they may fail to notice a pedestrian or a red light, which can be genuinely dangerous. So in these situations, clear rules can help reduce distractions and protect public safety.",
+      "At the same time, I don’t think phone rules should go too far. If phones are banned in every situation, people may find it intrusive, and it can also be hard to enforce in real life, because phones are already a big part of daily life. So overall, I’d say rules are necessary in serious or dangerous situations, but for daily use, people should also learn to use phones responsibly."
+    ],
+    "key_phrases": [
+      "reasonable and limited",
+      "put people at risk",
+      "checking notifications",
+      "lose focus",
+      "glance at their phones",
+      "a pedestrian or a red light",
+      "reduce distractions",
+      "protect public safety",
+      "go too far",
+      "hard to enforce",
+      "use phones responsibly"
+    ]
+  },
+  {
+    "id": "ans_0013",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "question": "Do you think it’s easy or difficult to be a doctor?",
+    "linked_question_ids": ["q_0183"],
+    "paragraphs": [
+      "I’d say it’s definitely on the challenging side. A lot of people may think doctors look respectable or even glamorous, but based on what I’ve seen, the reality is much tougher.",
+      "Before they even become doctors, medical students have to get through tons of textbooks and learn subjects like anatomy, diagnostics, internal medicine and surgery. Then they usually have to go through years of clinical training or residency, so it’s already a long and exhausting path.",
+      "And once they actually become doctors, things don’t suddenly get easier. They may have to work night shifts, deal with irregular schedules, and sometimes their day and night can get completely messed up. There’s always something urgent going on.",
+      "Also, when they see a real patient, the symptoms can be messy, like feeling dizzy, chest tightness, stomach pain, or abnormal blood sugar. Doctors need to turn book knowledge into real judgement. They have to decide what is serious, what can wait, and what treatment is suitable. That kind of decision-making can be mentally draining and even lead to decision fatigue, and the whole process carries a lot of responsibility. So yeah, being a doctor is really not as easy or glamorous as it looks."
+    ],
+    "key_phrases": [
+      "on the challenging side",
+      "respectable or even glamorous",
+      "tons of textbooks",
+      "clinical training or residency",
+      "a long and exhausting path",
+      "night shifts",
+      "irregular schedules",
+      "get completely messed up",
+      "a real patient",
+      "turn book knowledge into real judgement",
+      "mentally draining",
+      "decision fatigue",
+      "carries a lot of responsibility",
+      "not as easy or glamorous as it looks"
+    ]
+  },
+  {
+    "id": "ans_0014",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "question": "Apart from needing a lot of knowledge, what else makes being a doctor difficult?",
+    "linked_question_ids": ["q_0183"],
+    "paragraphs": [
+      "Well, from what I’ve seen, one major difficulty is the workload and lifestyle, especially in China.",
+      "Doctors don’t just sit in an office and calmly see one patient after another. In many hospitals, that’s not the case. Their schedule can be absolutely brutal, and they often suffer from a punishing work culture. They may be sleep-deprived, skip meals, or eat at irregular hours because there’s always something urgent going on.",
+      "What makes it worse is the mental overload. Their attention is constantly being pulled in different directions. One minute, they’re taking a patient’s medical history. The next minute, they’ve got to check someone’s blood sugar. And right after that, they may need to do ward rounds or deal with family members’ questions. So it’s not just physically tiring, but also mentally draining. It can really wear them down.",
+      "Apart from that, doctors also face huge research pressure. In top hospitals, some doctors are expected to have a PhD or even postdoctoral experience. Once they’re hired, they’re not just expected to treat patients, but also to run experiments, publish papers, and keep up with academic requirements. Their energy gets split between clinical work and research. Honestly, that sounds like a total nightmare."
+    ],
+    "key_phrases": [
+      "the workload and lifestyle",
+      "that’s not the case",
+      "absolutely brutal",
+      "a punishing work culture",
+      "sleep-deprived",
+      "mental overload",
+      "being pulled in different directions",
+      "do ward rounds",
+      "physically tiring",
+      "mentally draining",
+      "wear them down",
+      "research pressure",
+      "run experiments",
+      "publish papers",
+      "keep up with academic requirements",
+      "clinical work and research",
+      "a total nightmare"
+    ]
+  },
+  {
+    "id": "ans_0015",
+    "part": "P3",
+    "topic": "社交媒体看到的有趣视频",
+    "question": "What kind of videos do people in your country like to watch?",
+    "linked_question_ids": ["q_0266"],
+    "paragraphs": [
+      "Honestly, I’d say short videos are definitely the biggest thing right now. People watch all sorts of stuff, like comedy clips, cooking tutorials, beauty content, travel vlogs, and little life-hack videos. The thing is, most people are pretty drained after work or school, so they don’t really want anything too heavy. They just want something they can watch during small gaps in the day, like on the subway, while waiting for food, or before going to bed. For example, someone might open Douyin just to kill five minutes, but then they get carried away and end up watching restaurant reviews, cat videos, and random street interviews for half an hour. So I guess people like videos that are quick, easy to digest, and honestly, a bit addictive."
+    ],
+    "key_phrases": [
+      "short videos are definitely the biggest thing right now",
+      "all sorts of stuff",
+      "life-hack videos",
+      "pretty drained after work or school",
+      "anything too heavy",
+      "small gaps in the day",
+      "kill five minutes",
+      "get carried away",
+      "end up watching",
+      "quick, easy to digest",
+      "a bit addictive"
+    ]
+  },
+  {
+    "id": "ans_0016",
+    "part": "P3",
+    "topic": "社交媒体看到的有趣视频",
+    "question": "What skills can people learn from watching videos?",
+    "linked_question_ids": ["q_0268"],
+    "paragraphs": [
+      "I mean, people can learn loads of practical skills from videos, especially things that involve a step-by-step process. Makeup is a good example. Let’s say someone wants to learn how to do a full face of makeup. They might watch a GRWM video and see exactly how to put on foundation, mascara, lipstick, blush, all of that. Sometimes when you see a girl with flawless makeup, it feels a bit intimidating, like you have no idea where to start. But once someone breaks it down in a tutorial, it suddenly feels much more doable. Apart from makeup, people can also learn cooking, fitness routines, simple home repairs, language pronunciation, or even public speaking. Of course, watching alone isn’t enough. You still need to practise, but videos really help people get started without feeling overwhelmed."
+    ],
+    "key_phrases": [
+      "loads of practical skills",
+      "a step-by-step process",
+      "a full face of makeup",
+      "put on foundation, mascara, lipstick, blush",
+      "flawless makeup",
+      "a bit intimidating",
+      "where to start",
+      "breaks it down in a tutorial",
+      "much more doable",
+      "get started without feeling overwhelmed"
+    ]
+  },
+  {
+    "id": "ans_0017",
+    "part": "P3",
+    "topic": "常用的软件",
+    "question": "Why do some people not like to use programs or apps?",
+    "linked_question_ids": ["q_0390"],
+    "paragraphs": [
+      "I suppose one of the biggest reasons is that some apps are just too much of a hassle. They’re supposed to make life easier, but sometimes they do the exact opposite. For instance, an older person might download a hospital app just to book an appointment, but then they have to register, verify their phone number, upload personal information, and figure out where the booking page is. At that point, they may feel completely lost and just give up. And honestly, even young people can get annoyed when apps keep sending notifications, asking for updates, or pushing pop-up ads. It feels intrusive. So it’s not that people hate technology itself. It’s more that badly designed apps can turn a simple task into a whole ordeal."
+    ],
+    "key_phrases": [
+      "too much of a hassle",
+      "make life easier",
+      "do the exact opposite",
+      "figure out where the booking page is",
+      "feel completely lost",
+      "give up",
+      "get annoyed",
+      "pop-up ads",
+      "feel intrusive",
+      "turn a simple task into a whole ordeal"
+    ]
+  },
+  {
+    "id": "ans_0018",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "question": "What makes some TV or online programmes or shows popular?",
+    "linked_question_ids": ["q_0486"],
+    "paragraphs": [
+      "From what I’ve seen, a show becomes popular when it gives people something to talk about. It’s not just about good production. The programme needs to have memorable moments, relatable people, or some kind of emotional hook. Let’s say a reality show has a contestant who is funny, dramatic, or surprisingly sincere. Viewers may start sharing clips, making memes, and discussing every little detail online. Sometimes a conflict between a couple on a reality show can even stir up debate, because people start taking sides and comparing it with their own relationships. That’s when the show really takes off. I mean, some shows are not necessarily the highest-quality ones, but they are easy to follow, easy to share, and easy to relate to. They make people feel like they’re part of a bigger conversation."
+    ],
+    "key_phrases": [
+      "gives people something to talk about",
+      "memorable moments",
+      "relatable people",
+      "an emotional hook",
+      "sharing clips",
+      "making memes",
+      "stir up debate",
+      "taking sides",
+      "takes off",
+      "part of a bigger conversation"
+    ]
+  },
+  {
+    "id": "ans_0019",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "question": "How can parents help children to learn about nature?",
+    "linked_question_ids": ["q_0511"],
+    "paragraphs": [
+      "I think parents can help mainly by making nature feel real and close to children, instead of just giving them lectures about it. One simple way is to get them involved in small planting activities. For example, parents can help children plant seeds at home, water young plants, and check how the leaves change every few days. When kids get their hands dirty and see a tiny plant grow because they’ve looked after it, they naturally learn how soil, sunlight and water work.",
+      "Another good way is taking them to the zoo, an aquarium, or a nature park. I mean, children can see animals up close, notice how they move, what they eat, and what kind of environment they live in. That kind of experience is much more vivid than just seeing animals in a picture book.",
+      "And of course, documentaries can help too, especially when parents watch with their children and explain things in simple language. Like, if they watch a documentary about oceans or forests, parents can pause and ask, “Why do you think this animal lives here?” So the child doesn’t just watch passively; they actually think about nature. In this way, learning about nature becomes hands-on, visual, and much easier to remember."
+    ],
+    "key_phrases": [
+      "make nature feel real and close to children",
+      "giving them lectures",
+      "small planting activities",
+      "plant seeds at home",
+      "get their hands dirty",
+      "see animals up close",
+      "much more vivid",
+      "explain things in simple language",
+      "watch passively",
+      "hands-on, visual, and much easier to remember"
+    ]
+  },
+  {
+    "id": "ans_0020",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "question": "Do you think there is a need for new laws to protect nature?",
+    "linked_question_ids": ["q_0515"],
+    "paragraphs": [
+      "Yeah, I think so. Or at least, we need stricter rules in some areas. The thing is, protecting nature can’t just rely on people “being nice” or having good awareness. A lot of people know the environment matters, but when it comes to convenience or money, they may still take the easy way out. Like, a factory might cut corners and release dirty water if the fine is tiny. Or some tourists might leave rubbish in a park if they know nobody is really checking.",
+      "So I do think laws are needed because they draw a clear line. They make it clear what people and companies are allowed to do and what is just not acceptable. For example, there should be proper rules around waste disposal, plastic use, pollution control, and cutting down trees. Otherwise, people may not take it seriously until the damage is already done. Of course, laws aren’t a magic fix. We still need education and community activities, like recycling programs or clean-up events. But without rules, protecting nature can easily become just something people say, not something people actually do."
+    ],
+    "key_phrases": [
+      "stricter rules",
+      "take the easy way out",
+      "cut corners",
+      "draw a clear line",
+      "waste disposal",
+      "pollution control",
+      "the damage is already done",
+      "a magic fix",
+      "recycling programs",
+      "clean-up events"
+    ]
+  },
+  {
+    "id": "ans_0021",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "question": "Are punishments or rewards more effective in encouraging people to protect nature?",
+    "linked_question_ids": ["q_0516"],
+    "paragraphs": [
+      "I’d say both can work, but for ordinary people, rewards might be more effective in the long run. Punishments are useful when someone does something clearly harmful, like dumping rubbish in a river, cutting down trees illegally, or throwing litter in public places. There has to be a cost for that, otherwise some people just won’t take it seriously.",
+      "But if we want people to build better habits, rewards can be more encouraging because they create a kind of positive reinforcement. For example, communities can give residents small points or discounts when they sort out waste properly or bring reusable bags and cups. Some workplaces can also organize clean-up events where employees pick up litter in nearby parks or along the river. When people see how much rubbish can pile up in public spaces, the issue really hits home. And if their effort is recognized, they may feel good about it and keep doing it. So over time, this can create a positive feedback loop: people take small eco-friendly actions, get encouraged, and slowly become more environmentally aware."
+    ],
+    "key_phrases": [
+      "more effective in the long run",
+      "dumping rubbish in a river",
+      "cutting down trees illegally",
+      "there has to be a cost for that",
+      "build better habits",
+      "positive reinforcement",
+      "sort out waste properly",
+      "pick up litter",
+      "the issue really hits home",
+      "a positive feedback loop",
+      "environmentally aware"
+    ]
+  },
+  {
+    "id": "ans_0022",
+    "part": "P1",
+    "topic": "Building",
+    "question": "Are there many tall buildings in your country?",
+    "linked_question_ids": ["q_0069"],
+    "paragraphs": [
+      "Yeah, definitely. I mean, in China, especially in cities like Shanghai, Shenzhen, and Guangzhou, tall buildings are pretty much everywhere. You see skyscrapers, office towers, high-rise apartment blocks, and huge shopping complexes standing side by side in busy districts.",
+      "A big reason is that major cities are so crowded, and land is incredibly expensive. So instead of spreading out, cities have to build upwards. Like, in Shanghai, many people live in high-rise compounds because it’s the most practical way to fit a large population into limited urban space.",
+      "That said, smaller towns and historical areas are different. They usually have lower buildings to keep the local atmosphere. So yeah, tall buildings are common, but it really depends on where you are."
+    ],
+    "key_phrases": [
+      "skyscrapers",
+      "office towers",
+      "high-rise apartment blocks",
+      "standing side by side",
+      "spreading out",
+      "build upwards",
+      "fit a large population into limited urban space",
+      "keep the local atmosphere"
+    ]
+  },
+  {
+    "id": "ans_0023",
+    "part": "P3",
+    "topic": "建筑设计",
+    "question": "Why are different places laid out and designed differently?",
+    "linked_question_ids": [],
+    "paragraphs": [
+      "Well, I think it mainly comes down to what the place is built for. A place isn’t designed randomly; it’s usually shaped by people’s daily needs, local culture, and how they actually move around.",
+      "For example, a shopping mall is laid out to keep people walking and browsing. You’ll often see escalators placed in a way that guides you from one floor to another, cafés near the entrance, and shops grouped by category. The whole design quietly nudges people to stay longer and maybe spend more.",
+      "But an old town or a traditional market may feel more winding and organic. The lanes can be narrow, and the layout may look a bit messy, but that’s because it grew naturally over time. People built homes, stalls, and public spaces around real-life habits, not a perfect blueprint.",
+      "So yeah, the layout usually reflects the function of the place, the local lifestyle, and the way people use the space."
+    ],
+    "key_phrases": [
+      "comes down to what the place is built for",
+      "shaped by people’s daily needs",
+      "laid out",
+      "guides you from one floor to another",
+      "nudges people to stay longer",
+      "winding and organic",
+      "grew naturally over time",
+      "a perfect blueprint",
+      "reflects the function of the place"
+    ]
+  },
+  {
+    "id": "ans_0024",
+    "part": "P3",
+    "topic": "去过的城市",
+    "question": "Do you think a tourist city is also a good place to live? Why?",
+    "linked_question_ids": ["q_0499"],
+    "paragraphs": [
+      "Not necessarily. I mean, a tourist city can be amazing for a short trip, but living there can be a mixed bag.",
+      "For visitors, everything feels exciting: famous attractions, pretty streets, nice cafés, and local food. But for locals, the same things can wear them down. Imagine living near a popular scenic spot. Every weekend the streets are packed with tourists, restaurants raise their prices, and even getting a taxi can become a headache.",
+      "The thing is, a good place to visit doesn’t always make a good place to live. For daily life, people need affordable housing, reliable public transport, quiet neighbourhoods, schools, hospitals, and supermarkets nearby. If tourism pushes prices up or makes the city too crowded, it can really take a toll on local life.",
+      "So I’d say a tourist city can be liveable, but only if it doesn’t let tourism take over ordinary people’s lives."
+    ],
+    "key_phrases": [
+      "a mixed bag",
+      "wear them down",
+      "packed with tourists",
+      "become a headache",
+      "affordable housing",
+      "reliable public transport",
+      "take a toll on local life",
+      "tourism take over ordinary people’s lives"
+    ]
+  },
+  {
+    "id": "ans_0025",
+    "part": "P3",
+    "topic": "宜居之地",
+    "question": "What kind of place do people in your country like to live in?",
+    "linked_question_ids": ["q_0188"],
+    "paragraphs": [
+      "From what I’ve seen, most people in China want to live somewhere convenient, safe, and well-connected. I mean, for many families, location matters more than almost anything else.",
+      "A good place to live usually means there’s a metro station nearby, supermarkets downstairs, decent schools in the area, and hospitals not too far away. Like, a young couple with a child might choose a smaller flat in a good school district rather than a bigger home in the middle of nowhere, because daily convenience and education really matter.",
+      "At the same time, people are becoming pickier about the living environment. They don’t just want four walls and a roof. They want greenery, cleaner air, less noise, and maybe a quiet neighbourhood where they can wind down after work.",
+      "So yeah, the ideal place is not necessarily fancy. It’s somewhere practical, comfortable, and easy to settle into."
+    ],
+    "key_phrases": [
+      "convenient, safe, and well-connected",
+      "location matters",
+      "a good school district",
+      "in the middle of nowhere",
+      "daily convenience",
+      "the living environment",
+      "four walls and a roof",
+      "wind down after work",
+      "easy to settle into"
+    ]
+  },
+  {
+    "id": "ans_0026",
+    "part": "P3",
+    "topic": "想见的名人",
+    "question": "Is it possible for people to become famous without talent?",
+    "linked_question_ids": ["q_0377"],
+    "paragraphs": [
+      "I’d say yes, to some extent, especially in the age of social media. The thing is, fame today is not always about real talent. Sometimes it’s more about visibility and knowing how to grab attention. For example, someone may go viral overnight because of one funny clip, one dramatic livestream, or even one controversial post. They may not be especially good at singing, acting, or anything like that, but if the content gets people talking, the platform will keep pushing it. That said, I don’t think this kind of fame is always stable. If a person only relies on hype, they may struggle to stay relevant. People might get bored quickly, or start seeing them as just a packaged celebrity with no real substance. So yes, people can become famous without talent, but without something solid behind it, that fame may not last very long."
+    ],
+    "key_phrases": [
+      "to some extent",
+      "grab attention",
+      "go viral overnight",
+      "gets people talking",
+      "relies on hype",
+      "stay relevant",
+      "a packaged celebrity",
+      "no real substance",
+      "something solid behind it"
+    ]
+  },
+  {
+    "id": "ans_0027",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "question": "When should parents allow their children to have mobile phones?",
+    "linked_question_ids": ["q_0351"],
+    "paragraphs": [
+      "I suppose parents should allow children to have mobile phones when they are old enough to use them with clear boundaries. I don’t think there is one perfect age, but if a child needs a phone for safety, like contacting their parents after school or using maps on the way home, then it makes sense.",
+      "The tricky part is that phones are useful and attention-grabbing at the same time. A child may open a learning app to watch one educational video, but then the next recommended clip is a game stream or a cartoon. Before they know it, one useful task turns into an hour of scrolling. So parents shouldn’t just hand over a phone and hope for the best. They need rules, like fixed app time, phone-free study time, and no phone before bed. So overall, children can have phones, but only when they can use them at the right time and in the right place."
+    ],
+    "key_phrases": [
+      "use them with clear boundaries",
+      "one perfect age",
+      "attention-grabbing",
+      "turns into an hour of scrolling",
+      "hand over a phone",
+      "fixed app time",
+      "phone-free study time",
+      "at the right time and in the right place"
+    ]
+  },
+  {
+    "id": "ans_0028",
+    "part": "P2",
+    "topic": "公开发言",
+    "question": "Describe a time when you had to give a talk to lots of people.",
+    "linked_question_ids": ["q_0309"],
+    "paragraphs": [
+      "I’d like to talk about a time when I had to give a talk in front of many people, which really stuck with me.",
+      "It happened about a year ago, when I was still in school. That day, I was so down in the dumps because I had just had an argument with one of my close friends, and honestly, I had cried in the bathroom right before class. I was still kind of out of it, and my eyes were a bit red. Everything seemed bad enough already, but then I suddenly remembered that I had to give a presentation in English class.",
+      "To make things worse, the talk was not just in front of a few people. I had to speak to the whole class, and the topic was about how students could manage stress before exams. I gave this talk because it was part of our English class assessment, so I couldn’t really skip it.",
+      "While I was waiting for my turn, my hands were cold, my voice was shaking, and my mind went almost blank. What really drove me crazy was that I had practised the talk several times before, but at that moment, I felt like I couldn’t even say the first sentence properly.",
+      "After struggling for a while, I told myself that I didn’t have to sound perfect. I just needed to get through it. So when my name was called, I stood up, took a deep breath, and started with the key points on my notes.",
+      "At first, my voice was still a bit shaky, but step by step, I calmed down and managed to finish the whole talk. Looking back, I was actually quite proud of myself, because I didn’t run away from the situation. It made me realize that sometimes courage means doing what you have to do even when you’re not in the right state of mind."
+    ],
+    "key_phrases": [
+      "give a talk in front of many people",
+      "really stuck with me",
+      "down in the dumps",
+      "kind of out of it",
+      "to make things worse",
+      "my mind went almost blank",
+      "practised the talk several times",
+      "get through it",
+      "took a deep breath",
+      "step by step",
+      "quite proud of myself",
+      "not in the right state of mind"
+    ]
+  },
+  {
+    "id": "ans_0029",
+    "part": "P1",
+    "topic": "Cars",
+    "question": "Would you like to be the driver or the passenger?",
+    "linked_question_ids": ["q_0134"],
+    "paragraphs": [
+      "I’d rather be the passenger, to be honest. I’m not a very confident driver, and driving in a busy city can be a bit stressful, especially when there’s heavy traffic or people suddenly cut in. If I’m the passenger, I can just sit back, listen to music, check my phone, or enjoy the view. So yeah, I prefer not having to keep my eyes on the road all the time."
+    ],
+    "key_phrases": [
+      "be the passenger",
+      "a confident driver",
+      "heavy traffic",
+      "cut in",
+      "sit back",
+      "keep my eyes on the road"
+    ]
+  },
+  {
+    "id": "ans_0030",
+    "part": "P1",
+    "topic": "Cars",
+    "question": "Are there a lot of cars on the roads in your city?",
+    "linked_question_ids": ["q_0135"],
+    "paragraphs": [
+      "Yeah, definitely. There are loads of cars on the roads, especially during rush hour. In the morning and late afternoon, some main roads can get really packed, and traffic just moves at a snail’s pace. I mean, sometimes a trip that should take twenty minutes can easily take forty. So I’d say traffic is a pretty common problem where I live."
+    ],
+    "key_phrases": [
+      "loads of cars",
+      "rush hour",
+      "get really packed",
+      "moves at a snail’s pace",
+      "a pretty common problem"
+    ]
+  },
+  {
+    "id": "ans_0031",
+    "part": "P1",
+    "topic": "Cars",
+    "question": "Do you want to own a very expensive car?",
+    "linked_question_ids": ["q_0136"],
+    "paragraphs": [
+      "Not really. I mean, expensive cars look nice, but I don’t think I’d go out of my way to buy one. For me, a car is more of a practical tool than a status symbol. As long as it’s safe, comfortable, and doesn’t break down all the time, I’m happy. Plus, a luxury car can be expensive to maintain, so I’d rather spend that money on travel or something more meaningful."
+    ],
+    "key_phrases": [
+      "go out of my way",
+      "a practical tool",
+      "a status symbol",
+      "break down",
+      "expensive to maintain",
+      "something more meaningful"
+    ]
+  },
+  {
+    "id": "ans_0032",
+    "part": "P1",
+    "topic": "Clothes",
+    "question": "What kind of clothes do you like to wear?",
+    "linked_question_ids": ["q_0137"],
+    "paragraphs": [
+      "I usually go for casual and comfortable clothes, like hoodies, T-shirts, jeans, or loose trousers. I don’t really like outfits that feel too tight or high-maintenance. I guess my style is pretty simple, but I still want to look put-together, not like I just rolled out of bed. So comfort comes first, but I do care a bit about whether the colours and fit look nice."
+    ],
+    "key_phrases": [
+      "casual and comfortable clothes",
+      "high-maintenance",
+      "look put-together",
+      "rolled out of bed",
+      "comfort comes first"
+    ]
+  },
+  {
+    "id": "ans_0033",
+    "part": "P1",
+    "topic": "Clothes",
+    "question": "Do you wear different clothes on the weekend?",
+    "linked_question_ids": ["q_0138"],
+    "paragraphs": [
+      "Yeah, kind of. On weekdays, I usually dress a bit more neatly, especially if I need to work or meet people. But on weekends, I’m much more relaxed. I might wear an oversized hoodie, sweatpants, or something really soft and easy. If I’m just staying at home or going out for coffee, I don’t want to overthink my outfit. I just want to feel comfortable and switch off a bit."
+    ],
+    "key_phrases": [
+      "dress a bit more neatly",
+      "an oversized hoodie",
+      "overthink my outfit",
+      "feel comfortable",
+      "switch off a bit"
+    ]
+  },
+  {
+    "id": "ans_0034",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "question": "What are the key factors for achieving success in business?",
+    "linked_question_ids": ["q_0208"],
+    "paragraphs": [
+      "I’d say there are several factors, but the most important one is understanding what customers actually need. A lot of people think business success is all about money or a brilliant idea, but honestly, that’s not enough.",
+      "The thing is, if a business misreads the market, even a beautiful product may not sell well. Take a small coffee shop as an example. It may have nice decoration, but if the drinks are average, the prices are too high, and the service is slow, customers probably won’t come back. On the other hand, if the owner listens to feedback, adjusts the menu, and keeps the quality consistent, the shop is more likely to build a loyal customer base.",
+      "So overall, I think the key factors are clear market demand, patience, and the ability to adapt. Without those, it’s quite hard for a business to survive in the long run."
+    ],
+    "key_phrases": [
+      "understanding what customers actually need",
+      "a brilliant idea",
+      "misreads the market",
+      "listens to feedback",
+      "adjusts the menu",
+      "keeps the quality consistent",
+      "build a loyal customer base",
+      "clear market demand",
+      "the ability to adapt",
+      "survive in the long run"
+    ]
+  },
+  {
+    "id": "ans_0035",
+    "part": "P3",
+    "topic": "完美的工作",
+    "question": "In what ways do coworkers influence people’s work habits and performance?",
+    "linked_question_ids": ["q_0362"],
+    "paragraphs": [
+      "I think coworkers can have a huge influence, sometimes more than people realize. The people around you can either lift you up or drag you down. Let’s say you work with people who are organized, responsible, and willing to share useful experience. You naturally start to pick up good work habits.",
+      "A common situation is when a new employee joins a company and feels completely lost at first. If a coworker explains the workflow, reminds them of deadlines, and gives practical tips, that person will probably feel more confident and perform better. But the opposite can also happen. If coworkers are always complaining, delaying tasks, or blaming others, that attitude can rub off on others and affect the whole team’s productivity.",
+      "So yes, coworkers can shape not only how people work, but also how they feel at work."
+    ],
+    "key_phrases": [
+      "have a huge influence",
+      "lift you up or drag you down",
+      "share useful experience",
+      "pick up good work habits",
+      "explains the workflow",
+      "reminds them of deadlines",
+      "gives practical tips",
+      "rub off on others",
+      "the whole team’s productivity"
+    ]
+  },
+  {
+    "id": "ans_0036",
+    "part": "P3",
+    "topic": "经常做计划的人",
+    "question": "What are the advantages for young people of planning their future careers?",
+    "linked_question_ids": ["q_0438"],
+    "paragraphs": [
+      "I’d say career planning is useful because it gives young people a clearer sense of direction. It doesn’t mean they have to decide their whole life at the age of eighteen, but at least they know what to prepare for.",
+      "Take someone who wants to work for an international company as an example. They may start improving their English, looking for internships, and gaining relevant experience while they are still at university. This way, when they finally enter the job market, they won’t feel completely lost.",
+      "Also, having a rough plan can help young people avoid wasting time on random choices. So overall, career planning can make them more focused, more motivated, and better prepared for future opportunities."
+    ],
+    "key_phrases": [
+      "a clearer sense of direction",
+      "what to prepare for",
+      "looking for internships",
+      "gaining relevant experience",
+      "enter the job market",
+      "feel completely lost",
+      "a rough plan",
+      "future opportunities"
+    ]
+  },
+  {
+    "id": "ans_0037",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "question": "Do you agree or disagree that many people will lose their jobs because of AI?",
+    "linked_question_ids": ["q_0387"],
+    "paragraphs": [
+      "I partly agree. I do think AI will replace some jobs, especially those involving repetitive tasks or routine paperwork. A simple example would be basic customer service, simple data entry, or formulaic writing, which can already be done by AI tools pretty quickly.",
+      "That said, I don’t think everyone should panic. AI may take over some tasks, but it can also create new types of work. The real issue is whether people are willing to keep upgrading their skills.",
+      "For instance, an office worker who knows how to use AI to summarize documents, draft emails, or organize information may actually become more efficient, not less valuable. So overall, I think AI will definitely change the job market, but it won’t simply remove all human jobs. People who can work alongside AI tools will probably have a better chance of staying competitive."
+    ],
+    "key_phrases": [
+      "repetitive tasks",
+      "routine paperwork",
+      "basic customer service",
+      "formulaic writing",
+      "take over some tasks",
+      "create new types of work",
+      "keep upgrading their skills",
+      "summarize documents",
+      "change the job market",
+      "work alongside AI tools",
+      "staying competitive"
+    ]
+  },
+  {
+    "id": "ans_0038",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "question": "What is the difference between the food people eat on special festivals and the food they eat every day?",
+    "linked_question_ids": ["q_0170"],
+    "paragraphs": [
+      "To be honest, I don’t think the difference is as big as it used to be. These days, because people’s living standards have improved, many families can eat pretty good food even on normal days. Things like fish, meat, seafood, or desserts are not only saved for festivals anymore.",
+      "That said, festival food still feels different because of the meaning and the atmosphere around it. On a normal day, people may just want something quick, filling, and easy to put together. But during festivals, even if the ingredients are similar, the food is usually prepared more carefully and shared with more people. A whole fish, a big chicken dish, or a pot of lamb hot pot can make the table feel more like a proper family feast. So I’d say the gap is smaller now, but festival meals still have a stronger sense of occasion."
+    ],
+    "key_phrases": [
+      "as big as it used to be",
+      "living standards have improved",
+      "the meaning and the atmosphere",
+      "quick, filling, and easy to put together",
+      "prepared more carefully",
+      "a proper family feast",
+      "a stronger sense of occasion"
+    ]
+  },
+  {
+    "id": "ans_0039",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "question": "Do people prefer to eat out or eat at home?",
+    "linked_question_ids": ["q_0171"],
+    "paragraphs": [
+      "I’d say it really depends on the person and their lifestyle. Younger people, especially office workers who are snowed under with work, often prefer eating out or ordering takeaway because it is just more convenient. After a long day, they may not have the energy to chop vegetables, wash dishes, and clean up the kitchen, so delivery feels like a total lifesaver.",
+      "That said, older people and families often prefer eating at home because it is more economical and usually healthier. Home-cooked meals also feel more personal because you can tailor the food to your own taste and keep things fairly balanced. Still, even people who love cooking may eat out for birthdays, dates, or family gatherings. So I would say most people in China do a mix of both, depending on their schedule and mood."
+    ],
+    "key_phrases": [
+      "snowed under with work",
+      "ordering takeaway",
+      "a total lifesaver",
+      "more economical",
+      "home-cooked meals",
+      "tailor the food to your own taste",
+      "keep things fairly balanced",
+      "depending on their schedule and mood"
+    ]
+  },
+  {
+    "id": "ans_0040",
+    "part": "P3",
+    "topic": "想实施的环保法律",
+    "question": "Why should students learn to follow rules from an early age?",
+    "linked_question_ids": ["q_0296"],
+    "paragraphs": [
+      "I’d say children should learn this quite early because rules help them build a sense of boundaries. When kids are very young, they may only think about what they want, and they don’t always think through the consequences. Like, a child may cut in line in the school canteen because they want lunch quickly. If the teacher gently reminds them to wait their turn, they slowly realise that other people are waiting too. So rules are not just about making children obedient, they teach kids self-control and help them get along with others."
+    ],
+    "key_phrases": [
+      "build a sense of boundaries",
+      "think through the consequences",
+      "cut in line",
+      "wait their turn",
+      "self-control",
+      "get along with others"
+    ]
+  },
+  {
+    "id": "ans_0041",
+    "part": "P3",
+    "topic": "想实施的环保法律",
+    "question": "What rules do schools have in your country?",
+    "linked_question_ids": ["q_0299"],
+    "paragraphs": [
+      "In China, most schools have quite a few basic rules, mainly about discipline, safety, and study habits. Students usually have to wear school uniforms, arrive on time, hand in homework before the deadline, and keep their phones away during lessons. The uniform rule is actually quite practical, because some students are pretty into comparing outfits or brand labels, and without a uniform they may spend ages deciding what to wear before class. Phone rules are similar. If a whole class keeps checking WeChat or Douyin, the teacher has to keep pulling everyone’s attention back, and the whole class loses its rhythm. So some rules may feel a bit on the strict side, but they do help the school run smoothly."
+    ],
+    "key_phrases": [
+      "wear school uniforms",
+      "hand in homework before the deadline",
+      "keep their phones away",
+      "spend ages deciding what to wear",
+      "pulling everyone’s attention back",
+      "the whole class loses its rhythm",
+      "on the strict side",
+      "help the school run smoothly"
+    ]
+  },
+  {
+    "id": "ans_0042",
+    "part": "P3",
+    "topic": "当地新闻",
+    "question": "Do you think it is important to have a national identity?",
+    "linked_question_ids": ["q_0225"],
+    "paragraphs": [
+      "Yes, I think it is important, as long as it doesn’t turn into blind pride or looking down on other cultures. A healthy national identity gives people a shared sense of belonging, and it helps them understand where they come from.",
+      "Take major public moments as an example. When there is a big sports event, a natural disaster, or even a traditional festival, people may suddenly feel that they are not just separate individuals. They are part of the same community, with some shared memories and responsibilities. This can make people more willing to protect their culture, care about public issues, and help others when something happens.",
+      "So overall, national identity is not about saying one country is perfect. It is more about having a sense of connection and knowing what values and traditions have shaped you."
+    ],
+    "key_phrases": [
+      "blind pride",
+      "looking down on other cultures",
+      "a shared sense of belonging",
+      "where they come from",
+      "shared memories and responsibilities",
+      "a sense of connection",
+      "values and traditions"
+    ]
+  },
+  {
+    "id": "ans_0043",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "question": "What are the benefits for young people of working in another country for a short time?",
+    "linked_question_ids": ["q_0456"],
+    "paragraphs": [
+      "Well, I’d say the biggest benefit is that it can push young people out of their comfort zone. When they work abroad, even just for a few months, they have to deal with a new language, a different workplace culture, and everyday problems on their own. Like, imagine a student doing an internship in Singapore or Australia. They may need to join meetings in English, work with people from different backgrounds, and figure out things like rent, transport, or office rules by themselves. These experiences can make them more independent and adaptable, which is hard to learn from textbooks. So overall, a short working experience abroad can really help young people grow up a bit faster."
+    ],
+    "key_phrases": [
+      "push young people out of their comfort zone",
+      "work abroad",
+      "a different workplace culture",
+      "doing an internship",
+      "join meetings in English",
+      "people from different backgrounds",
+      "more independent and adaptable",
+      "grow up a bit faster"
+    ]
+  },
+  {
+    "id": "ans_0044",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "question": "Should parents limit their children’s screen time?",
+    "linked_question_ids": ["q_0231"],
+    "paragraphs": [
+      "Yes, definitely, but I think it should be done in a reasonable way, not like a complete ban. The thing is, children are still at a stage where they soak up almost everything around them, and screens can easily shape their habits without them even noticing. If a child spends hours scrolling through short videos or playing games, they may find it harder to focus, sleep properly, or enjoy offline activities. So parents do need to set clear boundaries, like no phones during meals or before bedtime. That said, I don’t think parents should control every tiny choice. Screens can also be useful for learning or relaxing. So the key is to guide children, lead by example, and help them build a healthier relationship with technology."
+    ],
+    "key_phrases": [
+      "in a reasonable way",
+      "a complete ban",
+      "soak up almost everything around them",
+      "shape their habits",
+      "scrolling through short videos",
+      "set clear boundaries",
+      "control every tiny choice",
+      "lead by example",
+      "a healthier relationship with technology"
+    ]
+  },
+  {
+    "id": "ans_0045",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "question": "What important decisions do teenagers need to make after graduation?",
+    "linked_question_ids": ["q_0306"],
+    "paragraphs": [
+      "I’d say one of the biggest decisions is what path they want to take next, like whether to go to university, learn a practical skill, start working, or even take a gap year. It sounds simple, but it can feel really heavy because teenagers are still figuring out who they are and what kind of life they want. A lot of them may choose a major just because it sounds cool, or because their friends are doing it, without really knowing whether it actually suits them. On top of that, they may also need to decide where to live, how to manage money, and how independent they want to become. So after graduation, it’s not just one decision. It’s more like the first real step into adult life."
+    ],
+    "key_phrases": [
+      "what path they want to take next",
+      "learn a practical skill",
+      "take a gap year",
+      "figuring out who they are",
+      "whether it actually suits them",
+      "manage money",
+      "the first real step into adult life"
+    ]
+  },
+  {
+    "id": "ans_0046",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "question": "Do elderly people have better control over their feelings compared to young people?",
+    "linked_question_ids": ["q_0367"],
+    "paragraphs": [
+      "Generally speaking, yes, older people often seem better at keeping their emotions under control, but I don’t think it’s simply because of age. It’s more about life experience. Many elderly people have gone through family conflicts, health problems, financial pressure, and all kinds of ups and downs, so they may have learned that not every problem is worth a big reaction. If something annoying happens, they are more likely to pause for a second, take a step back, and think, “Is this really such a big deal?”",
+      "Young people, on the other hand, are often still learning how to deal with pressure. They may blow things out of proportion when they get a bad grade, have an argument with a friend, or see negative comments online. Sometimes they also get carried away by emotions, so they say things in the heat of the moment and regret them later. That said, personality still matters. Some older people can be quite sensitive, while some young people are already very calm and grounded."
+    ],
+    "key_phrases": [
+      "keeping their emotions under control",
+      "life experience",
+      "ups and downs",
+      "pause for a second",
+      "take a step back",
+      "blow things out of proportion",
+      "get carried away by emotions",
+      "in the heat of the moment",
+      "calm and grounded"
+    ]
+  },
+  {
+    "id": "ans_0047",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "question": "Why do older people sometimes ask younger people for advice?",
+    "linked_question_ids": ["q_0463"],
+    "paragraphs": [
+      "I suppose it’s mainly because young people are usually better with new technology and more familiar with how things work these days. It doesn’t mean older people are less wise or anything. It’s just that life has become so digital now, and some everyday tasks can be pretty confusing if you didn’t grow up using apps.",
+      "Like, an older person might ask their child or grandchild how to set up mobile payment, book a doctor’s appointment online, choose a phone plan, or check whether a weird text message is a scam. Sometimes they don’t need a big lecture; they just need someone to say, “Tap here, don’t click that link, and don’t give out your password.”",
+      "And I think there’s also an emotional side to it. Asking for advice gives them a reason to chat with younger family members, and it helps them keep up with the world without feeling left behind. So yeah, younger people may know more about new tools, while older people still have more life experience. It goes both ways."
+    ],
+    "key_phrases": [
+      "better with new technology",
+      "grow up using apps",
+      "set up mobile payment",
+      "book a doctor’s appointment online",
+      "a scam",
+      "an emotional side to it",
+      "keep up with the world",
+      "feeling left behind",
+      "it goes both ways"
+    ]
+  },
+  {
+    "id": "ans_0048",
+    "part": "P2",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "question": "Describe a bicycle trip that you think would be interesting.",
+    "linked_question_ids": ["q_0409"],
+    "paragraphs": [
+      "I’d like to talk about a bicycle trip that I think would be really fascinating. It wouldn’t be a super long journey, but I’m sure it would help me chill out and reset a little.",
+      "Lately, I’ve been feeling pretty drained because I’ve been completely swamped with work, so I’ve really been craving a relaxing bike ride with a couple of my closest friends.",
+      "I’m planning to do it in spring here in Hangzhou, which is where I’m living right now. I feel like cycling around and noticing all the small changes in the scenery along the way would be such a great pick-me-up. When you’re on a bike, you naturally move at a slower pace, which means you actually get to take everything in.",
+      "You might pass by tulips along the road, or even just see people smiling more in the springtime. It’s honestly like a breath of fresh air; it just makes you feel calmer and more refreshed.",
+      "And the sunshine in spring is really gentle. You can kind of soak it up as it filters through the leaves and falls on your face, which feels pretty peaceful and almost breathtaking.",
+      "Hangzhou is also fairly flat, so you don’t have to worry about steep hills or difficult roads. You can just ride comfortably, enjoy the fresh air, and feel much closer to nature.",
+      "In spring, everything turns greener, flowers start blooming, and there’s this really fresh, comforting smell in the air. The whole city feels more alive, and it instantly puts me at ease.",
+      "I can imagine stopping here and there, maybe grabbing a bite at my favourite Japanese restaurant, or simply enjoying the view for a moment.",
+      "The trip might be a little tiring, but I’m sure it would be totally worth it. I’d probably take a few photos, maybe something Instagrammable, and share them online.",
+      "Overall, it would give me a real sense of freedom, like I can just let go of all my stress for a while."
+    ],
+    "key_phrases": [
+      "a super long journey",
+      "chill out and reset",
+      "swamped with work",
+      "a relaxing bike ride",
+      "small changes in the scenery",
+      "a great pick-me-up",
+      "move at a slower pace",
+      "take everything in",
+      "a breath of fresh air",
+      "soak it up",
+      "filters through the leaves",
+      "feel much closer to nature",
+      "puts me at ease",
+      "grabbing a bite",
+      "totally worth it",
+      "a real sense of freedom",
+      "let go of all my stress"
+    ]
+  }
+]

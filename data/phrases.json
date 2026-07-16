@@ -1,0 +1,5378 @@
+[
+  {
+    "id": "ph_0001",
+    "category": "空闲时间与放松",
+    "cn": "被工作/课程压得喘不过气",
+    "en": "be snowed under with work/classes"
+  },
+  {
+    "id": "ph_0002",
+    "category": "空闲时间与放松",
+    "cn": "没力气做任何有产出的事",
+    "en": "I don't have the energy to do anything productive"
+  },
+  {
+    "id": "ph_0003",
+    "category": "空闲时间与放松",
+    "cn": "有点宅 / 有点爱瘫着",
+    "en": "be a bit of a couch potato"
+  },
+  {
+    "id": "ph_0004",
+    "category": "空闲时间与放松",
+    "cn": "刷社交媒体",
+    "en": "scroll through social media"
+  },
+  {
+    "id": "ph_0005",
+    "category": "空闲时间与放松",
+    "cn": "狂刷最近上头的剧",
+    "en": "binge-watch whatever drama I'm into"
+  },
+  {
+    "id": "ph_0006",
+    "category": "空闲时间与放松",
+    "cn": "在沙发上放空",
+    "en": "zone out on the couch"
+  },
+  {
+    "id": "ph_0007",
+    "category": "空闲时间与放松",
+    "cn": "放点音乐，拿点零食",
+    "en": "put on some music and grab a snack"
+  },
+  {
+    "id": "ph_0008",
+    "category": "空闲时间与放松",
+    "cn": "让脑子暂时关机一下",
+    "en": "let my brain switch off for a bit"
+  },
+  {
+    "id": "ph_0009",
+    "category": "空闲时间与放松",
+    "cn": "快速放松回血的方式",
+    "en": "a quick way to wind down and recharge"
+  },
+  {
+    "id": "ph_0010",
+    "category": "空闲时间与放松",
+    "cn": "很喜欢阅读（也可以说别的）",
+    "en": "be really into reading"
+  },
+  {
+    "id": "ph_0011",
+    "category": "空闲时间与放松",
+    "cn": "抓拍别人很自然的瞬间",
+    "en": "take candid shots of people"
+  },
+  {
+    "id": "ph_0012",
+    "category": "空闲时间与放松",
+    "cn": "完全沉浸在故事 / 书里",
+    "en": "get completely lost in a story/book"
+  },
+  {
+    "id": "ph_0013",
+    "category": "空闲时间与放松",
+    "cn": "完全上头 / 入迷",
+    "en": "be totally hooked"
+  },
+  {
+    "id": "ph_0014",
+    "category": "空闲时间与放松",
+    "cn": "需要一个安静空间慢下来",
+    "en": "need a quiet space to slow down"
+  },
+  {
+    "id": "ph_0015",
+    "category": "空闲时间与放松",
+    "cn": "在我的愿望清单里很久了",
+    "en": "They have been on my bucket list for ages"
+  },
+  {
+    "id": "ph_0016",
+    "category": "空闲时间与放松",
+    "cn": "报一个新手友好的课",
+    "en": "sign up for a beginner-friendly class"
+  },
+  {
+    "id": "ph_0017",
+    "category": "空闲时间与放松",
+    "cn": "用手做东西",
+    "en": "work with my hands"
+  },
+  {
+    "id": "ph_0018",
+    "category": "空闲时间与放松",
+    "cn": "沉浸在一件小事里",
+    "en": "get absorbed in one small thing"
+  },
+  {
+    "id": "ph_0019",
+    "category": "空闲时间与放松",
+    "cn": "先试试水",
+    "en": "test the waters first"
+  },
+  {
+    "id": "ph_0020",
+    "category": "空闲时间与放松",
+    "cn": "一个不错的创造力出口",
+    "en": "be a nice creative outlet"
+  },
+  {
+    "id": "ph_0021",
+    "category": "空闲时间与放松",
+    "cn": "把我从精神卡顿（坏状态）里拉出来",
+    "en": "pull me out of a mental rut"
+  },
+  {
+    "id": "ph_0022",
+    "category": "空闲时间与放松",
+    "cn": "和别人一起分享那种氛围",
+    "en": "share the vibe with someone"
+  },
+  {
+    "id": "ph_0023",
+    "category": "空闲时间与放松",
+    "cn": "感觉精神被掏空",
+    "en": "feel mentally drained"
+  },
+  {
+    "id": "ph_0024",
+    "category": "空闲时间与放松",
+    "cn": "感觉平静、踏实",
+    "en": "feel calm and grounded"
+  },
+  {
+    "id": "ph_0025",
+    "category": "食物喜好",
+    "cn": "炸薯条、麦当劳、炸鸡块、汉堡和冰淇淋",
+    "en": "French fries, McDonald’s, fried chicken nuggets, hamburgers, and ice cream"
+  },
+  {
+    "id": "ph_0026",
+    "category": "食物喜好",
+    "cn": "方便面、火锅、红肉和蔬菜",
+    "en": "instant noodles, hot pot, red meat, and vegetables"
+  },
+  {
+    "id": "ph_0027",
+    "category": "食物喜好",
+    "cn": "安慰食物（让你感觉更好、更舒适的食物）",
+    "en": "comfort food"
+  },
+  {
+    "id": "ph_0028",
+    "category": "食物喜好",
+    "cn": "对你有益的食物",
+    "en": "foods that are good for you"
+  },
+  {
+    "id": "ph_0029",
+    "category": "食物喜好",
+    "cn": "喜欢吃巧克力作为零食",
+    "en": "enjoy snacking on chocolate"
+  },
+  {
+    "id": "ph_0030",
+    "category": "食物喜好",
+    "cn": "垃圾食品",
+    "en": "junk food"
+  },
+  {
+    "id": "ph_0031",
+    "category": "食物喜好",
+    "cn": "我受不了西兰花和胡萝卜",
+    "en": "I can’t stand broccoli and carrots"
+  },
+  {
+    "id": "ph_0032",
+    "category": "食物喜好",
+    "cn": "我觉得它们味道单调，不是我喜欢的东西 / 我觉得它们味道无聊，不喜欢",
+    "en": "I find them pretty bland and not something I enjoy / I think they taste boring and I don’t like them"
+  },
+  {
+    "id": "ph_0033",
+    "category": "食物喜好",
+    "cn": "有时候我很难忍受它们",
+    "en": "It’s tough for me to put up with them sometimes"
+  },
+  {
+    "id": "ph_0034",
+    "category": "食物喜好",
+    "cn": "不太喜欢（鱼或虾）",
+    "en": "not a huge fan of (fish or shrimp)"
+  },
+  {
+    "id": "ph_0035",
+    "category": "食物喜好",
+    "cn": "主要是味道让我受不了 / 味道是我不喜欢它们的主要原因",
+    "en": "it’s mainly the smell that gets to me / the smell is the main reason I don’t like them"
+  },
+  {
+    "id": "ph_0036",
+    "category": "食物喜好",
+    "cn": "觉得味道有点重 / 对我来说味道太浓",
+    "en": "find it a bit too much / it’s too strong for me"
+  },
+  {
+    "id": "ph_0037",
+    "category": "情绪和食物",
+    "cn": "当我感到有点压力大或不开心时，我会选择……",
+    "en": "when I’m feeling a bit stressed or down, I’d go for... / When I’m feeling bad, I’d eat..."
+  },
+  {
+    "id": "ph_0038",
+    "category": "情绪和食物",
+    "cn": "因为做某事而自责",
+    "en": "beat oneself up over doing sth / feel bad about doing something"
+  },
+  {
+    "id": "ph_0039",
+    "category": "情绪和食物",
+    "cn": "吃它们对我来说是一种特别的享受",
+    "en": "eating them feels like a special treat to me"
+  },
+  {
+    "id": "ph_0040",
+    "category": "情绪和食物",
+    "cn": "外出就餐、随便吃点零食或点外卖",
+    "en": "eating out, grabbing a quick snack, or ordering takeaway"
+  },
+  {
+    "id": "ph_0041",
+    "category": "营养健康",
+    "cn": "提供长期的健康益处",
+    "en": "provide long-term health benefits / be good for long-term health"
+  },
+  {
+    "id": "ph_0042",
+    "category": "营养健康",
+    "cn": "对心脏 / 大脑健康有益",
+    "en": "be great for heart/brain health"
+  },
+  {
+    "id": "ph_0043",
+    "category": "营养健康",
+    "cn": "保持我的饮食平衡和健康",
+    "en": "keep my diet fairly balanced and wholesome / eat a well-balanced diet"
+  },
+  {
+    "id": "ph_0044",
+    "category": "营养健康",
+    "cn": "它帮助重置我的身体，让我感觉更有活力 / 更好",
+    "en": "It helps reset my body and feel more energized / It helps me feel better"
+  },
+  {
+    "id": "ph_0045",
+    "category": "手机用途",
+    "cn": "用手机社交、娱乐",
+    "en": "use their phones to socialize and have fun"
+  },
+  {
+    "id": "ph_0046",
+    "category": "手机用途",
+    "cn": "刷社交媒体",
+    "en": "scroll through social media"
+  },
+  {
+    "id": "ph_0047",
+    "category": "手机用途",
+    "cn": "短视频平台",
+    "en": "short video platforms"
+  },
+  {
+    "id": "ph_0048",
+    "category": "手机用途",
+    "cn": "很短的小视频 / 快速视频片段",
+    "en": "quick clips"
+  },
+  {
+    "id": "ph_0049",
+    "category": "手机用途",
+    "cn": "跟上潮流 / 了解流行趋势",
+    "en": "keep up with trends"
+  },
+  {
+    "id": "ph_0050",
+    "category": "手机用途",
+    "cn": "和朋友保持联系",
+    "en": "keep in touch with friends"
+  },
+  {
+    "id": "ph_0051",
+    "category": "手机用途",
+    "cn": "转发有趣的视频",
+    "en": "repost funny videos"
+  },
+  {
+    "id": "ph_0052",
+    "category": "手机用途",
+    "cn": "发梗图 / 表情包",
+    "en": "send memes"
+  },
+  {
+    "id": "ph_0053",
+    "category": "手机用途",
+    "cn": "分享只有熟人懂的小玩笑",
+    "en": "share little inside jokes"
+  },
+  {
+    "id": "ph_0054",
+    "category": "手机用途",
+    "cn": "修图 / 编辑照片",
+    "en": "edit their photos"
+  },
+  {
+    "id": "ph_0055",
+    "category": "手机用途",
+    "cn": "把脸修得更瘦一点",
+    "en": "make their face look slimmer"
+  },
+  {
+    "id": "ph_0056",
+    "category": "手机用途",
+    "cn": "加滤镜",
+    "en": "add filters"
+  },
+  {
+    "id": "ph_0057",
+    "category": "手机用途",
+    "cn": "磨皮 / 把皮肤修得更光滑",
+    "en": "smooth out one’s skin before posting photos"
+  },
+  {
+    "id": "ph_0058",
+    "category": "手机用途",
+    "cn": "让照片看起来更好看",
+    "en": "make the picture look better"
+  },
+  {
+    "id": "ph_0059",
+    "category": "手机用途",
+    "cn": "用手机听流媒体音乐",
+    "en": "use their phones to stream music"
+  },
+  {
+    "id": "ph_0060",
+    "category": "手机用途",
+    "cn": "像 Apple Music 或 Spotify 这样的音乐软件",
+    "en": "music apps like Apple Music or Spotify"
+  },
+  {
+    "id": "ph_0061",
+    "category": "手机用途",
+    "cn": "播放歌单",
+    "en": "put on playlists"
+  },
+  {
+    "id": "ph_0062",
+    "category": "手机用途",
+    "cn": "家庭近况 / 家里人的动态",
+    "en": "family updates"
+  },
+  {
+    "id": "ph_0063",
+    "category": "手机用途",
+    "cn": "健康小知识 / 养生建议",
+    "en": "health tips"
+  },
+  {
+    "id": "ph_0064",
+    "category": "手机用途",
+    "cn": "AI 生成的视频",
+    "en": "AI-generated videos"
+  },
+  {
+    "id": "ph_0065",
+    "category": "手机用途",
+    "cn": "很依赖手机",
+    "en": "rely on their phones"
+  },
+  {
+    "id": "ph_0066",
+    "category": "手机用途",
+    "cn": "看新闻",
+    "en": "watch the news"
+  },
+  {
+    "id": "ph_0067",
+    "category": "手机用途",
+    "cn": "在家庭群里发问候",
+    "en": "send greetings in family chat groups"
+  },
+  {
+    "id": "ph_0068",
+    "category": "手机用途",
+    "cn": "打视频电话或语音电话",
+    "en": "make video and voice calls"
+  },
+  {
+    "id": "ph_0069",
+    "category": "手机用途",
+    "cn": "了解、跟进孩子和孙辈的生活",
+    "en": "keep up with their children and grandchildren"
+  },
+  {
+    "id": "ph_0070",
+    "category": "手机用途",
+    "cn": "听音乐或有声书",
+    "en": "listen to music or audiobooks"
+  },
+  {
+    "id": "ph_0071",
+    "category": "手机用途",
+    "cn": "外放 / 放得比较大声",
+    "en": "play it out loud"
+  },
+  {
+    "id": "ph_0072",
+    "category": "手机用途",
+    "cn": "放松一下 / 打发时间",
+    "en": "relax or pass the time"
+  },
+  {
+    "id": "ph_0073",
+    "category": "手机用途",
+    "cn": "了解信息 / 掌握时事",
+    "en": "stay informed"
+  },
+  {
+    "id": "ph_0074",
+    "category": "手机用途",
+    "cn": "和家人保持联系",
+    "en": "stay connected with family"
+  },
+  {
+    "id": "ph_0075",
+    "category": "无聊状态与注意力",
+    "cn": "无聊死了",
+    "en": "feel bored to death"
+  },
+  {
+    "id": "ph_0076",
+    "category": "无聊状态与注意力",
+    "cn": "脑子卡住了",
+    "en": "feel mentally stuck"
+  },
+  {
+    "id": "ph_0077",
+    "category": "无聊状态与注意力",
+    "cn": "上课走神",
+    "en": "zone out in class"
+  },
+  {
+    "id": "ph_0078",
+    "category": "无聊状态与注意力",
+    "cn": "失去注意力",
+    "en": "lose focus"
+  },
+  {
+    "id": "ph_0079",
+    "category": "无聊状态与注意力",
+    "cn": "很难保持投入",
+    "en": "struggle to stay engaged"
+  },
+  {
+    "id": "ph_0080",
+    "category": "无聊状态与注意力",
+    "cn": "硬听完一节很长的课",
+    "en": "sit through a long lecture"
+  },
+  {
+    "id": "ph_0081",
+    "category": "无聊状态与注意力",
+    "cn": "觉得时间过得特别慢",
+    "en": "feel like time is dragging"
+  },
+  {
+    "id": "ph_0082",
+    "category": "无聊状态与注意力",
+    "cn": "（如讲座）又臭又长",
+    "en": "it drags"
+  },
+  {
+    "id": "ph_0083",
+    "category": "无聊状态与注意力",
+    "cn": "陷在重复的日常里",
+    "en": "be stuck in a rut"
+  },
+  {
+    "id": "ph_0084",
+    "category": "无聊状态与注意力",
+    "cn": "给生活加点变化",
+    "en": "shake things up a bit"
+  },
+  {
+    "id": "ph_0085",
+    "category": "无聊状态与注意力",
+    "cn": "换个方式 / 换个状态",
+    "en": "switch things up"
+  },
+  {
+    "id": "ph_0086",
+    "category": "无聊状态与注意力",
+    "cn": "出去快速走一走",
+    "en": "go for a quick walk"
+  },
+  {
+    "id": "ph_0087",
+    "category": "无聊状态与注意力",
+    "cn": "放点音乐",
+    "en": "put on some music"
+  },
+  {
+    "id": "ph_0088",
+    "category": "无聊状态与注意力",
+    "cn": "刷几分钟手机",
+    "en": "scroll for a few minutes"
+  },
+  {
+    "id": "ph_0089",
+    "category": "无聊状态与注意力",
+    "cn": "做点低成本的事",
+    "en": "do something low-effort"
+  },
+  {
+    "id": "ph_0090",
+    "category": "无聊状态与注意力",
+    "cn": "让大脑快速重启一下",
+    "en": "give my brain a quick reset"
+  },
+  {
+    "id": "ph_0091",
+    "category": "无聊状态与注意力",
+    "cn": "把自己从那种状态里拉出来",
+    "en": "pull myself out of that mood"
+  },
+  {
+    "id": "ph_0092",
+    "category": "无聊状态与注意力",
+    "cn": "被迫背知识点",
+    "en": "be forced to memorise facts"
+  },
+  {
+    "id": "ph_0093",
+    "category": "无聊状态与注意力",
+    "cn": "填鸭式教育 / 临时抱佛脚",
+    "en": "rote memorization / cramming"
+  },
+  {
+    "id": "ph_0094",
+    "category": "无聊状态与注意力",
+    "cn": "不知道它和现实有什么关系",
+    "en": "have no idea how it connects to real life"
+  },
+  {
+    "id": "ph_0095",
+    "category": "无聊状态与注意力",
+    "cn": "被动记笔记",
+    "en": "passively take notes"
+  },
+  {
+    "id": "ph_0096",
+    "category": "无聊状态与注意力",
+    "cn": "抄黑板",
+    "en": "copy things from the board"
+  },
+  {
+    "id": "ph_0097",
+    "category": "无聊状态与注意力",
+    "cn": "被老师讲几个小时",
+    "en": "be lectured at for hours"
+  },
+  {
+    "id": "ph_0098",
+    "category": "无聊状态与注意力",
+    "cn": "单向灌输式教学",
+    "en": "one-way teaching"
+  },
+  {
+    "id": "ph_0099",
+    "category": "无聊状态与注意力",
+    "cn": "干巴巴的课本内容",
+    "en": "dry textbook content"
+  },
+  {
+    "id": "ph_0100",
+    "category": "无聊状态与注意力",
+    "cn": "把学生好奇心磨没",
+    "en": "kill / stifle students' curiosity"
+  },
+  {
+    "id": "ph_0101",
+    "category": "无聊状态与注意力",
+    "cn": "让学生自己动手 / 更实践",
+    "en": "get students doing things themselves"
+  },
+  {
+    "id": "ph_0102",
+    "category": "无聊状态与注意力",
+    "cn": "用真实生活例子",
+    "en": "use real-life examples"
+  },
+  {
+    "id": "ph_0103",
+    "category": "无聊状态与注意力",
+    "cn": "让学生自己琢磨出来",
+    "en": "let students figure things out"
+  },
+  {
+    "id": "ph_0104",
+    "category": "无聊状态与注意力",
+    "cn": "把它变成讨论",
+    "en": "turn it into a discussion"
+  },
+  {
+    "id": "ph_0105",
+    "category": "无聊状态与注意力",
+    "cn": "和学生生活联系起来",
+    "en": "relate it to students' lives"
+  },
+  {
+    "id": "ph_0106",
+    "category": "无聊状态与注意力",
+    "cn": "激发好奇心",
+    "en": "spark their curiosity"
+  },
+  {
+    "id": "ph_0107",
+    "category": "无聊状态与注意力",
+    "cn": "让它没那么抽象 / 更容易理解",
+    "en": "make it easier to understand"
+  },
+  {
+    "id": "ph_0108",
+    "category": "网络与学习",
+    "cn": "更倾向用网站",
+    "en": "I gravitate toward websites"
+  },
+  {
+    "id": "ph_0109",
+    "category": "网络与学习",
+    "cn": "省很多麻烦",
+    "en": "save me a lot of hassle"
+  },
+  {
+    "id": "ph_0110",
+    "category": "网络与学习",
+    "cn": "上网查某个东西",
+    "en": "look something up online"
+  },
+  {
+    "id": "ph_0111",
+    "category": "网络与学习",
+    "cn": "查语法点 / 餐厅评价 / 旅行建议",
+    "en": "check a grammar point / restaurant reviews / travel tips"
+  },
+  {
+    "id": "ph_0112",
+    "category": "网络与学习",
+    "cn": "我最常用的 app",
+    "en": "my go-to app"
+  },
+  {
+    "id": "ph_0113",
+    "category": "网络与学习",
+    "cn": "遇到不好理解的东西",
+    "en": "run into something difficult"
+  },
+  {
+    "id": "ph_0114",
+    "category": "网络与学习",
+    "cn": "求助 AI 工具",
+    "en": "turn to AI tools"
+  },
+  {
+    "id": "ph_0115",
+    "category": "网络与学习",
+    "cn": "把复杂东西拆开讲",
+    "en": "break things down"
+  },
+  {
+    "id": "ph_0116",
+    "category": "网络与学习",
+    "cn": "搞懂难懂的东西",
+    "en": "get my head around difficult ideas / finally understand difficult ideas"
+  },
+  {
+    "id": "ph_0117",
+    "category": "网络与学习",
+    "cn": "直观而且一步一步的",
+    "en": "visual and step-by-step"
+  },
+  {
+    "id": "ph_0118",
+    "category": "网络与学习",
+    "cn": "暂停、倒回去、跟着做",
+    "en": "pause, rewind, and follow along"
+  },
+  {
+    "id": "ph_0119",
+    "category": "网络与学习",
+    "cn": "看一步步讲解的教程",
+    "en": "watch a step-by-step tutorial"
+  },
+  {
+    "id": "ph_0120",
+    "category": "网络与学习",
+    "cn": "学到实用技能",
+    "en": "pick up practical skills"
+  },
+  {
+    "id": "ph_0121",
+    "category": "网络与学习",
+    "cn": "接触到新的想法",
+    "en": "get exposed to new ideas"
+  },
+  {
+    "id": "ph_0122",
+    "category": "网络与学习",
+    "cn": "长访谈 / 纪录片 / 演讲",
+    "en": "long-form interviews / documentaries / talks"
+  },
+  {
+    "id": "ph_0123",
+    "category": "网络与学习",
+    "cn": "不同背景的人",
+    "en": "people from different walks of life / all walks of life"
+  },
+  {
+    "id": "ph_0124",
+    "category": "网络与学习",
+    "cn": "从零开始做一个生意 / 事业",
+    "en": "build a business from scratch"
+  },
+  {
+    "id": "ph_0125",
+    "category": "网络与学习",
+    "cn": "偶然刷到新想法",
+    "en": "stumble upon fresh ideas"
+  },
+  {
+    "id": "ph_0126",
+    "category": "网络与学习",
+    "cn": "能看到它怎么操作会更容易",
+    "en": "It’s easier when I can actually see how it works."
+  },
+  {
+    "id": "ph_0127",
+    "category": "网络与学习",
+    "cn": "真正把东西弄懂",
+    "en": "understand something properly"
+  },
+  {
+    "id": "ph_0128",
+    "category": "网络与学习",
+    "cn": "结构清楚的指南书 / 教材",
+    "en": "a well-organised guidebook / textbook"
+  },
+  {
+    "id": "ph_0129",
+    "category": "网络与学习",
+    "cn": "更系统、更可靠",
+    "en": "more structured and reliable"
+  },
+  {
+    "id": "ph_0130",
+    "category": "网络与学习",
+    "cn": "带着我一步步学懂知识",
+    "en": "walk me through the knowledge step by step"
+  },
+  {
+    "id": "ph_0131",
+    "category": "网络与学习",
+    "cn": "慢下来好好想",
+    "en": "slow down and think properly"
+  },
+  {
+    "id": "ph_0132",
+    "category": "网络与学习",
+    "cn": "书还是有用武之地",
+    "en": "books still have their place"
+  },
+  {
+    "id": "ph_0133",
+    "category": "网络与学习",
+    "cn": "书会让我稍微慢下来",
+    "en": "Books force me to slow down a bit."
+  },
+  {
+    "id": "ph_0134",
+    "category": "网络与学习",
+    "cn": "容易分心",
+    "en": "get distracted easily"
+  },
+  {
+    "id": "ph_0135",
+    "category": "网络与学习",
+    "cn": "刷上瘾了 / 不断深挖无关内容",
+    "en": "go down a rabbit hole"
+  },
+  {
+    "id": "ph_0136",
+    "category": "网络与学习",
+    "cn": "最后浪费时间",
+    "en": "end up wasting time"
+  },
+  {
+    "id": "ph_0137",
+    "category": "网络与学习",
+    "cn": "我本来只想查一个问题，结果最后看了一堆无关视频",
+    "en": "I may start with one question and end up watching random videos."
+  },
+  {
+    "id": "ph_0138",
+    "category": "压力与放松",
+    "cn": "有一种让人平静的气场",
+    "en": "have a calming presence"
+  },
+  {
+    "id": "ph_0139",
+    "category": "压力与放松",
+    "cn": "舒缓的声音",
+    "en": "soothing voice"
+  },
+  {
+    "id": "ph_0140",
+    "category": "压力与放松",
+    "cn": "温柔的能量 / 气质",
+    "en": "gentle energy"
+  },
+  {
+    "id": "ph_0141",
+    "category": "压力与放松",
+    "cn": "很会察言观色",
+    "en": "read the room pretty well"
+  },
+  {
+    "id": "ph_0142",
+    "category": "压力与放松",
+    "cn": "察觉到氛围",
+    "en": "pick up on / sense the vibe"
+  },
+  {
+    "id": "ph_0143",
+    "category": "压力与放松",
+    "cn": "捕捉到细微的非语言信号",
+    "en": "pick up on some subtle non-verbal cues"
+  },
+  {
+    "id": "ph_0144",
+    "category": "压力与放松",
+    "cn": "他很会倾听",
+    "en": "he is a good listener"
+  },
+  {
+    "id": "ph_0145",
+    "category": "压力与放松",
+    "cn": "被工作 / 学习压得喘不过气",
+    "en": "be snowed under with work/study"
+  },
+  {
+    "id": "ph_0146",
+    "category": "压力与放松",
+    "cn": "工作多到忙不过来",
+    "en": "be swamped with work"
+  },
+  {
+    "id": "ph_0147",
+    "category": "压力与放松",
+    "cn": "全身心投入工作",
+    "en": "be wrapped up in one’s work"
+  },
+  {
+    "id": "ph_0148",
+    "category": "压力与放松",
+    "cn": "在办公室耗很久 / 长时间加班",
+    "en": "clock endless hours at the office"
+  },
+  {
+    "id": "ph_0149",
+    "category": "压力与放松",
+    "cn": "一直盯着屏幕",
+    "en": "be glued to screens"
+  },
+  {
+    "id": "ph_0150",
+    "category": "压力与放松",
+    "cn": "机械运转 / 麻木地走流程",
+    "en": "run on autopilot / go through the motions"
+  },
+  {
+    "id": "ph_0151",
+    "category": "压力与放松",
+    "cn": "脑子没有余裕",
+    "en": "have no mental space"
+  },
+  {
+    "id": "ph_0152",
+    "category": "压力与放松",
+    "cn": "精神被掏空",
+    "en": "feel mentally drained"
+  },
+  {
+    "id": "ph_0153",
+    "category": "压力与放松",
+    "cn": "感到非常焦躁、心烦意乱",
+    "en": "feel really frazzled"
+  },
+  {
+    "id": "ph_0154",
+    "category": "压力与放松",
+    "cn": "有点陷入精神低谷",
+    "en": "be stuck in a bit of a mental rut"
+  },
+  {
+    "id": "ph_0155",
+    "category": "压力与放松",
+    "cn": "把我从精神低谷里拉出来",
+    "en": "pull me out of a mental rut"
+  },
+  {
+    "id": "ph_0156",
+    "category": "压力与放松",
+    "cn": "精力分散，什么都想兼顾，结果太累",
+    "en": "spread oneself too thin"
+  },
+  {
+    "id": "ph_0157",
+    "category": "压力与放松",
+    "cn": "精力被拉满、心力交瘁",
+    "en": "be stretched thin"
+  },
+  {
+    "id": "ph_0158",
+    "category": "压力与放松",
+    "cn": "手头事情太多",
+    "en": "have too much on my plate"
+  },
+  {
+    "id": "ph_0159",
+    "category": "压力与放松",
+    "cn": "我的脑子总是停不下来",
+    "en": "my mind is always racing"
+  },
+  {
+    "id": "ph_0160",
+    "category": "压力与放松",
+    "cn": "我的脑子关不掉 / 停不下来",
+    "en": "my mind wouldn’t shut off"
+  },
+  {
+    "id": "ph_0161",
+    "category": "压力与放松",
+    "cn": "放空、暂时关机",
+    "en": "switch off"
+  },
+  {
+    "id": "ph_0162",
+    "category": "压力与放松",
+    "cn": "释放压力",
+    "en": "blow off some steam"
+  },
+  {
+    "id": "ph_0163",
+    "category": "压力与放松",
+    "cn": "发泄情绪、释放压力",
+    "en": "let off steam"
+  },
+  {
+    "id": "ph_0164",
+    "category": "压力与放松",
+    "cn": "稍微放松一下",
+    "en": "unwind a bit"
+  },
+  {
+    "id": "ph_0165",
+    "category": "压力与放松",
+    "cn": "慢慢放松下来",
+    "en": "wind down / slow down"
+  },
+  {
+    "id": "ph_0166",
+    "category": "压力与放松",
+    "cn": "稍微充充电",
+    "en": "recharge a bit"
+  },
+  {
+    "id": "ph_0167",
+    "category": "压力与放松",
+    "cn": "稍微松弛一点",
+    "en": "loosen up a bit"
+  },
+  {
+    "id": "ph_0168",
+    "category": "压力与放松",
+    "cn": "舒缓的 / 治愈的 / 让人安定的",
+    "en": "soothing / healing / grounding"
+  },
+  {
+    "id": "ph_0169",
+    "category": "压力与放松",
+    "cn": "沉浸其中、慢慢感受舒缓治愈的氛围",
+    "en": "take in / soak up the soothing atmosphere / vibe"
+  },
+  {
+    "id": "ph_0170",
+    "category": "压力与放松",
+    "cn": "薰衣草的味道",
+    "en": "the smell of lavender"
+  },
+  {
+    "id": "ph_0171",
+    "category": "压力与放松",
+    "cn": "在身边放些花",
+    "en": "put some flowers next to me"
+  },
+  {
+    "id": "ph_0172",
+    "category": "压力与放松",
+    "cn": "从新的角度看问题",
+    "en": "look at a problem from a fresh angle"
+  },
+  {
+    "id": "ph_0173",
+    "category": "压力与放松",
+    "cn": "声音好像在房间里轻轻飘着",
+    "en": "the sound kind of floated through the room"
+  },
+  {
+    "id": "ph_0174",
+    "category": "压力与放松",
+    "cn": "音乐像水一样漫过我 / 包裹着我",
+    "en": "the music washed over me"
+  },
+  {
+    "id": "ph_0175",
+    "category": "压力与放松",
+    "cn": "振作起来、稳住自己",
+    "en": "pull myself together"
+  },
+  {
+    "id": "ph_0176",
+    "category": "压力与放松",
+    "cn": "有点像按下重启键",
+    "en": "it’s kinda like pressing the reset button"
+  },
+  {
+    "id": "ph_0177",
+    "category": "压力与放松",
+    "cn": "听起来有点玄乎 / 像玄学",
+    "en": "sound a bit woo-woo"
+  },
+  {
+    "id": "ph_0178",
+    "category": "压力情绪",
+    "cn": "营造氛围并创造一种平静的感觉",
+    "en": "set the mood and create a calming vibe"
+  },
+  {
+    "id": "ph_0179",
+    "category": "压力情绪",
+    "cn": "按下重启键 / 给自己充电",
+    "en": "hit the reset button / recharge my battery"
+  },
+  {
+    "id": "ph_0180",
+    "category": "压力情绪",
+    "cn": "发泄情绪 / 释放压力",
+    "en": "let off steam / blow off some steam"
+  },
+  {
+    "id": "ph_0181",
+    "category": "压力情绪",
+    "cn": "摆脱压力 / 放下负面情绪",
+    "en": "shake off the stress / let go of negativity"
+  },
+  {
+    "id": "ph_0182",
+    "category": "压力情绪",
+    "cn": "卸下肩上的重担",
+    "en": "lift a weight off my shoulders"
+  },
+  {
+    "id": "ph_0183",
+    "category": "压力情绪",
+    "cn": "把某事憋在心里",
+    "en": "bottle sth up"
+  },
+  {
+    "id": "ph_0184",
+    "category": "压力情绪",
+    "cn": "陷在负面情绪中",
+    "en": "be stuck in negativity"
+  },
+  {
+    "id": "ph_0185",
+    "category": "压力情绪",
+    "cn": "给自己布置一个小角落",
+    "en": "set up a little corner for myself"
+  },
+  {
+    "id": "ph_0186",
+    "category": "塔罗过程",
+    "cn": "求助塔罗牌获得指引",
+    "en": "turn to tarot for guidance"
+  },
+  {
+    "id": "ph_0187",
+    "category": "塔罗过程",
+    "cn": "与其说是算命，不如说是一次现实检视",
+    "en": "it’s more like a reality check than fortune-telling"
+  },
+  {
+    "id": "ph_0188",
+    "category": "塔罗过程",
+    "cn": "从新的角度看事情",
+    "en": "see things from a fresh angle"
+  },
+  {
+    "id": "ph_0189",
+    "category": "塔罗过程",
+    "cn": "这个过程很轻松",
+    "en": "the process is pretty chill"
+  },
+  {
+    "id": "ph_0190",
+    "category": "塔罗过程",
+    "cn": "一边想着我的问题一边洗牌",
+    "en": "shuffle the deck while thinking about my question"
+  },
+  {
+    "id": "ph_0191",
+    "category": "塔罗过程",
+    "cn": "抽一张牌，看看会出现什么",
+    "en": "pull a card and see what comes up"
+  },
+  {
+    "id": "ph_0192",
+    "category": "科学兴趣",
+    "cn": "说实话，不太……",
+    "en": "not really, to be honest"
+  },
+  {
+    "id": "ph_0193",
+    "category": "科学兴趣",
+    "cn": "我一直不是特别喜欢……",
+    "en": "I’ve never been that into ..."
+  },
+  {
+    "id": "ph_0194",
+    "category": "科学兴趣",
+    "cn": "太空和天文学",
+    "en": "space and astronomy"
+  },
+  {
+    "id": "ph_0195",
+    "category": "科学兴趣",
+    "cn": "有点太抽象",
+    "en": "a bit too abstract"
+  },
+  {
+    "id": "ph_0196",
+    "category": "科学兴趣",
+    "cn": "有点偏无聊",
+    "en": "a bit on the boring side"
+  },
+  {
+    "id": "ph_0197",
+    "category": "科学兴趣",
+    "cn": "对它有个人连接 / 共鸣",
+    "en": "feel personally connected to it"
+  },
+  {
+    "id": "ph_0198",
+    "category": "科学兴趣",
+    "cn": "特意花精力去学它",
+    "en": "go out of my way to study it"
+  },
+  {
+    "id": "ph_0199",
+    "category": "科学兴趣",
+    "cn": "不是我的菜",
+    "en": "not my thing"
+  },
+  {
+    "id": "ph_0200",
+    "category": "科学兴趣",
+    "cn": "有点干，比较难进入状态",
+    "en": "a little dry and hard to get into"
+  },
+  {
+    "id": "ph_0201",
+    "category": "科学兴趣",
+    "cn": "太多公式或专业术语",
+    "en": "too many formulas or technical terms"
+  },
+  {
+    "id": "ph_0202",
+    "category": "科学兴趣",
+    "cn": "教科书式的",
+    "en": "textbook-style"
+  },
+  {
+    "id": "ph_0203",
+    "category": "科学兴趣",
+    "cn": "很快走神",
+    "en": "zone out pretty quickly"
+  },
+  {
+    "id": "ph_0204",
+    "category": "科学兴趣",
+    "cn": "我也不是完全排斥",
+    "en": "I’m not completely against it"
+  },
+  {
+    "id": "ph_0205",
+    "category": "科学兴趣",
+    "cn": "我也不是那种科学迷",
+    "en": "I wouldn’t say I’m a science nerd or anything"
+  },
+  {
+    "id": "ph_0206",
+    "category": "科学兴趣",
+    "cn": "挺让人着迷 / 引人入胜的",
+    "en": "pretty fascinating / engaging"
+  },
+  {
+    "id": "ph_0207",
+    "category": "科学兴趣",
+    "cn": "行星 / 流星 / 银河 / 黑洞",
+    "en": "planets / shooting stars / the Milky Way / black holes"
+  },
+  {
+    "id": "ph_0208",
+    "category": "科学兴趣",
+    "cn": "太空任务",
+    "en": "space missions"
+  },
+  {
+    "id": "ph_0209",
+    "category": "科学兴趣",
+    "cn": "宇航员",
+    "en": "astronauts"
+  },
+  {
+    "id": "ph_0210",
+    "category": "科学兴趣",
+    "cn": "技术细节",
+    "en": "technical details"
+  },
+  {
+    "id": "ph_0211",
+    "category": "科学兴趣",
+    "cn": "画面真的很震撼",
+    "en": "the images are just stunning"
+  },
+  {
+    "id": "ph_0212",
+    "category": "科学兴趣",
+    "cn": "用有趣、视觉化的方式",
+    "en": "in a fun, visual way"
+  },
+  {
+    "id": "ph_0213",
+    "category": "科学兴趣",
+    "cn": "和现实生活有关",
+    "en": "be connected to real life"
+  },
+  {
+    "id": "ph_0214",
+    "category": "科学兴趣",
+    "cn": "大脑 / 睡眠 / 情绪 / 免疫系统",
+    "en": "the human brain / sleep / emotions / the immune system"
+  },
+  {
+    "id": "ph_0215",
+    "category": "科学兴趣",
+    "cn": "解释我们每天都会经历的东西",
+    "en": "explain things we experience every day"
+  },
+  {
+    "id": "ph_0216",
+    "category": "科学兴趣",
+    "cn": "行星、星星和太阳系",
+    "en": "planets, stars and the solar system"
+  },
+  {
+    "id": "ph_0217",
+    "category": "科学兴趣",
+    "cn": "火箭、宇航员和空间站",
+    "en": "rockets, astronauts and space stations"
+  },
+  {
+    "id": "ph_0218",
+    "category": "科学兴趣",
+    "cn": "人工智能、人脸识别和简单科技",
+    "en": "AI, face recognition and simple technology"
+  },
+  {
+    "id": "ph_0219",
+    "category": "科学兴趣",
+    "cn": "实验室实验和显微镜",
+    "en": "lab experiments and microscopes"
+  },
+  {
+    "id": "ph_0220",
+    "category": "科学兴趣",
+    "cn": "气候变化和可再生能源",
+    "en": "climate change and renewable energy"
+  },
+  {
+    "id": "ph_0221",
+    "category": "乡下生活",
+    "cn": "避开喧嚣",
+    "en": "escape from the hustle and bustle"
+  },
+  {
+    "id": "ph_0222",
+    "category": "乡下生活",
+    "cn": "享受慢节奏生活",
+    "en": "enjoy a slower pace of life"
+  },
+  {
+    "id": "ph_0223",
+    "category": "乡下生活",
+    "cn": "自己养动物",
+    "en": "raise their own animals / keep their own animals"
+  },
+  {
+    "id": "ph_0224",
+    "category": "乡下生活",
+    "cn": "种点菜、养花",
+    "en": "do a bit of gardening"
+  },
+  {
+    "id": "ph_0225",
+    "category": "乡下生活",
+    "cn": "日出而作",
+    "en": "wake up with the sunrise / get up early with the sun"
+  },
+  {
+    "id": "ph_0226",
+    "category": "乡下生活",
+    "cn": "较少交通和喇叭声",
+    "en": "less traffic / fewer car horns"
+  },
+  {
+    "id": "ph_0227",
+    "category": "乡下生活",
+    "cn": "宁静舒缓的环境",
+    "en": "calm and soothing environment / quiet and peaceful place"
+  },
+  {
+    "id": "ph_0228",
+    "category": "乡下生活",
+    "cn": "安静让人想太多、容易过度思考",
+    "en": "silence makes them overthink"
+  },
+  {
+    "id": "ph_0229",
+    "category": "乡下生活",
+    "cn": "安静的地方让人觉得空，而不是平静",
+    "en": "quiet places feel empty rather than peaceful"
+  },
+  {
+    "id": "ph_0230",
+    "category": "城市生活",
+    "cn": "拥有先进服务 / 获得更好的服务",
+    "en": "have access to advanced services / get better services"
+  },
+  {
+    "id": "ph_0231",
+    "category": "城市生活",
+    "cn": "立刻获得医疗服务",
+    "en": "get immediate medical care"
+  },
+  {
+    "id": "ph_0232",
+    "category": "城市生活",
+    "cn": "依靠公共交通",
+    "en": "rely on public transport"
+  },
+  {
+    "id": "ph_0233",
+    "category": "城市生活",
+    "cn": "丰富的教育资源 / 更多学校和教师",
+    "en": "a wide range of educational resources / more schools and teachers"
+  },
+  {
+    "id": "ph_0234",
+    "category": "城市生活",
+    "cn": "更多就业机会",
+    "en": "better job opportunities"
+  },
+  {
+    "id": "ph_0235",
+    "category": "城市生活",
+    "cn": "压力大、节奏快",
+    "en": "an overwhelming pace of life / life is too fast"
+  },
+  {
+    "id": "ph_0236",
+    "category": "城市生活",
+    "cn": "被工作绑住 / 工作太忙",
+    "en": "get wrapped up in work / be too busy with work"
+  },
+  {
+    "id": "ph_0237",
+    "category": "城市生活",
+    "cn": "处在热闹、有活力的环境中",
+    "en": "in a busy, lively environment"
+  },
+  {
+    "id": "ph_0238",
+    "category": "城市生活",
+    "cn": "一直在奔波、停不下来",
+    "en": "always on the go"
+  },
+  {
+    "id": "ph_0239",
+    "category": "城市生活",
+    "cn": "有更多和人互动、社交的机会",
+    "en": "more chances to interact with people"
+  },
+  {
+    "id": "ph_0240",
+    "category": "城市生活",
+    "cn": "背景噪音能让人保持思维活跃",
+    "en": "background noise helps them stay mentally stimulated"
+  },
+  {
+    "id": "ph_0241",
+    "category": "城市生活",
+    "cn": "被人围着会让人感到安心",
+    "en": "being around people feels reassuring"
+  },
+  {
+    "id": "ph_0242",
+    "category": "小孩成长",
+    "cn": "在户外长大 / 经常在外面玩",
+    "en": "grow up in the open air / play outside a lot"
+  },
+  {
+    "id": "ph_0243",
+    "category": "小孩成长",
+    "cn": "保持身体活跃",
+    "en": "stay physically active"
+  },
+  {
+    "id": "ph_0244",
+    "category": "小孩成长",
+    "cn": "避免久坐生活方式 / 不整天坐着",
+    "en": "avoid a sedentary lifestyle / not sit all day"
+  },
+  {
+    "id": "ph_0245",
+    "category": "小孩成长",
+    "cn": "有利于视力和健康",
+    "en": "good for eyesight and well-being / good for eyes and health"
+  },
+  {
+    "id": "ph_0246",
+    "category": "小孩成长",
+    "cn": "接触双语幼儿园 / 上中英文学校",
+    "en": "access to bilingual kindergartens / go to schools with English and Chinese"
+  },
+  {
+    "id": "ph_0247",
+    "category": "小孩成长",
+    "cn": "被竞争裹挟 / 陷入无休止的竞争",
+    "en": "be caught up in the rat race / be stuck in endless competition"
+  },
+  {
+    "id": "ph_0248",
+    "category": "建筑表达",
+    "cn": "现代摩天大楼",
+    "en": "a modern skyscraper"
+  },
+  {
+    "id": "ph_0249",
+    "category": "建筑表达",
+    "cn": "古典风格的建筑",
+    "en": "classical-style buildings"
+  },
+  {
+    "id": "ph_0250",
+    "category": "建筑表达",
+    "cn": "线条简洁、轮廓干净",
+    "en": "clean lines"
+  },
+  {
+    "id": "ph_0251",
+    "category": "建筑表达",
+    "cn": "简约的设计",
+    "en": "a simple design"
+  },
+  {
+    "id": "ph_0252",
+    "category": "建筑表达",
+    "cn": "精细的雕刻 / 建筑上的装饰细节",
+    "en": "detailed carvings / detailed decorations on the building"
+  },
+  {
+    "id": "ph_0253",
+    "category": "建筑表达",
+    "cn": "拱形窗户 / 带弧形的窗户",
+    "en": "arched windows / windows with a curved shape"
+  },
+  {
+    "id": "ph_0254",
+    "category": "建筑表达",
+    "cn": "高挑的天花板",
+    "en": "high ceilings"
+  },
+  {
+    "id": "ph_0255",
+    "category": "建筑表达",
+    "cn": "装饰过多、过于花哨",
+    "en": "over-decorated"
+  },
+  {
+    "id": "ph_0256",
+    "category": "建筑表达",
+    "cn": "引人注目的",
+    "en": "eye-catching"
+  },
+  {
+    "id": "ph_0257",
+    "category": "建筑表达",
+    "cn": "在城市天际线中很显眼",
+    "en": "stand out on the skyline"
+  },
+  {
+    "id": "ph_0258",
+    "category": "建筑表达",
+    "cn": "夜晚被灯光照亮",
+    "en": "be lit up at night"
+  },
+  {
+    "id": "ph_0259",
+    "category": "建筑表达",
+    "cn": "在市中心",
+    "en": "in the city centre"
+  },
+  {
+    "id": "ph_0260",
+    "category": "建筑表达",
+    "cn": "著名的地标建筑",
+    "en": "a well-known landmark"
+  },
+  {
+    "id": "ph_0261",
+    "category": "建筑表达",
+    "cn": "不只是给游客看的地方",
+    "en": "more than just a tourist attraction"
+  },
+  {
+    "id": "ph_0262",
+    "category": "建筑表达",
+    "cn": "主要用于办公",
+    "en": "mainly used for offices"
+  },
+  {
+    "id": "ph_0263",
+    "category": "建筑表达",
+    "cn": "住宅楼",
+    "en": "a residential building"
+  },
+  {
+    "id": "ph_0264",
+    "category": "建筑表达",
+    "cn": "几乎在任何地方都能看到",
+    "en": "you can spot it from almost anywhere"
+  },
+  {
+    "id": "ph_0265",
+    "category": "建筑表达",
+    "cn": "有历史感 / 感觉古老而有意义",
+    "en": "have a sense of history / feel old and meaningful"
+  },
+  {
+    "id": "ph_0266",
+    "category": "建筑表达",
+    "cn": "永不过时",
+    "en": "feel timeless / never feels old-fashioned"
+  },
+  {
+    "id": "ph_0267",
+    "category": "建筑表达",
+    "cn": "很有特色 / 有自己的独特风格",
+    "en": "full of character / has its own special style"
+  },
+  {
+    "id": "ph_0268",
+    "category": "建筑表达",
+    "cn": "有独特的魅力",
+    "en": "have a unique charm"
+  },
+  {
+    "id": "ph_0269",
+    "category": "建筑表达",
+    "cn": "感觉开阔、舒适",
+    "en": "feel open and comfortable"
+  },
+  {
+    "id": "ph_0270",
+    "category": "建筑表达",
+    "cn": "大气但不让人觉得冷冰冰",
+    "en": "feel grand but not cold"
+  },
+  {
+    "id": "ph_0271",
+    "category": "建筑表达",
+    "cn": "与周围环境融为一体",
+    "en": "blend in with the surroundings / match the area around it"
+  },
+  {
+    "id": "ph_0272",
+    "category": "建筑表达",
+    "cn": "我通常更偏好……的地方",
+    "en": "I usually gravitate toward places with ... / I usually like places with ..."
+  },
+  {
+    "id": "ph_0273",
+    "category": "建筑表达",
+    "cn": "被现代建筑吸引",
+    "en": "be drawn to modern buildings"
+  },
+  {
+    "id": "ph_0274",
+    "category": "建筑表达",
+    "cn": "特别喜欢古典建筑",
+    "en": "have a soft spot for classical buildings"
+  },
+  {
+    "id": "ph_0275",
+    "category": "建筑表达",
+    "cn": "更喜欢……而不是……",
+    "en": "prefer ... over ..."
+  },
+  {
+    "id": "ph_0276",
+    "category": "建筑表达",
+    "cn": "不太喜欢老式建筑",
+    "en": "not really into old-fashioned buildings"
+  },
+  {
+    "id": "ph_0277",
+    "category": "建筑表达",
+    "cn": "避开过于花哨的建筑",
+    "en": "stay away from overly fancy buildings"
+  },
+  {
+    "id": "ph_0278",
+    "category": "建筑表达",
+    "cn": "许愿池",
+    "en": "Trevi Fountain"
+  },
+  {
+    "id": "ph_0279",
+    "category": "建筑表达",
+    "cn": "黄鹤楼",
+    "en": "Yellow Crane Tower"
+  },
+  {
+    "id": "ph_0280",
+    "category": "建筑表达",
+    "cn": "灵隐寺",
+    "en": "Lingyin Temple"
+  },
+  {
+    "id": "ph_0281",
+    "category": "建筑表达",
+    "cn": "埃菲尔铁塔",
+    "en": "Eiffel Tower"
+  },
+  {
+    "id": "ph_0282",
+    "category": "建筑表达",
+    "cn": "罗马斗兽场",
+    "en": "Colosseum"
+  },
+  {
+    "id": "ph_0283",
+    "category": "建筑表达",
+    "cn": "巴黎圣母院",
+    "en": "Notre-Dame Cathedral"
+  },
+  {
+    "id": "ph_0284",
+    "category": "AI与社交媒体",
+    "cn": "给人即时支持",
+    "en": "give people instant support"
+  },
+  {
+    "id": "ph_0285",
+    "category": "AI与社交媒体",
+    "cn": "当他们卡住 / 碰壁的时候",
+    "en": "when they are stuck / hit a wall"
+  },
+  {
+    "id": "ph_0286",
+    "category": "AI与社交媒体",
+    "cn": "在 ChatGPT 或 Gemini 里输入提示词",
+    "en": "type a prompt into ChatGPT or Gemini"
+  },
+  {
+    "id": "ph_0287",
+    "category": "AI与社交媒体",
+    "cn": "不断追问后续问题",
+    "en": "keep asking follow-up questions"
+  },
+  {
+    "id": "ph_0288",
+    "category": "AI与社交媒体",
+    "cn": "终于懂了",
+    "en": "it finally clicks"
+  },
+  {
+    "id": "ph_0289",
+    "category": "AI与社交媒体",
+    "cn": "给人省去很多麻烦",
+    "en": "save people a lot of hassle"
+  },
+  {
+    "id": "ph_0290",
+    "category": "AI与社交媒体",
+    "cn": "搞懂难懂的概念",
+    "en": "get their head around difficult ideas"
+  },
+  {
+    "id": "ph_0291",
+    "category": "AI与社交媒体",
+    "cn": "把复杂内容拆开讲",
+    "en": "break things down"
+  },
+  {
+    "id": "ph_0292",
+    "category": "AI与社交媒体",
+    "cn": "把线索串起来、想通了",
+    "en": "connect the dots"
+  },
+  {
+    "id": "ph_0293",
+    "category": "AI与社交媒体",
+    "cn": "跳过混乱但必要的思考阶段",
+    "en": "skip the messy thinking stage"
+  },
+  {
+    "id": "ph_0294",
+    "category": "AI与社交媒体",
+    "cn": "走捷径",
+    "en": "take the shortcut"
+  },
+  {
+    "id": "ph_0295",
+    "category": "AI与社交媒体",
+    "cn": "大脑关机、不动脑子",
+    "en": "switch their brain off"
+  },
+  {
+    "id": "ph_0296",
+    "category": "AI与社交媒体",
+    "cn": "自己把事情想清楚",
+    "en": "think things through on their own / figure things out on their own"
+  },
+  {
+    "id": "ph_0297",
+    "category": "AI与社交媒体",
+    "cn": "AI 应该辅助思考，而不是取代思考",
+    "en": "AI should support thinking, not replace thinking"
+  },
+  {
+    "id": "ph_0298",
+    "category": "AI与社交媒体",
+    "cn": "感到压力大、无聊或心里空",
+    "en": "feel stressed, bored, or a bit empty"
+  },
+  {
+    "id": "ph_0299",
+    "category": "AI与社交媒体",
+    "cn": "快速提升心情",
+    "en": "give them a quick mood boost"
+  },
+  {
+    "id": "ph_0300",
+    "category": "AI与社交媒体",
+    "cn": "一点掌控感",
+    "en": "a small sense of control"
+  },
+  {
+    "id": "ph_0301",
+    "category": "AI与社交媒体",
+    "cn": "获得一阵多巴胺快感",
+    "en": "get a quick dopamine hit"
+  },
+  {
+    "id": "ph_0302",
+    "category": "AI与社交媒体",
+    "cn": "获得爽感",
+    "en": "get a kick out of it"
+  },
+  {
+    "id": "ph_0303",
+    "category": "AI与社交媒体",
+    "cn": "让人心情变好的东西",
+    "en": "a mood booster"
+  },
+  {
+    "id": "ph_0304",
+    "category": "AI与社交媒体",
+    "cn": "精准广告",
+    "en": "targeted ads"
+  },
+  {
+    "id": "ph_0305",
+    "category": "AI与社交媒体",
+    "cn": "赞助帖、推广帖",
+    "en": "sponsored posts"
+  },
+  {
+    "id": "ph_0306",
+    "category": "AI与社交媒体",
+    "cn": "符合他们口味的广告",
+    "en": "ads tailored to their taste"
+  },
+  {
+    "id": "ph_0307",
+    "category": "AI与社交媒体",
+    "cn": "限时折扣",
+    "en": "limited-time discounts"
+  },
+  {
+    "id": "ph_0308",
+    "category": "AI与社交媒体",
+    "cn": "紧迫感",
+    "en": "a sense of urgency"
+  },
+  {
+    "id": "ph_0309",
+    "category": "AI与社交媒体",
+    "cn": "错失恐惧",
+    "en": "FOMO / fear of missing out"
+  },
+  {
+    "id": "ph_0310",
+    "category": "AI与社交媒体",
+    "cn": "经历错失恐惧",
+    "en": "experience FOMO"
+  },
+  {
+    "id": "ph_0311",
+    "category": "AI与社交媒体",
+    "cn": "不断推送符合他们口味的产品",
+    "en": "keep pushing products that match their taste"
+  },
+  {
+    "id": "ph_0312",
+    "category": "AI与社交媒体",
+    "cn": "不断在我的信息流里出现",
+    "en": "keep popping up in my feed"
+  },
+  {
+    "id": "ph_0313",
+    "category": "AI与社交媒体",
+    "cn": "重复曝光",
+    "en": "repeated exposure"
+  },
+  {
+    "id": "ph_0314",
+    "category": "AI与社交媒体",
+    "cn": "说服自己买下来",
+    "en": "talk themselves into buying it"
+  },
+  {
+    "id": "ph_0315",
+    "category": "AI与社交媒体",
+    "cn": "跟风",
+    "en": "jump on the bandwagon"
+  },
+  {
+    "id": "ph_0316",
+    "category": "AI与社交媒体",
+    "cn": "卖的是一整套生活方式",
+    "en": "sell a whole lifestyle"
+  },
+  {
+    "id": "ph_0317",
+    "category": "AI与社交媒体",
+    "cn": "悄悄影响人们的决定",
+    "en": "quietly nudge people’s decisions"
+  },
+  {
+    "id": "ph_0318",
+    "category": "AI与社交媒体",
+    "cn": "被包装出来的明星",
+    "en": "packaged celebrities"
+  },
+  {
+    "id": "ph_0319",
+    "category": "AI与社交媒体",
+    "cn": "打磨形象、打造人设",
+    "en": "curate an image"
+  },
+  {
+    "id": "ph_0320",
+    "category": "AI与社交媒体",
+    "cn": "戴上人设面具",
+    "en": "put on a persona"
+  },
+  {
+    "id": "ph_0321",
+    "category": "AI与社交媒体",
+    "cn": "持续出现在人们的信息流里",
+    "en": "stay visible in people’s feeds"
+  },
+  {
+    "id": "ph_0322",
+    "category": "AI与社交媒体",
+    "cn": "很有审美、很出片的房间",
+    "en": "aesthetic rooms"
+  },
+  {
+    "id": "ph_0323",
+    "category": "AI与社交媒体",
+    "cn": "值得发 Instagram 的 / 很出片的",
+    "en": "Instagram-worthy / instagrammable"
+  },
+  {
+    "id": "ph_0324",
+    "category": "AI与社交媒体",
+    "cn": "精心包装过的完美版本",
+    "en": "a perfectly curated version of themselves"
+  },
+  {
+    "id": "ph_0325",
+    "category": "AI与社交媒体",
+    "cn": "一夜爆红",
+    "en": "go viral overnight"
+  },
+  {
+    "id": "ph_0326",
+    "category": "AI与社交媒体",
+    "cn": "成名背后有真实代价",
+    "en": "fame has a real cost behind it"
+  },
+  {
+    "id": "ph_0327",
+    "category": "技术故障",
+    "cn": "一个很烦人的技术问题",
+    "en": "a really annoying technology problem"
+  },
+  {
+    "id": "ph_0328",
+    "category": "技术故障",
+    "cn": "我的电脑 / 手机直接完全卡死了",
+    "en": "my laptop / phone just froze completely"
+  },
+  {
+    "id": "ph_0329",
+    "category": "技术故障",
+    "cn": "我的手机基本乱套了",
+    "en": "my phone basically went haywire"
+  },
+  {
+    "id": "ph_0330",
+    "category": "技术故障",
+    "cn": "整个浏览器卡死了",
+    "en": "the whole browser seized up"
+  },
+  {
+    "id": "ph_0331",
+    "category": "技术故障",
+    "cn": "弹窗广告",
+    "en": "pop-up ads"
+  },
+  {
+    "id": "ph_0332",
+    "category": "技术故障",
+    "cn": "假的病毒警告",
+    "en": "fake virus warnings"
+  },
+  {
+    "id": "ph_0333",
+    "category": "技术故障",
+    "cn": "点一个可疑的线上广告",
+    "en": "click on a sketchy online ad"
+  },
+  {
+    "id": "ph_0334",
+    "category": "技术故障",
+    "cn": "好奇心占了上风",
+    "en": "curiosity got the better of me"
+  },
+  {
+    "id": "ph_0335",
+    "category": "技术故障",
+    "cn": "我一点开链接",
+    "en": "the second I opened the link"
+  },
+  {
+    "id": "ph_0336",
+    "category": "技术故障",
+    "cn": "弹窗开始一个接一个出现",
+    "en": "pop-ups started appearing one after another"
+  },
+  {
+    "id": "ph_0337",
+    "category": "技术故障",
+    "cn": "每关掉一个，又弹出两个",
+    "en": "every time I closed one, two more opened"
+  },
+  {
+    "id": "ph_0338",
+    "category": "技术故障",
+    "cn": "弹窗又一股脑冒出来了",
+    "en": "the pop-ups came flooding back"
+  },
+  {
+    "id": "ph_0339",
+    "category": "技术故障",
+    "cn": "同时开太多东西",
+    "en": "open too many things at the same time"
+  },
+  {
+    "id": "ph_0340",
+    "category": "技术故障",
+    "cn": "开着好几个浏览器标签页",
+    "en": "have several browser tabs open"
+  },
+  {
+    "id": "ph_0341",
+    "category": "技术故障",
+    "cn": "程序变得慢到让人崩溃",
+    "en": "the programme became painfully slow"
+  },
+  {
+    "id": "ph_0342",
+    "category": "技术故障",
+    "cn": "我动不了光标，也什么都点不了",
+    "en": "I couldn’t move the cursor or click anything"
+  },
+  {
+    "id": "ph_0343",
+    "category": "技术故障",
+    "cn": "我没法正常用手机",
+    "en": "I couldn’t use my phone properly"
+  },
+  {
+    "id": "ph_0344",
+    "category": "技术故障",
+    "cn": "我还没保存最新版",
+    "en": "I hadn’t saved the latest version"
+  },
+  {
+    "id": "ph_0345",
+    "category": "技术故障",
+    "cn": "按了各种键，但什么都没反应",
+    "en": "press different keys, but nothing happened"
+  },
+  {
+    "id": "ph_0346",
+    "category": "技术故障",
+    "cn": "把手机关掉再打开",
+    "en": "switch the phone off and turn it back on"
+  },
+  {
+    "id": "ph_0347",
+    "category": "技术故障",
+    "cn": "强制重启电脑",
+    "en": "force restart the laptop"
+  },
+  {
+    "id": "ph_0348",
+    "category": "技术故障",
+    "cn": "把它拿去维修店",
+    "en": "take it to a repair shop"
+  },
+  {
+    "id": "ph_0349",
+    "category": "技术故障",
+    "cn": "恢复出厂设置",
+    "en": "do a full factory reset"
+  },
+  {
+    "id": "ph_0350",
+    "category": "技术故障",
+    "cn": "自动恢复大部分文件",
+    "en": "recover most of the file automatically"
+  },
+  {
+    "id": "ph_0351",
+    "category": "技术故障",
+    "cn": "丢了一些没备份的数据",
+    "en": "lose some data I hadn’t backed up"
+  },
+  {
+    "id": "ph_0352",
+    "category": "技术故障",
+    "cn": "重做丢失的几页 PPT",
+    "en": "redo the missing slides"
+  },
+  {
+    "id": "ph_0353",
+    "category": "技术故障",
+    "cn": "清理一些存储空间",
+    "en": "clear some storage"
+  },
+  {
+    "id": "ph_0354",
+    "category": "技术故障",
+    "cn": "不再同时开太多标签页",
+    "en": "stop keeping too many tabs open at once"
+  },
+  {
+    "id": "ph_0355",
+    "category": "技术故障",
+    "cn": "更频繁地保存文件",
+    "en": "save my work more often"
+  },
+  {
+    "id": "ph_0356",
+    "category": "技术故障",
+    "cn": "备份重要文件",
+    "en": "back up important files"
+  },
+  {
+    "id": "ph_0357",
+    "category": "技术故障",
+    "cn": "以防万一",
+    "en": "just in case"
+  },
+  {
+    "id": "ph_0358",
+    "category": "技术故障",
+    "cn": "我有点慌",
+    "en": "I panicked a bit"
+  },
+  {
+    "id": "ph_0359",
+    "category": "技术故障",
+    "cn": "我本来就压力很大",
+    "en": "I was already under pressure"
+  },
+  {
+    "id": "ph_0360",
+    "category": "技术故障",
+    "cn": "这个时间点糟糕透了",
+    "en": "the timing couldn’t have been worse"
+  },
+  {
+    "id": "ph_0361",
+    "category": "技术故障",
+    "cn": "我吃一堑长一智",
+    "en": "I learned that the hard way"
+  },
+  {
+    "id": "ph_0362",
+    "category": "动物与生态保护",
+    "cn": "真正激励我关注环境",
+    "en": "truly inspired me to care more about the environment"
+  },
+  {
+    "id": "ph_0363",
+    "category": "动物与生态保护",
+    "cn": "给我留下了深刻、长久的印象",
+    "en": "it left a lasting / deep impression on me"
+  },
+  {
+    "id": "ph_0364",
+    "category": "动物与生态保护",
+    "cn": "她做过的最难忘的事情之一",
+    "en": "one of the most unforgettable things she did"
+  },
+  {
+    "id": "ph_0365",
+    "category": "动物与生态保护",
+    "cn": "收养一只狼",
+    "en": "take in a wolf"
+  },
+  {
+    "id": "ph_0366",
+    "category": "动物与生态保护",
+    "cn": "令人心碎的故事",
+    "en": "a heartbreaking story"
+  },
+  {
+    "id": "ph_0367",
+    "category": "动物与生态保护",
+    "cn": "因为皮毛被偷猎者杀害",
+    "en": "killed by poachers for their fur"
+  },
+  {
+    "id": "ph_0368",
+    "category": "动物与生态保护",
+    "cn": "尽管他经历了这一切",
+    "en": "despite everything he went through"
+  },
+  {
+    "id": "ph_0369",
+    "category": "动物与生态保护",
+    "cn": "从未屈服 / 没有放弃",
+    "en": "never gave in"
+  },
+  {
+    "id": "ph_0370",
+    "category": "动物与生态保护",
+    "cn": "照顾他",
+    "en": "care for him"
+  },
+  {
+    "id": "ph_0371",
+    "category": "动物与生态保护",
+    "cn": "做出艰难但有意义的决定",
+    "en": "make a difficult but meaningful decision"
+  },
+  {
+    "id": "ph_0372",
+    "category": "动物与生态保护",
+    "cn": "将……放归自然",
+    "en": "release ... back into the wild"
+  },
+  {
+    "id": "ph_0373",
+    "category": "动物与生态保护",
+    "cn": "他真正属于的地方",
+    "en": "where he truly belonged"
+  },
+  {
+    "id": "ph_0374",
+    "category": "动物与生态保护",
+    "cn": "更令人惊叹的是……",
+    "en": "what makes this story even more remarkable is that..."
+  },
+  {
+    "id": "ph_0375",
+    "category": "动物与生态保护",
+    "cn": "成为狼群的领袖",
+    "en": "rise to become the leader of his pack"
+  },
+  {
+    "id": "ph_0376",
+    "category": "动物与生态保护",
+    "cn": "仍然无法完全放心",
+    "en": "still couldn’t fully put her mind at ease"
+  },
+  {
+    "id": "ph_0377",
+    "category": "动物与生态保护",
+    "cn": "被非法贩卖，比如狼皮、狼毛、狼牙和其他珍贵身体部位",
+    "en": "be illegally sold, such as wolf fur, pelts, teeth, and other valuable body parts"
+  },
+  {
+    "id": "ph_0378",
+    "category": "动物与生态保护",
+    "cn": "对……构成严重威胁",
+    "en": "pose a serious threat to..."
+  },
+  {
+    "id": "ph_0379",
+    "category": "动物与生态保护",
+    "cn": "让她感到沉重、困扰",
+    "en": "sth weigh on her"
+  },
+  {
+    "id": "ph_0380",
+    "category": "动物与生态保护",
+    "cn": "介入并采取行动",
+    "en": "step in and take action"
+  },
+  {
+    "id": "ph_0381",
+    "category": "动物与生态保护",
+    "cn": "在……中发挥关键作用",
+    "en": "play a key role in..."
+  },
+  {
+    "id": "ph_0382",
+    "category": "动物与生态保护",
+    "cn": "建立生态保护站",
+    "en": "set up an ecological protection station"
+  },
+  {
+    "id": "ph_0383",
+    "category": "动物与生态保护",
+    "cn": "保护……的迫切需求",
+    "en": "the urgent need to protect..."
+  },
+  {
+    "id": "ph_0384",
+    "category": "动物与生态保护",
+    "cn": "改善它们的整体生存状况",
+    "en": "improve their overall well-being"
+  },
+  {
+    "id": "ph_0385",
+    "category": "动物与生态保护",
+    "cn": "让我停下来反思",
+    "en": "made me stop and reflect"
+  },
+  {
+    "id": "ph_0386",
+    "category": "动物与生态保护",
+    "cn": "把信念付诸实践",
+    "en": "put her beliefs into practice"
+  },
+  {
+    "id": "ph_0387",
+    "category": "动物与生态保护",
+    "cn": "不只是说说而已，而是真正去做",
+    "en": "not just about talking the talk, but about following through"
+  },
+  {
+    "id": "ph_0388",
+    "category": "动物与生态保护",
+    "cn": "发誓不再穿皮草",
+    "en": "I swear off wearing fur"
+  },
+  {
+    "id": "ph_0389",
+    "category": "动物与生态保护",
+    "cn": "以实际方式支持动物保护",
+    "en": "support animal protection in practical ways"
+  },
+  {
+    "id": "ph_0390",
+    "category": "动物与生态保护",
+    "cn": "向生态组织捐款",
+    "en": "donate to ecological organisations"
+  },
+  {
+    "id": "ph_0391",
+    "category": "动物与生态保护",
+    "cn": "提高公众意识",
+    "en": "raise awareness"
+  },
+  {
+    "id": "ph_0392",
+    "category": "动物与生态保护",
+    "cn": "深深打动我",
+    "en": "strike a chord with me"
+  },
+  {
+    "id": "ph_0393",
+    "category": "动物与生态保护",
+    "cn": "让我意识到一个人也能产生真正的改变",
+    "en": "make me realise that even one person can make a real difference"
+  },
+  {
+    "id": "ph_0394",
+    "category": "职业与团队管理",
+    "cn": "钱确实重要",
+    "en": "money does matter"
+  },
+  {
+    "id": "ph_0395",
+    "category": "职业与团队管理",
+    "cn": "这不是全部原因",
+    "en": "it’s not the whole story"
+  },
+  {
+    "id": "ph_0396",
+    "category": "职业与团队管理",
+    "cn": "感觉经济上有安全感",
+    "en": "feel financially secure"
+  },
+  {
+    "id": "ph_0397",
+    "category": "职业与团队管理",
+    "cn": "覆盖日常开销",
+    "en": "cover daily expenses"
+  },
+  {
+    "id": "ph_0398",
+    "category": "职业与团队管理",
+    "cn": "维持生计",
+    "en": "make ends meet"
+  },
+  {
+    "id": "ph_0399",
+    "category": "职业与团队管理",
+    "cn": "不错的薪资待遇",
+    "en": "a decent salary package"
+  },
+  {
+    "id": "ph_0400",
+    "category": "职业与团队管理",
+    "cn": "稳定收入",
+    "en": "a steady income"
+  },
+  {
+    "id": "ph_0401",
+    "category": "职业与团队管理",
+    "cn": "提高收入潜力",
+    "en": "increase earning potential"
+  },
+  {
+    "id": "ph_0402",
+    "category": "职业与团队管理",
+    "cn": "出于现实原因选择工作",
+    "en": "choose a job for practical reasons"
+  },
+  {
+    "id": "ph_0403",
+    "category": "职业与团队管理",
+    "cn": "工作生活平衡",
+    "en": "work-life balance"
+  },
+  {
+    "id": "ph_0404",
+    "category": "职业与团队管理",
+    "cn": "工作满意度",
+    "en": "job satisfaction"
+  },
+  {
+    "id": "ph_0405",
+    "category": "职业与团队管理",
+    "cn": "觉得工作有意义",
+    "en": "feel that the work is meaningful"
+  },
+  {
+    "id": "ph_0406",
+    "category": "职业与团队管理",
+    "cn": "成长感和成就感",
+    "en": "a sense of growth and achievement"
+  },
+  {
+    "id": "ph_0407",
+    "category": "职业与团队管理",
+    "cn": "成长空间",
+    "en": "room to grow"
+  },
+  {
+    "id": "ph_0408",
+    "category": "职业与团队管理",
+    "cn": "培养实用技能",
+    "en": "develop practical skills"
+  },
+  {
+    "id": "ph_0409",
+    "category": "职业与团队管理",
+    "cn": "获得实践经验",
+    "en": "gain hands-on experience"
+  },
+  {
+    "id": "ph_0410",
+    "category": "职业与团队管理",
+    "cn": "有良好的职业前景",
+    "en": "have good career prospects"
+  },
+  {
+    "id": "ph_0411",
+    "category": "职业与团队管理",
+    "cn": "清晰的职业路径",
+    "en": "a clear career path"
+  },
+  {
+    "id": "ph_0412",
+    "category": "职业与团队管理",
+    "cn": "在职业上继续前进",
+    "en": "move forward in one's career"
+  },
+  {
+    "id": "ph_0413",
+    "category": "职业与团队管理",
+    "cn": "被困在没有前途的工作里",
+    "en": "be stuck in a dead-end job"
+  },
+  {
+    "id": "ph_0414",
+    "category": "职业与团队管理",
+    "cn": "一份要求很高的工作",
+    "en": "a demanding job"
+  },
+  {
+    "id": "ph_0415",
+    "category": "职业与团队管理",
+    "cn": "精神上非常疲惫的工作",
+    "en": "mentally draining work"
+  },
+  {
+    "id": "ph_0416",
+    "category": "职业与团队管理",
+    "cn": "因工作过度而感到精疲力尽",
+    "en": "feel burned out from work"
+  },
+  {
+    "id": "ph_0417",
+    "category": "职业与团队管理",
+    "cn": "应对繁重的工作量",
+    "en": "deal with a heavy workload"
+  },
+  {
+    "id": "ph_0418",
+    "category": "职业与团队管理",
+    "cn": "应对工作压力",
+    "en": "handle pressure at work"
+  },
+  {
+    "id": "ph_0419",
+    "category": "职业与团队管理",
+    "cn": "提升工作表现",
+    "en": "improve work performance"
+  },
+  {
+    "id": "ph_0420",
+    "category": "职业与团队管理",
+    "cn": "激发团队最好的一面",
+    "en": "bring out the best in the team"
+  },
+  {
+    "id": "ph_0421",
+    "category": "职业与团队管理",
+    "cn": "设定清晰方向",
+    "en": "set a clear direction"
+  },
+  {
+    "id": "ph_0422",
+    "category": "职业与团队管理",
+    "cn": "给建设性反馈",
+    "en": "give constructive feedback"
+  },
+  {
+    "id": "ph_0423",
+    "category": "职业与团队管理",
+    "cn": "清楚说明自己的期待",
+    "en": "make it clear what they expect"
+  },
+  {
+    "id": "ph_0424",
+    "category": "职业与团队管理",
+    "cn": "在团队中建立信任",
+    "en": "build trust within the team"
+  },
+  {
+    "id": "ph_0425",
+    "category": "职业与团队管理",
+    "cn": "让团队保持动力",
+    "en": "keep the team motivated"
+  },
+  {
+    "id": "ph_0426",
+    "category": "职业与团队管理",
+    "cn": "让大家保持士气",
+    "en": "keep people's spirits up"
+  },
+  {
+    "id": "ph_0427",
+    "category": "职业与团队管理",
+    "cn": "公平处理冲突",
+    "en": "handle conflicts fairly"
+  },
+  {
+    "id": "ph_0428",
+    "category": "职业与团队管理",
+    "cn": "压力下保持冷静",
+    "en": "stay calm under pressure"
+  },
+  {
+    "id": "ph_0429",
+    "category": "职业与团队管理",
+    "cn": "很会读懂别人 / 有情商",
+    "en": "be good at reading people"
+  },
+  {
+    "id": "ph_0430",
+    "category": "职业与团队管理",
+    "cn": "理解每个人的长处和短板",
+    "en": "understand people's strengths and weaknesses"
+  },
+  {
+    "id": "ph_0431",
+    "category": "职业与团队管理",
+    "cn": "给别人分配适合他们优势的任务",
+    "en": "give people tasks that suit their strengths"
+  },
+  {
+    "id": "ph_0432",
+    "category": "职业与团队管理",
+    "cn": "提供实际支持",
+    "en": "offer practical support"
+  },
+  {
+    "id": "ph_0433",
+    "category": "职业与团队管理",
+    "cn": "营造积极的工作氛围",
+    "en": "create a positive working atmosphere"
+  },
+  {
+    "id": "ph_0434",
+    "category": "职业与团队管理",
+    "cn": "朝同一个目标努力",
+    "en": "work towards the same goal"
+  },
+  {
+    "id": "ph_0435",
+    "category": "职业与团队管理",
+    "cn": "出问题时承担责任",
+    "en": "take responsibility when things go wrong"
+  },
+  {
+    "id": "ph_0436",
+    "category": "职业与团队管理",
+    "cn": "激励别人但不打压别人",
+    "en": "motivate people without making them feel small"
+  },
+  {
+    "id": "ph_0437",
+    "category": "中国食物",
+    "cn": "很多种受欢迎的食物",
+    "en": "a wide range of popular foods"
+  },
+  {
+    "id": "ph_0438",
+    "category": "中国食物",
+    "cn": "味道足、吃起来很有安慰感的食物",
+    "en": "flavourful, comforting food"
+  },
+  {
+    "id": "ph_0439",
+    "category": "中国食物",
+    "cn": "火锅是我最喜欢的食物之一，就是把肉和蔬菜放在一锅咕嘟咕嘟的汤底里煮",
+    "en": "Hot pot is one of my favourites. You just cook meat and veggies in a bubbling pot of broth."
+  },
+  {
+    "id": "ph_0440",
+    "category": "中国食物",
+    "cn": "我很喜欢川菜，因为它又辣、又有点麻，而且味道特别足",
+    "en": "I really like Sichuan food because it’s spicy, a bit numbing, and packed with flavour."
+  },
+  {
+    "id": "ph_0441",
+    "category": "中国食物",
+    "cn": "街头小吃是在街边随手能买到的本地小吃，通常便宜、好吃，也很有地方特色",
+    "en": "Street snacks are small local bites you can grab on the street. They’re usually cheap, tasty, and full of character."
+  },
+  {
+    "id": "ph_0442",
+    "category": "中国食物",
+    "cn": "烤串是把肉或蔬菜串在签子上，加香料烤着吃，很适合晚上和朋友随便吃点",
+    "en": "Grilled skewers are meat or veggies on sticks, grilled with spices. They’re great for a casual night out."
+  },
+  {
+    "id": "ph_0443",
+    "category": "中国食物",
+    "cn": "酸辣粉酸酸辣辣，吃起来很暖很过瘾，尤其适合冷天吃",
+    "en": "Sour and spicy rice noodles are tangy, spicy, and really warming, especially on cold days."
+  },
+  {
+    "id": "ph_0444",
+    "category": "中国食物",
+    "cn": "煲仔饭是米饭和肉、蔬菜一起放在砂锅里煮，最好吃的是底下那层锅巴",
+    "en": "Claypot rice is rice cooked with meat and veggies in a clay pot. The best part is the crispy rice at the bottom."
+  },
+  {
+    "id": "ph_0445",
+    "category": "中国食物",
+    "cn": "节日食物",
+    "en": "festive foods"
+  },
+  {
+    "id": "ph_0446",
+    "category": "中国食物",
+    "cn": "年糕，春节吃的糯米糕",
+    "en": "niangao, a sticky rice cake eaten during Chinese New Year"
+  },
+  {
+    "id": "ph_0447",
+    "category": "中国食物",
+    "cn": "汤圆，放在甜汤里的小糯米球",
+    "en": "tangyuan, small sticky rice balls served in sweet soup"
+  },
+  {
+    "id": "ph_0448",
+    "category": "中国食物",
+    "cn": "粽子，用竹叶包着的糯米团",
+    "en": "zongzi, sticky rice dumplings wrapped in bamboo leaves"
+  },
+  {
+    "id": "ph_0449",
+    "category": "中国食物",
+    "cn": "腊肉腊肠",
+    "en": "cured meat and sausages"
+  },
+  {
+    "id": "ph_0450",
+    "category": "中国食物",
+    "cn": "八宝饭",
+    "en": "eight-treasure rice pudding"
+  },
+  {
+    "id": "ph_0451",
+    "category": "中国食物",
+    "cn": "长寿面",
+    "en": "longevity noodles"
+  },
+  {
+    "id": "ph_0452",
+    "category": "中国食物",
+    "cn": "整鱼",
+    "en": "whole fish"
+  },
+  {
+    "id": "ph_0453",
+    "category": "中国食物",
+    "cn": "象征好运和团圆",
+    "en": "symbolize good luck and family reunion"
+  },
+  {
+    "id": "ph_0454",
+    "category": "中国食物",
+    "cn": "更多是传统意义，不一定是日常口味",
+    "en": "be more about tradition than daily taste"
+  },
+  {
+    "id": "ph_0455",
+    "category": "中国食物",
+    "cn": "勾起童年回忆",
+    "en": "bring back childhood memories"
+  },
+  {
+    "id": "ph_0456",
+    "category": "中国食物",
+    "cn": "感觉有情感连接",
+    "en": "feel emotionally connected"
+  },
+  {
+    "id": "ph_0457",
+    "category": "中国食物",
+    "cn": "给人安慰感",
+    "en": "give people a sense of comfort"
+  },
+  {
+    "id": "ph_0458",
+    "category": "中国食物",
+    "cn": "和共同回忆联系在一起",
+    "en": "be tied to shared memories"
+  },
+  {
+    "id": "ph_0459",
+    "category": "中国食物",
+    "cn": "吃起来有家的感觉",
+    "en": "taste like home"
+  },
+  {
+    "id": "ph_0460",
+    "category": "中国食物",
+    "cn": "不只是食物本身",
+    "en": "be more than just food"
+  },
+  {
+    "id": "ph_0461",
+    "category": "中国食物",
+    "cn": "围坐在一桌",
+    "en": "sit around one table"
+  },
+  {
+    "id": "ph_0462",
+    "category": "中国食物",
+    "cn": "汤底煮着的时候一直聊天",
+    "en": "keep chatting while the soup is boiling"
+  },
+  {
+    "id": "ph_0463",
+    "category": "中国食物",
+    "cn": "工作 / 学习一整周之后",
+    "en": "after a long week of work or study"
+  },
+  {
+    "id": "ph_0464",
+    "category": "中国食物",
+    "cn": "手机上点几下就能点餐",
+    "en": "order food with a few taps on the phone"
+  },
+  {
+    "id": "ph_0465",
+    "category": "中国食物",
+    "cn": "在宿舍吃",
+    "en": "eat it in the dorm"
+  },
+  {
+    "id": "ph_0466",
+    "category": "中国食物",
+    "cn": "太累了不想做饭",
+    "en": "be too tired to cook"
+  },
+  {
+    "id": "ph_0467",
+    "category": "中国食物",
+    "cn": "选择更多，吃到东西也更快",
+    "en": "more choice and faster access to food"
+  },
+  {
+    "id": "ph_0468",
+    "category": "中国食物",
+    "cn": "主要吃家常饭",
+    "en": "mostly eat home-cooked meals"
+  },
+  {
+    "id": "ph_0469",
+    "category": "中国食物",
+    "cn": "应季蔬菜",
+    "en": "seasonal vegetables"
+  },
+  {
+    "id": "ph_0470",
+    "category": "中国食物",
+    "cn": "没有那么丰富",
+    "en": "not always that varied"
+  },
+  {
+    "id": "ph_0471",
+    "category": "中国食物",
+    "cn": "整体选择丰富多了",
+    "en": "the whole thing is much more diverse"
+  },
+  {
+    "id": "ph_0472",
+    "category": "中国食物",
+    "cn": "点外卖点得有点过头",
+    "en": "get carried away with takeout"
+  },
+  {
+    "id": "ph_0473",
+    "category": "中国食物",
+    "cn": "更有健康意识",
+    "en": "be more health-conscious"
+  },
+  {
+    "id": "ph_0474",
+    "category": "中国食物",
+    "cn": "看热量",
+    "en": "check calories"
+  },
+  {
+    "id": "ph_0475",
+    "category": "中国食物",
+    "cn": "减少糖分",
+    "en": "cut down on sugar"
+  },
+  {
+    "id": "ph_0476",
+    "category": "中国食物",
+    "cn": "选择重口、咸、油的食物",
+    "en": "go for heavy, salty, or oily food"
+  },
+  {
+    "id": "ph_0477",
+    "category": "中国食物",
+    "cn": "有好有坏",
+    "en": "a bit of a mixed bag"
+  },
+  {
+    "id": "ph_0478",
+    "category": "宠物清理法规",
+    "cn": "推出一项法律",
+    "en": "introduce a law"
+  },
+  {
+    "id": "ph_0479",
+    "category": "宠物清理法规",
+    "cn": "要求宠物主人做某事",
+    "en": "require pet owners to do sth"
+  },
+  {
+    "id": "ph_0480",
+    "category": "宠物清理法规",
+    "cn": "公共空间是大家的",
+    "en": "public spaces are for everyone"
+  },
+  {
+    "id": "ph_0481",
+    "category": "宠物清理法规",
+    "cn": "承担这个责任",
+    "en": "take on this responsibility"
+  },
+  {
+    "id": "ph_0482",
+    "category": "宠物清理法规",
+    "cn": "把烂摊子留给别人处理",
+    "en": "leave the mess for others to deal with"
+  },
+  {
+    "id": "ph_0483",
+    "category": "宠物清理法规",
+    "cn": "小规则，但影响很实际",
+    "en": "a small rule with a real impact"
+  },
+  {
+    "id": "ph_0484",
+    "category": "宠物清理法规",
+    "cn": "听起来可能是小事",
+    "en": "it might sound like a tiny issue"
+  },
+  {
+    "id": "ph_0485",
+    "category": "宠物清理法规",
+    "cn": "让社区更干净舒服",
+    "en": "make the neighbourhood cleaner and more pleasant"
+  },
+  {
+    "id": "ph_0486",
+    "category": "宠物清理法规",
+    "cn": "清理宠物留下的东西",
+    "en": "clean up after their pets"
+  },
+  {
+    "id": "ph_0487",
+    "category": "宠物清理法规",
+    "cn": "留在人行道上的狗屎 / 宠物粪便",
+    "en": "dog waste left on the pavement"
+  },
+  {
+    "id": "ph_0488",
+    "category": "宠物清理法规",
+    "cn": "随身带小垃圾袋",
+    "en": "carry small waste bags"
+  },
+  {
+    "id": "ph_0489",
+    "category": "宠物清理法规",
+    "cn": "不管的话会被罚款",
+    "en": "get fined if they ignore it"
+  },
+  {
+    "id": "ph_0490",
+    "category": "宠物清理法规",
+    "cn": "在小区附近散步",
+    "en": "go for walks around my neighbourhood"
+  },
+  {
+    "id": "ph_0491",
+    "category": "宠物清理法规",
+    "cn": "时不时",
+    "en": "every now and then"
+  },
+  {
+    "id": "ph_0492",
+    "category": "宠物清理法规",
+    "cn": "差点踩到",
+    "en": "almost step in it"
+  },
+  {
+    "id": "ph_0493",
+    "category": "宠物清理法规",
+    "cn": "在人行道上躲狗屎",
+    "en": "dodge dog poop on the pavement"
+  },
+  {
+    "id": "ph_0494",
+    "category": "宠物清理法规",
+    "cn": "影响我的心情",
+    "en": "put a damper on my mood / ruin my mood"
+  },
+  {
+    "id": "ph_0495",
+    "category": "宠物清理法规",
+    "cn": "很不卫生",
+    "en": "really unhygienic"
+  },
+  {
+    "id": "ph_0496",
+    "category": "宠物清理法规",
+    "cn": "在草地上玩的小孩",
+    "en": "children playing on the grass"
+  },
+  {
+    "id": "ph_0497",
+    "category": "宠物清理法规",
+    "cn": "晚上散步的老人",
+    "en": "elderly people walking in the evening"
+  },
+  {
+    "id": "ph_0498",
+    "category": "宠物清理法规",
+    "cn": "街道和公园会立刻更干净",
+    "en": "the streets and parks would feel cleaner right away"
+  },
+  {
+    "id": "ph_0499",
+    "category": "城市野生动物保护",
+    "cn": "保护城市野生动物",
+    "en": "protect urban wildlife"
+  },
+  {
+    "id": "ph_0500",
+    "category": "城市野生动物保护",
+    "cn": "小型野生动物",
+    "en": "small wild animals / small creatures"
+  },
+  {
+    "id": "ph_0501",
+    "category": "城市野生动物保护",
+    "cn": "保持城市生态系统健康",
+    "en": "keep the urban ecosystem healthy"
+  },
+  {
+    "id": "ph_0502",
+    "category": "城市野生动物保护",
+    "cn": "鸟 / 青蛙 / 蝙蝠 / 昆虫",
+    "en": "birds / frogs / bats / insects"
+  },
+  {
+    "id": "ph_0503",
+    "category": "城市野生动物保护",
+    "cn": "保护它们的栖息地",
+    "en": "protect their habitats"
+  },
+  {
+    "id": "ph_0504",
+    "category": "城市野生动物保护",
+    "cn": "建筑工程",
+    "en": "construction projects"
+  },
+  {
+    "id": "ph_0505",
+    "category": "城市野生动物保护",
+    "cn": "一夜之间被推平",
+    "en": "get bulldozed overnight"
+  },
+  {
+    "id": "ph_0506",
+    "category": "城市野生动物保护",
+    "cn": "伤害一开始不一定明显",
+    "en": "the damage is not always obvious at first"
+  },
+  {
+    "id": "ph_0507",
+    "category": "城市野生动物保护",
+    "cn": "环境会慢慢失去平衡",
+    "en": "the environment slowly loses its balance"
+  },
+  {
+    "id": "ph_0508",
+    "category": "城市野生动物保护",
+    "cn": "野生动物影响评估",
+    "en": "wildlife impact assessment"
+  },
+  {
+    "id": "ph_0509",
+    "category": "城市野生动物保护",
+    "cn": "野生动物通道",
+    "en": "wildlife corridors"
+  },
+  {
+    "id": "ph_0510",
+    "category": "城市野生动物保护",
+    "cn": "花时间待在户外",
+    "en": "spend time outdoors"
+  },
+  {
+    "id": "ph_0511",
+    "category": "城市野生动物保护",
+    "cn": "放空脑子 / 理清思绪",
+    "en": "clear my head"
+  },
+  {
+    "id": "ph_0512",
+    "category": "城市野生动物保护",
+    "cn": "让人觉得安定和疗愈",
+    "en": "feel grounding and healing"
+  },
+  {
+    "id": "ph_0513",
+    "category": "城市野生动物保护",
+    "cn": "感受自然舒缓的氛围",
+    "en": "take in the soothing vibe of nature"
+  },
+  {
+    "id": "ph_0514",
+    "category": "城市野生动物保护",
+    "cn": "容易被忽视",
+    "en": "easy to overlook"
+  },
+  {
+    "id": "ph_0515",
+    "category": "城市野生动物保护",
+    "cn": "保护我们自己的身心状态",
+    "en": "protect our own well-being"
+  },
+  {
+    "id": "ph_0516",
+    "category": "城市野生动物保护",
+    "cn": "我知道这听起来像小事，但是……",
+    "en": "I know it might sound like a small thing, but..."
+  },
+  {
+    "id": "ph_0517",
+    "category": "城市野生动物保护",
+    "cn": "问题是……",
+    "en": "The thing is, ..."
+  },
+  {
+    "id": "ph_0518",
+    "category": "城市野生动物保护",
+    "cn": "这不只是……也是……",
+    "en": "It is not just about..., it is also about..."
+  },
+  {
+    "id": "ph_0519",
+    "category": "城市野生动物保护",
+    "cn": "如果这项法律被推出……",
+    "en": "If this law were introduced, ..."
+  },
+  {
+    "id": "ph_0520",
+    "category": "城市野生动物保护",
+    "cn": "某种程度上……",
+    "en": "In a way, ..."
+  },
+  {
+    "id": "ph_0521",
+    "category": "城市野生动物保护",
+    "cn": "这就是为什么我觉得这个法律有意义",
+    "en": "That's why I feel this law would be meaningful."
+  },
+  {
+    "id": "ph_0522",
+    "category": "篮球与健身",
+    "cn": "一场篮球决赛",
+    "en": "a basketball final"
+  },
+  {
+    "id": "ph_0523",
+    "category": "篮球与健身",
+    "cn": "两个院系之间的比赛",
+    "en": "a match between two departments"
+  },
+  {
+    "id": "ph_0524",
+    "category": "篮球与健身",
+    "cn": "我上大学的时候",
+    "en": "when I was at university"
+  },
+  {
+    "id": "ph_0525",
+    "category": "篮球与健身",
+    "cn": "为其中一队打球",
+    "en": "play for one of the teams"
+  },
+  {
+    "id": "ph_0526",
+    "category": "篮球与健身",
+    "cn": "不是特别狂热的篮球迷",
+    "en": "not a huge basketball fan"
+  },
+  {
+    "id": "ph_0527",
+    "category": "篮球与健身",
+    "cn": "安静坐在那里看",
+    "en": "sit there quietly and watch"
+  },
+  {
+    "id": "ph_0528",
+    "category": "篮球与健身",
+    "cn": "有点暗恋某人",
+    "en": "have a little crush on someone"
+  },
+  {
+    "id": "ph_0529",
+    "category": "篮球与健身",
+    "cn": "一开始去那里是因为……",
+    "en": "go there at first because..."
+  },
+  {
+    "id": "ph_0530",
+    "category": "篮球与健身",
+    "cn": "假装很淡定",
+    "en": "try to act calm"
+  },
+  {
+    "id": "ph_0531",
+    "category": "篮球与健身",
+    "cn": "感觉有点戏剧化",
+    "en": "feel a bit dramatic"
+  },
+  {
+    "id": "ph_0532",
+    "category": "篮球与健身",
+    "cn": "那一点青春期 / 学生时代的暗恋",
+    "en": "that tiny bit of teenage crush"
+  },
+  {
+    "id": "ph_0533",
+    "category": "篮球与健身",
+    "cn": "氛围一下子把我拉进去了",
+    "en": "the atmosphere pulled me in"
+  },
+  {
+    "id": "ph_0534",
+    "category": "篮球与健身",
+    "cn": "体育馆里挤满了学生",
+    "en": "the gym was packed with students"
+  },
+  {
+    "id": "ph_0535",
+    "category": "篮球与健身",
+    "cn": "喊叫和鼓掌",
+    "en": "shout and clap"
+  },
+  {
+    "id": "ph_0536",
+    "category": "篮球与健身",
+    "cn": "拼命加油 / 喊到很投入",
+    "en": "cheer their hearts out"
+  },
+  {
+    "id": "ph_0537",
+    "category": "篮球与健身",
+    "cn": "全场一下子炸了",
+    "en": "the whole place exploded"
+  },
+  {
+    "id": "ph_0538",
+    "category": "篮球与健身",
+    "cn": "被气氛带着走 / 嗨起来",
+    "en": "get carried away"
+  },
+  {
+    "id": "ph_0539",
+    "category": "篮球与健身",
+    "cn": "比分咬得很紧",
+    "en": "the score was really close"
+  },
+  {
+    "id": "ph_0540",
+    "category": "篮球与健身",
+    "cn": "比赛快结束的时候",
+    "en": "near the end of the match"
+  },
+  {
+    "id": "ph_0541",
+    "category": "篮球与健身",
+    "cn": "在最后几秒钟",
+    "en": "in the final few seconds"
+  },
+  {
+    "id": "ph_0542",
+    "category": "篮球与健身",
+    "cn": "投进一个三分球",
+    "en": "hit a three-pointer"
+  },
+  {
+    "id": "ph_0543",
+    "category": "篮球与健身",
+    "cn": "全场沸腾",
+    "en": "the crowd went wild"
+  },
+  {
+    "id": "ph_0544",
+    "category": "篮球与健身",
+    "cn": "跟大家一起尖叫",
+    "en": "scream like everyone else"
+  },
+  {
+    "id": "ph_0545",
+    "category": "篮球与健身",
+    "cn": "没想到自己能这么激动",
+    "en": "have no idea I could be that excited"
+  },
+  {
+    "id": "ph_0546",
+    "category": "篮球与健身",
+    "cn": "这不只是比赛本身",
+    "en": "it was not just about the match itself"
+  },
+  {
+    "id": "ph_0547",
+    "category": "篮球与健身",
+    "cn": "校园氛围",
+    "en": "the campus atmosphere"
+  },
+  {
+    "id": "ph_0548",
+    "category": "篮球与健身",
+    "cn": "嗓子喊哑了才离开体育馆",
+    "en": "leave the gym with a sore throat"
+  },
+  {
+    "id": "ph_0549",
+    "category": "篮球与健身",
+    "cn": "心情特别好",
+    "en": "be in such a good mood"
+  },
+  {
+    "id": "ph_0550",
+    "category": "篮球与健身",
+    "cn": "去健身房锻炼",
+    "en": "hit the gym"
+  },
+  {
+    "id": "ph_0551",
+    "category": "篮球与健身",
+    "cn": "保持身材和健康",
+    "en": "stay in shape"
+  },
+  {
+    "id": "ph_0552",
+    "category": "篮球与健身",
+    "cn": "避免久坐不动的生活方式",
+    "en": "prevent a sedentary lifestyle"
+  },
+  {
+    "id": "ph_0553",
+    "category": "篮球与健身",
+    "cn": "容易上手 / 入门门槛低",
+    "en": "be easy to get into"
+  },
+  {
+    "id": "ph_0554",
+    "category": "篮球与健身",
+    "cn": "不需要太多装备",
+    "en": "do not require much equipment"
+  },
+  {
+    "id": "ph_0555",
+    "category": "篮球与健身",
+    "cn": "社交属性很强",
+    "en": "have a strong social side"
+  },
+  {
+    "id": "ph_0556",
+    "category": "篮球与健身",
+    "cn": "能融入日常生活",
+    "en": "fit into people’s daily routine"
+  },
+  {
+    "id": "ph_0557",
+    "category": "篮球与健身",
+    "cn": "跟着视频锻炼",
+    "en": "follow YouTube workouts"
+  },
+  {
+    "id": "ph_0558",
+    "category": "篮球与健身",
+    "cn": "关注健身博主学锻炼",
+    "en": "follow fitness influencers"
+  },
+  {
+    "id": "ph_0559",
+    "category": "家长引导与个人成长",
+    "cn": "家长引导",
+    "en": "parental guidance"
+  },
+  {
+    "id": "ph_0560",
+    "category": "家长引导与个人成长",
+    "cn": "介入 / 退一步",
+    "en": "step in / step back"
+  },
+  {
+    "id": "ph_0561",
+    "category": "家长引导与个人成长",
+    "cn": "塑造孩子的价值观",
+    "en": "shape children’s values"
+  },
+  {
+    "id": "ph_0562",
+    "category": "家长引导与个人成长",
+    "cn": "分辨是非",
+    "en": "tell right from wrong"
+  },
+  {
+    "id": "ph_0563",
+    "category": "家长引导与个人成长",
+    "cn": "吸收周围几乎所有东西",
+    "en": "soak up almost everything around them"
+  },
+  {
+    "id": "ph_0564",
+    "category": "家长引导与个人成长",
+    "cn": "他们的大脑像海绵",
+    "en": "Their brains are like sponges"
+  },
+  {
+    "id": "ph_0565",
+    "category": "家长引导与个人成长",
+    "cn": "学到习惯、价值观，甚至情绪模式",
+    "en": "pick up habits, values, and even emotional patterns"
+  },
+  {
+    "id": "ph_0566",
+    "category": "家长引导与个人成长",
+    "cn": "归根到底是模仿",
+    "en": "this comes down to imitation"
+  },
+  {
+    "id": "ph_0567",
+    "category": "家长引导与个人成长",
+    "cn": "模仿身边的人",
+    "en": "copy the people around them"
+  },
+  {
+    "id": "ph_0568",
+    "category": "家长引导与个人成长",
+    "cn": "以身作则",
+    "en": "lead by example"
+  },
+  {
+    "id": "ph_0569",
+    "category": "家长引导与个人成长",
+    "cn": "出问题时保持冷静",
+    "en": "stay calm when things go wrong / keep one’s cool"
+  },
+  {
+    "id": "ph_0570",
+    "category": "家长引导与个人成长",
+    "cn": "可能会慢慢内化",
+    "en": "may slowly sink in"
+  },
+  {
+    "id": "ph_0571",
+    "category": "家长引导与个人成长",
+    "cn": "打基础",
+    "en": "lay the groundwork"
+  },
+  {
+    "id": "ph_0572",
+    "category": "家长引导与个人成长",
+    "cn": "好习惯会随着时间慢慢积累",
+    "en": "good habits build up over time"
+  },
+  {
+    "id": "ph_0573",
+    "category": "家长引导与个人成长",
+    "cn": "夺走学习的乐趣",
+    "en": "take the joy out of learning"
+  },
+  {
+    "id": "ph_0574",
+    "category": "家长引导与个人成长",
+    "cn": "逼太紧 / 对某人太严厉",
+    "en": "push too hard / be too harsh on sb"
+  },
+  {
+    "id": "ph_0575",
+    "category": "家长引导与个人成长",
+    "cn": "反抗 / 顶回去",
+    "en": "push back"
+  },
+  {
+    "id": "ph_0576",
+    "category": "家长引导与个人成长",
+    "cn": "情绪上关闭、不愿沟通",
+    "en": "shut down emotionally"
+  },
+  {
+    "id": "ph_0577",
+    "category": "家长引导与个人成长",
+    "cn": "把情绪憋在心里",
+    "en": "bottle things up / hold back their feelings"
+  },
+  {
+    "id": "ph_0578",
+    "category": "家长引导与个人成长",
+    "cn": "扼杀创造力",
+    "en": "stifle one’s creativity"
+  },
+  {
+    "id": "ph_0579",
+    "category": "家长引导与个人成长",
+    "cn": "设立清晰边界",
+    "en": "set clear boundaries"
+  },
+  {
+    "id": "ph_0580",
+    "category": "家长引导与个人成长",
+    "cn": "给他们成长空间",
+    "en": "give them room / space to grow"
+  },
+  {
+    "id": "ph_0581",
+    "category": "家长引导与个人成长",
+    "cn": "成长为独立、有自己想法的人",
+    "en": "grow into their own person"
+  },
+  {
+    "id": "ph_0582",
+    "category": "家长引导与个人成长",
+    "cn": "弄清自己是谁，想要什么样的生活",
+    "en": "figure out who they are and what kind of life they want"
+  },
+  {
+    "id": "ph_0583",
+    "category": "家长引导与个人成长",
+    "cn": "做自己的选择",
+    "en": "make their own choices"
+  },
+  {
+    "id": "ph_0584",
+    "category": "家长引导与个人成长",
+    "cn": "独立起来，不再完全依赖别人",
+    "en": "stand on their own two feet"
+  },
+  {
+    "id": "ph_0585",
+    "category": "家长引导与个人成长",
+    "cn": "走出舒适区",
+    "en": "step out of their comfort zone"
+  },
+  {
+    "id": "ph_0586",
+    "category": "家长引导与个人成长",
+    "cn": "在心智和人格上成长",
+    "en": "grow as people"
+  },
+  {
+    "id": "ph_0587",
+    "category": "家长引导与个人成长",
+    "cn": "犯错 / 从经历中学习",
+    "en": "make mistakes / learn from experience"
+  },
+  {
+    "id": "ph_0588",
+    "category": "家长引导与个人成长",
+    "cn": "吃亏后学到某事",
+    "en": "learn sth the hard way"
+  },
+  {
+    "id": "ph_0589",
+    "category": "家长引导与个人成长",
+    "cn": "把长期后果想清楚",
+    "en": "think through the long-term consequences"
+  },
+  {
+    "id": "ph_0590",
+    "category": "家长引导与个人成长",
+    "cn": "短期爽感与长期成长",
+    "en": "short-term pleasure vs long-term growth"
+  },
+  {
+    "id": "ph_0591",
+    "category": "家长引导与个人成长",
+    "cn": "权衡利弊",
+    "en": "weigh the pros and cons"
+  },
+  {
+    "id": "ph_0592",
+    "category": "家长引导与个人成长",
+    "cn": "做出考虑充分的决定",
+    "en": "make an informed decision"
+  },
+  {
+    "id": "ph_0593",
+    "category": "家长引导与个人成长",
+    "cn": "被同伴压力 / 情绪带着走",
+    "en": "get carried away by peer pressure / emotions"
+  },
+  {
+    "id": "ph_0594",
+    "category": "家长引导与个人成长",
+    "cn": "增加那种压力",
+    "en": "add to that pressure"
+  },
+  {
+    "id": "ph_0595",
+    "category": "家长引导与个人成长",
+    "cn": "掉进比较陷阱",
+    "en": "fall into the comparison trap"
+  },
+  {
+    "id": "ph_0596",
+    "category": "家长引导与个人成长",
+    "cn": "落后 / 感觉自己掉队",
+    "en": "fall behind"
+  },
+  {
+    "id": "ph_0597",
+    "category": "家长引导与个人成长",
+    "cn": "选择它 / 冲它去",
+    "en": "go for it"
+  },
+  {
+    "id": "ph_0598",
+    "category": "家长引导与个人成长",
+    "cn": "跟风 / 随大流",
+    "en": "jump on the bandwagon"
+  },
+  {
+    "id": "ph_0599",
+    "category": "家长引导与个人成长",
+    "cn": "变成控制",
+    "en": "turn into control"
+  },
+  {
+    "id": "ph_0600",
+    "category": "家长引导与个人成长",
+    "cn": "接管他们的人生",
+    "en": "take over their life"
+  },
+  {
+    "id": "ph_0601",
+    "category": "家长引导与个人成长",
+    "cn": "支持他们，给他们撑腰",
+    "en": "back them up"
+  },
+  {
+    "id": "ph_0602",
+    "category": "家长引导与个人成长",
+    "cn": "鼓励某人，而不是打击某人",
+    "en": "build sb up instead of tearing sb down"
+  },
+  {
+    "id": "ph_0603",
+    "category": "家长引导与个人成长",
+    "cn": "人们想从日常生活中同一个东西里获得什么",
+    "en": "what people want to get out of the same thing in everyday life"
+  },
+  {
+    "id": "ph_0604",
+    "category": "家长引导与个人成长",
+    "cn": "被好玩、快、方便、有社交刺激的东西吸引",
+    "en": "be drawn to things that feel fun, fast, convenient, or socially exciting"
+  },
+  {
+    "id": "ph_0605",
+    "category": "家长引导与个人成长",
+    "cn": "获得一阵多巴胺爽感",
+    "en": "get a quick dopamine hit"
+  },
+  {
+    "id": "ph_0606",
+    "category": "家长引导与个人成长",
+    "cn": "从中获得乐趣 / 爽感",
+    "en": "get a kick out of it"
+  },
+  {
+    "id": "ph_0607",
+    "category": "家长引导与个人成长",
+    "cn": "即时满足",
+    "en": "instant gratification"
+  },
+  {
+    "id": "ph_0608",
+    "category": "家长引导与个人成长",
+    "cn": "跟上朋友动态",
+    "en": "keep up with friends"
+  },
+  {
+    "id": "ph_0609",
+    "category": "家长引导与个人成长",
+    "cn": "在圈内，知道发生了什么",
+    "en": "stay in the loop"
+  },
+  {
+    "id": "ph_0610",
+    "category": "家长引导与个人成长",
+    "cn": "不大折腾地把实际事情办好",
+    "en": "get practical things done without too much fuss"
+  },
+  {
+    "id": "ph_0611",
+    "category": "家长引导与个人成长",
+    "cn": "这件事也有点情感层面",
+    "en": "There's an emotional side to it"
+  },
+  {
+    "id": "ph_0612",
+    "category": "家长引导与个人成长",
+    "cn": "感觉被接纳、没被落下",
+    "en": "feel included"
+  },
+  {
+    "id": "ph_0613",
+    "category": "家长引导与个人成长",
+    "cn": "感到孤单 / 和别人断开",
+    "en": "feel isolated / cut off from others"
+  },
+  {
+    "id": "ph_0614",
+    "category": "家长引导与个人成长",
+    "cn": "和家人保持亲近",
+    "en": "keep close to family"
+  },
+  {
+    "id": "ph_0615",
+    "category": "居住空间与互访",
+    "cn": "市中心附近的老居民区",
+    "en": "an old residential area near the city centre"
+  },
+  {
+    "id": "ph_0616",
+    "category": "居住空间与互访",
+    "cn": "一个小一居室",
+    "en": "a small one-bedroom flat"
+  },
+  {
+    "id": "ph_0617",
+    "category": "居住空间与互访",
+    "cn": "在老楼的四楼",
+    "en": "on the fourth floor of an old building"
+  },
+  {
+    "id": "ph_0618",
+    "category": "居住空间与互访",
+    "cn": "没什么特别高级的",
+    "en": "nothing fancy"
+  },
+  {
+    "id": "ph_0619",
+    "category": "居住空间与互访",
+    "cn": "有一种很特别的氛围",
+    "en": "have a really special atmosphere"
+  },
+  {
+    "id": "ph_0620",
+    "category": "居住空间与互访",
+    "cn": "暖灯、绿植、香薰蜡烛",
+    "en": "warm lights, green plants, scented candles"
+  },
+  {
+    "id": "ph_0621",
+    "category": "居住空间与互访",
+    "cn": "地上的软垫",
+    "en": "soft cushions on the floor"
+  },
+  {
+    "id": "ph_0622",
+    "category": "居住空间与互访",
+    "cn": "一个放塔罗牌 / 冥想用的小角落",
+    "en": "a small corner for tarot cards and meditation"
+  },
+  {
+    "id": "ph_0623",
+    "category": "居住空间与互访",
+    "cn": "不太像普通的家",
+    "en": "feel less like an ordinary home"
+  },
+  {
+    "id": "ph_0624",
+    "category": "居住空间与互访",
+    "cn": "一个安静的小避风港",
+    "en": "a quiet little retreat"
+  },
+  {
+    "id": "ph_0625",
+    "category": "居住空间与互访",
+    "cn": "邀请我去她家",
+    "en": "invite me over"
+  },
+  {
+    "id": "ph_0626",
+    "category": "居住空间与互访",
+    "cn": "经历一段压力很大的时期",
+    "en": "go through a stressful period"
+  },
+  {
+    "id": "ph_0627",
+    "category": "居住空间与互访",
+    "cn": "有点困在自己的脑子里 / 想太多",
+    "en": "feel a bit stuck in my own head"
+  },
+  {
+    "id": "ph_0628",
+    "category": "居住空间与互访",
+    "cn": "喝茶聊一会儿",
+    "en": "drink tea and talk for a while"
+  },
+  {
+    "id": "ph_0629",
+    "category": "居住空间与互访",
+    "cn": "做一个简单的塔罗解读",
+    "en": "do a simple tarot reading"
+  },
+  {
+    "id": "ph_0630",
+    "category": "居住空间与互访",
+    "cn": "听一些让人平静的音乐",
+    "en": "listen to some calming music"
+  },
+  {
+    "id": "ph_0631",
+    "category": "居住空间与互访",
+    "cn": "感觉轻松一点、踏实一点",
+    "en": "feel lighter and more grounded"
+  },
+  {
+    "id": "ph_0632",
+    "category": "居住空间与互访",
+    "cn": "短暂放空几个小时",
+    "en": "switch off for a few hours"
+  },
+  {
+    "id": "ph_0633",
+    "category": "居住空间与互访",
+    "cn": "一个安静的逃离空间",
+    "en": "a peaceful escape"
+  },
+  {
+    "id": "ph_0634",
+    "category": "居住空间与互访",
+    "cn": "不太适合日常生活",
+    "en": "not very practical"
+  },
+  {
+    "id": "ph_0635",
+    "category": "居住空间与互访",
+    "cn": "厨房很挤",
+    "en": "the kitchen is cramped"
+  },
+  {
+    "id": "ph_0636",
+    "category": "居住空间与互访",
+    "cn": "没有太多收纳空间",
+    "en": "there isn't much storage space"
+  },
+  {
+    "id": "ph_0637",
+    "category": "居住空间与互访",
+    "cn": "这栋楼没有电梯",
+    "en": "the building has no lift"
+  },
+  {
+    "id": "ph_0638",
+    "category": "居住空间与互访",
+    "cn": "拎着菜爬楼会很麻烦",
+    "en": "carrying groceries upstairs would be a pain"
+  },
+  {
+    "id": "ph_0639",
+    "category": "居住空间与互访",
+    "cn": "对日常生活来说太安静、太暗",
+    "en": "too quiet and dim for everyday life"
+  },
+  {
+    "id": "ph_0640",
+    "category": "居住空间与互访",
+    "cn": "感觉有点孤立 / 隔绝",
+    "en": "feel a little isolated"
+  },
+  {
+    "id": "ph_0641",
+    "category": "居住空间与互访",
+    "cn": "仍然会互相去对方家",
+    "en": "still visit each other's homes"
+  },
+  {
+    "id": "ph_0642",
+    "category": "居住空间与互访",
+    "cn": "不像以前那么频繁",
+    "en": "not as often as they used to"
+  },
+  {
+    "id": "ph_0643",
+    "category": "居住空间与互访",
+    "cn": "随便顺路去拜访",
+    "en": "drop by casually"
+  },
+  {
+    "id": "ph_0644",
+    "category": "居住空间与互访",
+    "cn": "需要提前安排",
+    "en": "need to be planned in advance"
+  },
+  {
+    "id": "ph_0645",
+    "category": "居住空间与互访",
+    "cn": "亲近的家人",
+    "en": "close family members"
+  },
+  {
+    "id": "ph_0646",
+    "category": "居住空间与互访",
+    "cn": "在大型节日期间",
+    "en": "during big festivals"
+  },
+  {
+    "id": "ph_0647",
+    "category": "居住空间与互访",
+    "cn": "每隔几周一次",
+    "en": "once every few weeks"
+  },
+  {
+    "id": "ph_0648",
+    "category": "居住空间与互访",
+    "cn": "每隔几个月一次",
+    "en": "once every few months"
+  },
+  {
+    "id": "ph_0649",
+    "category": "居住空间与互访",
+    "cn": "更喜欢在外面见面",
+    "en": "prefer meeting outside"
+  },
+  {
+    "id": "ph_0650",
+    "category": "居住空间与互访",
+    "cn": "感觉更轻松、不那么正式",
+    "en": "feel easier and less formal"
+  },
+  {
+    "id": "ph_0651",
+    "category": "居住空间与互访",
+    "cn": "在家招待客人",
+    "en": "hosting guests at home"
+  },
+  {
+    "id": "ph_0652",
+    "category": "居住空间与互访",
+    "cn": "把家里收拾得像样一点",
+    "en": "make the place look presentable"
+  },
+  {
+    "id": "ph_0653",
+    "category": "居住空间与互访",
+    "cn": "有点麻烦",
+    "en": "a bit of a hassle"
+  },
+  {
+    "id": "ph_0654",
+    "category": "居住空间与互访",
+    "cn": "已经不太是日常会发生的事了",
+    "en": "not really an everyday thing anymore"
+  },
+  {
+    "id": "ph_0655",
+    "category": "语言学习",
+    "cn": "从很小就开始学英语",
+    "en": "start learning English from a pretty early age"
+  },
+  {
+    "id": "ph_0656",
+    "category": "语言学习",
+    "cn": "在幼儿园或小学阶段",
+    "en": "in kindergarten or primary school"
+  },
+  {
+    "id": "ph_0657",
+    "category": "语言学习",
+    "cn": "和考试紧密相关",
+    "en": "be closely tied to exams"
+  },
+  {
+    "id": "ph_0658",
+    "category": "语言学习",
+    "cn": "大学申请",
+    "en": "university applications"
+  },
+  {
+    "id": "ph_0659",
+    "category": "语言学习",
+    "cn": "未来工作机会",
+    "en": "future job opportunities"
+  },
+  {
+    "id": "ph_0660",
+    "category": "语言学习",
+    "cn": "很重视这件事",
+    "en": "take it quite seriously"
+  },
+  {
+    "id": "ph_0661",
+    "category": "语言学习",
+    "cn": "学会 / 慢慢习得第二语言",
+    "en": "pick up a second language"
+  },
+  {
+    "id": "ph_0662",
+    "category": "语言学习",
+    "cn": "出于实际原因学它",
+    "en": "learn it for practical reasons"
+  },
+  {
+    "id": "ph_0663",
+    "category": "语言学习",
+    "cn": "出国学习或工作",
+    "en": "study or work abroad"
+  },
+  {
+    "id": "ph_0664",
+    "category": "语言学习",
+    "cn": "喜欢动漫、剧或流行音乐",
+    "en": "be into anime, dramas, or pop music"
+  },
+  {
+    "id": "ph_0665",
+    "category": "语言学习",
+    "cn": "更擅长阅读和语法",
+    "en": "be better at reading and grammar"
+  },
+  {
+    "id": "ph_0666",
+    "category": "语言学习",
+    "cn": "真正开口说这门语言",
+    "en": "actually speak the language"
+  },
+  {
+    "id": "ph_0667",
+    "category": "语言学习",
+    "cn": "需要开口时卡住",
+    "en": "freeze when they need to speak"
+  },
+  {
+    "id": "ph_0668",
+    "category": "语言学习",
+    "cn": "哑巴英语",
+    "en": "mute English"
+  },
+  {
+    "id": "ph_0669",
+    "category": "语言学习",
+    "cn": "很应试",
+    "en": "be quite exam-focused"
+  },
+  {
+    "id": "ph_0670",
+    "category": "语言学习",
+    "cn": "背很长的单词表",
+    "en": "memorize long word lists"
+  },
+  {
+    "id": "ph_0671",
+    "category": "语言学习",
+    "cn": "考前突击",
+    "en": "cram for tests"
+  },
+  {
+    "id": "ph_0672",
+    "category": "语言学习",
+    "cn": "纸面上懂规则",
+    "en": "know the rules on paper"
+  },
+  {
+    "id": "ph_0673",
+    "category": "语言学习",
+    "cn": "把语言真正用起来",
+    "en": "use the language in real communication"
+  },
+  {
+    "id": "ph_0674",
+    "category": "语言学习",
+    "cn": "用更实用、更交流导向的方式学",
+    "en": "learn it in a practical and communicative way"
+  },
+  {
+    "id": "ph_0675",
+    "category": "语言学习",
+    "cn": "每天用一点这门语言",
+    "en": "use the language a little bit every day"
+  },
+  {
+    "id": "ph_0676",
+    "category": "语言学习",
+    "cn": "接触这门语言",
+    "en": "get exposure to the language"
+  },
+  {
+    "id": "ph_0677",
+    "category": "语言学习",
+    "cn": "自己创造语言接触环境",
+    "en": "create exposure for yourself"
+  },
+  {
+    "id": "ph_0678",
+    "category": "语言学习",
+    "cn": "被母语者环境包围",
+    "en": "be surrounded by native speakers"
+  },
+  {
+    "id": "ph_0679",
+    "category": "语言学习",
+    "cn": "自然习得",
+    "en": "pick it up naturally"
+  },
+  {
+    "id": "ph_0680",
+    "category": "语言学习",
+    "cn": "通过真实对话学习",
+    "en": "learn through real conversations"
+  },
+  {
+    "id": "ph_0681",
+    "category": "语言学习",
+    "cn": "日常小互动",
+    "en": "small everyday interactions"
+  },
+  {
+    "id": "ph_0682",
+    "category": "语言学习",
+    "cn": "注意肢体语言",
+    "en": "pay attention to body language"
+  },
+  {
+    "id": "ph_0683",
+    "category": "语言学习",
+    "cn": "说话语气",
+    "en": "tone of voice"
+  },
+  {
+    "id": "ph_0684",
+    "category": "语言学习",
+    "cn": "语调和发音特征",
+    "en": "intonation and pronunciation features"
+  },
+  {
+    "id": "ph_0685",
+    "category": "语言学习",
+    "cn": "看短视频",
+    "en": "watch short videos"
+  },
+  {
+    "id": "ph_0686",
+    "category": "语言学习",
+    "cn": "听播客",
+    "en": "listen to podcasts"
+  },
+  {
+    "id": "ph_0687",
+    "category": "语言学习",
+    "cn": "关注外国创作者",
+    "en": "follow foreign creators"
+  },
+  {
+    "id": "ph_0688",
+    "category": "语言学习",
+    "cn": "跟读 / 影子训练母语者",
+    "en": "shadow native speakers"
+  },
+  {
+    "id": "ph_0689",
+    "category": "语言学习",
+    "cn": "重复他们说的话",
+    "en": "repeat what they say"
+  },
+  {
+    "id": "ph_0690",
+    "category": "语言学习",
+    "cn": "习惯这门语言的节奏",
+    "en": "get used to the rhythm of the language"
+  },
+  {
+    "id": "ph_0691",
+    "category": "语言学习",
+    "cn": "发简单信息",
+    "en": "send simple messages"
+  },
+  {
+    "id": "ph_0692",
+    "category": "语言学习",
+    "cn": "和线上语伴聊天",
+    "en": "talk to a language partner online"
+  },
+  {
+    "id": "ph_0693",
+    "category": "语言学习",
+    "cn": "建立开口说的习惯",
+    "en": "build the habit of speaking"
+  },
+  {
+    "id": "ph_0694",
+    "category": "语言学习",
+    "cn": "更自信地交流",
+    "en": "communicate with more confidence"
+  },
+  {
+    "id": "ph_0695",
+    "category": "分手与自我成长",
+    "cn": "感到非常骄傲",
+    "en": "feel extremely proud"
+  },
+  {
+    "id": "ph_0696",
+    "category": "分手与自我成长",
+    "cn": "经历一段非常痛苦的分手",
+    "en": "go through a really painful breakup"
+  },
+  {
+    "id": "ph_0697",
+    "category": "分手与自我成长",
+    "cn": "对她出轨",
+    "en": "cheat on her"
+  },
+  {
+    "id": "ph_0698",
+    "category": "分手与自我成长",
+    "cn": "状态崩溃 / 情绪垮掉",
+    "en": "be a wreck"
+  },
+  {
+    "id": "ph_0699",
+    "category": "分手与自我成长",
+    "cn": "情绪低落 / 很消沉",
+    "en": "be down in the dumps"
+  },
+  {
+    "id": "ph_0700",
+    "category": "分手与自我成长",
+    "cn": "一切都让人难以承受",
+    "en": "everything felt overwhelming"
+  },
+  {
+    "id": "ph_0701",
+    "category": "分手与自我成长",
+    "cn": "真的很担心",
+    "en": "be genuinely worried"
+  },
+  {
+    "id": "ph_0702",
+    "category": "分手与自我成长",
+    "cn": "恋爱脑",
+    "en": "be love-struck / seem love-struck"
+  },
+  {
+    "id": "ph_0703",
+    "category": "分手与自我成长",
+    "cn": "为某人神魂颠倒 / 爱得很深",
+    "en": "be head over heels (for someone)"
+  },
+  {
+    "id": "ph_0704",
+    "category": "分手与自我成长",
+    "cn": "想复合",
+    "en": "want to get back together"
+  },
+  {
+    "id": "ph_0705",
+    "category": "分手与自我成长",
+    "cn": "让某人措手不及 / 出乎某人意料",
+    "en": "catch someone off guard"
+  },
+  {
+    "id": "ph_0706",
+    "category": "分手与自我成长",
+    "cn": "坚持立场 / 不退让",
+    "en": "stand one’s ground"
+  },
+  {
+    "id": "ph_0707",
+    "category": "分手与自我成长",
+    "cn": "清楚自己值得什么",
+    "en": "know exactly what she deserved"
+  },
+  {
+    "id": "ph_0708",
+    "category": "分手与自我成长",
+    "cn": "之后把一切都处理好",
+    "en": "handle everything afterwards"
+  },
+  {
+    "id": "ph_0709",
+    "category": "分手与自我成长",
+    "cn": "沉溺于负面的事情",
+    "en": "dwell on the negative"
+  },
+  {
+    "id": "ph_0710",
+    "category": "分手与自我成长",
+    "cn": "走出她的舒适区",
+    "en": "step out of her comfort zone"
+  },
+  {
+    "id": "ph_0711",
+    "category": "分手与自我成长",
+    "cn": "专注于自我疗愈",
+    "en": "focus on healing"
+  },
+  {
+    "id": "ph_0712",
+    "category": "分手与自我成长",
+    "cn": "从内到外重建自己",
+    "en": "rebuild herself from the inside out"
+  },
+  {
+    "id": "ph_0713",
+    "category": "分手与自我成长",
+    "cn": "仍然在悲伤中",
+    "en": "still be grieving"
+  },
+  {
+    "id": "ph_0714",
+    "category": "分手与自我成长",
+    "cn": "选择自尊而不是情感依赖",
+    "en": "choose self-respect over emotional dependency"
+  },
+  {
+    "id": "ph_0715",
+    "category": "分手与自我成长",
+    "cn": "展现真正的坚强与成熟",
+    "en": "show real strength and maturity"
+  },
+  {
+    "id": "ph_0716",
+    "category": "分手与自我成长",
+    "cn": "经历人生中最艰难的时刻之一",
+    "en": "go through one of the hardest moments of her life"
+  },
+  {
+    "id": "ph_0717",
+    "category": "疗愈与微笑",
+    "cn": "注意到很多人在微笑",
+    "en": "notice many people smiling"
+  },
+  {
+    "id": "ph_0718",
+    "category": "疗愈与微笑",
+    "cn": "参加一个疗愈工作坊",
+    "en": "attend a healing workshop"
+  },
+  {
+    "id": "ph_0719",
+    "category": "疗愈与微笑",
+    "cn": "经历一段情绪低谷",
+    "en": "go through a rough patch emotionally"
+  },
+  {
+    "id": "ph_0720",
+    "category": "疗愈与微笑",
+    "cn": "被分手",
+    "en": "be dumped by someone"
+  },
+  {
+    "id": "ph_0721",
+    "category": "疗愈与微笑",
+    "cn": "精神上非常疲惫",
+    "en": "feel mentally drained"
+  },
+  {
+    "id": "ph_0722",
+    "category": "疗愈与微笑",
+    "cn": "找到让自己好起来的方法",
+    "en": "find some way to feel okay again"
+  },
+  {
+    "id": "ph_0723",
+    "category": "疗愈与微笑",
+    "cn": "刷到 / 偶然看到一个视频",
+    "en": "come across a video"
+  },
+  {
+    "id": "ph_0724",
+    "category": "疗愈与微笑",
+    "cn": "尝试冥想和声音疗愈",
+    "en": "try meditation and sound healing"
+  },
+  {
+    "id": "ph_0725",
+    "category": "疗愈与微笑",
+    "cn": "试一试",
+    "en": "give it a shot"
+  },
+  {
+    "id": "ph_0726",
+    "category": "疗愈与微笑",
+    "cn": "安静地坐着",
+    "en": "sit quietly"
+  },
+  {
+    "id": "ph_0727",
+    "category": "疗愈与微笑",
+    "cn": "慢慢呼吸",
+    "en": "breathe slowly"
+  },
+  {
+    "id": "ph_0728",
+    "category": "疗愈与微笑",
+    "cn": "感到更加放松",
+    "en": "feel more at ease"
+  },
+  {
+    "id": "ph_0729",
+    "category": "疗愈与微笑",
+    "cn": "感觉大脑慢慢平静下来",
+    "en": "feel my mind starting to settle"
+  },
+  {
+    "id": "ph_0730",
+    "category": "疗愈与微笑",
+    "cn": "轻轻睁开眼睛",
+    "en": "open my eyes slightly"
+  },
+  {
+    "id": "ph_0731",
+    "category": "疗愈与微笑",
+    "cn": "注意到一件很触动人的事情",
+    "en": "notice something really touching"
+  },
+  {
+    "id": "ph_0732",
+    "category": "疗愈与微笑",
+    "cn": "以一种温柔、平静的方式微笑",
+    "en": "smile in a gentle, peaceful way"
+  },
+  {
+    "id": "ph_0733",
+    "category": "疗愈与微笑",
+    "cn": "释放压力",
+    "en": "let go of stress"
+  },
+  {
+    "id": "ph_0734",
+    "category": "疗愈与微笑",
+    "cn": "专注此刻",
+    "en": "be present"
+  },
+  {
+    "id": "ph_0735",
+    "category": "疗愈与微笑",
+    "cn": "沉浸在同样平静的氛围中",
+    "en": "soak in the same calm atmosphere"
+  },
+  {
+    "id": "ph_0736",
+    "category": "疗愈与微笑",
+    "cn": "让我一直记得 / 深深留在我心里",
+    "en": "really stick with me"
+  },
+  {
+    "id": "ph_0737",
+    "category": "疗愈与微笑",
+    "cn": "看到一种很少见的微笑",
+    "en": "see a rare kind of smile"
+  },
+  {
+    "id": "ph_0738",
+    "category": "疗愈与微笑",
+    "cn": "显得勉强或刻意",
+    "en": "feel forced or performative"
+  },
+  {
+    "id": "ph_0739",
+    "category": "疗愈与微笑",
+    "cn": "一种轻柔的释然与平静的表情",
+    "en": "be a soft expression of relief and stillness"
+  },
+  {
+    "id": "ph_0740",
+    "category": "疗愈与微笑",
+    "cn": "感觉像一阵清新的空气",
+    "en": "feel like a breath of fresh air"
+  },
+  {
+    "id": "ph_0741",
+    "category": "疗愈与微笑",
+    "cn": "一个小小的宁静时刻",
+    "en": "be a small moment of peace"
+  },
+  {
+    "id": "ph_0742",
+    "category": "情绪与自我调节",
+    "cn": "情绪低落、很丧",
+    "en": "feel / be down in the dumps"
+  },
+  {
+    "id": "ph_0743",
+    "category": "情绪与自我调节",
+    "cn": "我不太舒服",
+    "en": "I feel a bit off"
+  },
+  {
+    "id": "ph_0744",
+    "category": "情绪与自我调节",
+    "cn": "我有点不自在",
+    "en": "I feel a bit ill at ease"
+  },
+  {
+    "id": "ph_0745",
+    "category": "情绪与自我调节",
+    "cn": "我精神被掏空了",
+    "en": "I’m mentally drained"
+  },
+  {
+    "id": "ph_0746",
+    "category": "情绪与自我调节",
+    "cn": "我心理状态不太好",
+    "en": "I’m not in a great headspace"
+  },
+  {
+    "id": "ph_0747",
+    "category": "情绪与自我调节",
+    "cn": "忙于工作",
+    "en": "be wrapped up in work"
+  },
+  {
+    "id": "ph_0748",
+    "category": "情绪与自我调节",
+    "cn": "大哭一场",
+    "en": "cry my eyes out"
+  },
+  {
+    "id": "ph_0749",
+    "category": "情绪与自我调节",
+    "cn": "脑子停不下来 / 暂时关机",
+    "en": "my mind wouldn’t shut off / switch off"
+  },
+  {
+    "id": "ph_0750",
+    "category": "情绪与自我调节",
+    "cn": "放慢节奏 / 放松下来",
+    "en": "slow down / wind down"
+  },
+  {
+    "id": "ph_0751",
+    "category": "情绪与自我调节",
+    "cn": "照顾好自己",
+    "en": "take care of myself"
+  },
+  {
+    "id": "ph_0752",
+    "category": "情绪与自我调节",
+    "cn": "布置一个小而温馨的角落",
+    "en": "set up a small, cozy corner"
+  },
+  {
+    "id": "ph_0753",
+    "category": "情绪与自我调节",
+    "cn": "把椅子拉到角落里",
+    "en": "pull a chair into the corner"
+  },
+  {
+    "id": "ph_0754",
+    "category": "情绪与自我调节",
+    "cn": "打开一盏灯",
+    "en": "turn on a lamp"
+  },
+  {
+    "id": "ph_0755",
+    "category": "情绪与自我调节",
+    "cn": "点一支香薰蜡烛",
+    "en": "light a scented candle"
+  },
+  {
+    "id": "ph_0756",
+    "category": "情绪与自我调节",
+    "cn": "在我身边放一束花",
+    "en": "set a bouquet beside me / put some flowers next to me"
+  },
+  {
+    "id": "ph_0757",
+    "category": "情绪与自我调节",
+    "cn": "放点背景音",
+    "en": "put on some background sounds / play some background sounds"
+  },
+  {
+    "id": "ph_0758",
+    "category": "情绪与自我调节",
+    "cn": "专注于自己的呼吸",
+    "en": "focus on my breathing"
+  },
+  {
+    "id": "ph_0759",
+    "category": "情绪与自我调节",
+    "cn": "慢慢吸气、呼气",
+    "en": "inhale and exhale slowly"
+  },
+  {
+    "id": "ph_0760",
+    "category": "情绪与自我调节",
+    "cn": "试着把悲伤压下去",
+    "en": "try to push the sadness away"
+  },
+  {
+    "id": "ph_0761",
+    "category": "情绪与自我调节",
+    "cn": "把情绪憋在心里",
+    "en": "bottle things up"
+  },
+  {
+    "id": "ph_0762",
+    "category": "情绪与自我调节",
+    "cn": "沉溺在悲伤中",
+    "en": "drown in sadness"
+  },
+  {
+    "id": "ph_0763",
+    "category": "情绪与自我调节",
+    "cn": "一直纠结、沉浸在负面情绪里",
+    "en": "dwell on the negative"
+  },
+  {
+    "id": "ph_0764",
+    "category": "情绪与自我调节",
+    "cn": "思绪飘进了想象中",
+    "en": "my mind drifted off into imagination"
+  },
+  {
+    "id": "ph_0765",
+    "category": "情绪与自我调节",
+    "cn": "我沉浸在自己的想象里",
+    "en": "I got lost in my imagination"
+  },
+  {
+    "id": "ph_0766",
+    "category": "情绪与自我调节",
+    "cn": "做一次塔罗占卜",
+    "en": "do a tarot reading"
+  },
+  {
+    "id": "ph_0767",
+    "category": "情绪与自我调节",
+    "cn": "看塔罗牌",
+    "en": "read tarot cards"
+  },
+  {
+    "id": "ph_0768",
+    "category": "情绪与自我调节",
+    "cn": "伸手去拿我的塔罗牌",
+    "en": "reach for my tarot cards"
+  },
+  {
+    "id": "ph_0769",
+    "category": "情绪与自我调节",
+    "cn": "洗牌",
+    "en": "shuffle the cards / deck"
+  },
+  {
+    "id": "ph_0770",
+    "category": "情绪与自我调节",
+    "cn": "抽一张牌",
+    "en": "draw a card"
+  },
+  {
+    "id": "ph_0771",
+    "category": "情绪与自我调节",
+    "cn": "立刻上网查含义",
+    "en": "rush to look up the meaning online"
+  },
+  {
+    "id": "ph_0772",
+    "category": "情绪与自我调节",
+    "cn": "依靠自己的直觉",
+    "en": "rely on my intuition"
+  },
+  {
+    "id": "ph_0773",
+    "category": "情绪与自我调节",
+    "cn": "跟着第六感走",
+    "en": "go with my gut"
+  },
+  {
+    "id": "ph_0774",
+    "category": "情绪与自我调节",
+    "cn": "对自己要求太高 / 给自己太大压力",
+    "en": "put too much pressure on myself / be too hard on myself"
+  },
+  {
+    "id": "ph_0775",
+    "category": "情绪与自我调节",
+    "cn": "把注意力重新放回自己身上",
+    "en": "turn my focus back to myself"
+  },
+  {
+    "id": "ph_0776",
+    "category": "情绪与自我调节",
+    "cn": "重新振作起来",
+    "en": "get back on my feet"
+  },
+  {
+    "id": "ph_0777",
+    "category": "情绪与自我调节",
+    "cn": "从挫折中恢复过来",
+    "en": "bounce back from setbacks"
+  },
+  {
+    "id": "ph_0778",
+    "category": "情绪与自我调节",
+    "cn": "振作起来 / 调整好自己",
+    "en": "pull myself together"
+  },
+  {
+    "id": "ph_0779",
+    "category": "倾听与沟通",
+    "cn": "做一个好的倾听者",
+    "en": "be a good listener"
+  },
+  {
+    "id": "ph_0780",
+    "category": "倾听与沟通",
+    "cn": "认真倾听别人",
+    "en": "really listen to people"
+  },
+  {
+    "id": "ph_0781",
+    "category": "倾听与沟通",
+    "cn": "真正听进去对方在说什么",
+    "en": "tune in to what the other person is saying"
+  },
+  {
+    "id": "ph_0782",
+    "category": "倾听与沟通",
+    "cn": "打断别人 / 盖过别人说话",
+    "en": "talk over someone"
+  },
+  {
+    "id": "ph_0783",
+    "category": "倾听与沟通",
+    "cn": "一直不停讲自己的生活",
+    "en": "go on and on about one’s own life"
+  },
+  {
+    "id": "ph_0784",
+    "category": "倾听与沟通",
+    "cn": "追问 / 接着问",
+    "en": "ask follow-up questions"
+  },
+  {
+    "id": "ph_0785",
+    "category": "倾听与沟通",
+    "cn": "注意到小细节",
+    "en": "pick up on small details"
+  },
+  {
+    "id": "ph_0786",
+    "category": "倾听与沟通",
+    "cn": "注意到某人的语气或表情",
+    "en": "notice someone's tone or facial expressions"
+  },
+  {
+    "id": "ph_0787",
+    "category": "倾听与沟通",
+    "cn": "表现出真正的兴趣",
+    "en": "show genuine interest"
+  },
+  {
+    "id": "ph_0788",
+    "category": "倾听与沟通",
+    "cn": "体贴并理解别人",
+    "en": "be caring and understanding"
+  },
+  {
+    "id": "ph_0789",
+    "category": "倾听与沟通",
+    "cn": "感到被在乎",
+    "en": "feel cared for"
+  },
+  {
+    "id": "ph_0790",
+    "category": "倾听与沟通",
+    "cn": "感到被冷落 / 没被看见",
+    "en": "feel left out or unseen"
+  },
+  {
+    "id": "ph_0791",
+    "category": "倾听与沟通",
+    "cn": "拉近人与人之间的距离",
+    "en": "bring people closer"
+  },
+  {
+    "id": "ph_0792",
+    "category": "倾听与沟通",
+    "cn": "和朋友叙旧 / 聊近况",
+    "en": "catch up with a friend"
+  },
+  {
+    "id": "ph_0793",
+    "category": "倾听与沟通",
+    "cn": "很久没和某人聊天了",
+    "en": "haven't talked to someone in ages"
+  },
+  {
+    "id": "ph_0794",
+    "category": "倾听与沟通",
+    "cn": "让别人明白我的意思",
+    "en": "get my point across"
+  },
+  {
+    "id": "ph_0795",
+    "category": "倾听与沟通",
+    "cn": "自信地表达",
+    "en": "speak up with confidence"
+  },
+  {
+    "id": "ph_0796",
+    "category": "倾听与沟通",
+    "cn": "说服别人",
+    "en": "persuade people"
+  },
+  {
+    "id": "ph_0797",
+    "category": "倾听与沟通",
+    "cn": "展示 / 表达一个想法",
+    "en": "present an idea"
+  },
+  {
+    "id": "ph_0798",
+    "category": "倾听与沟通",
+    "cn": "推销东西",
+    "en": "sell something"
+  },
+  {
+    "id": "ph_0799",
+    "category": "倾听与沟通",
+    "cn": "建立信任",
+    "en": "build trust"
+  },
+  {
+    "id": "ph_0800",
+    "category": "倾听与沟通",
+    "cn": "与人相处融洽",
+    "en": "get along with people"
+  },
+  {
+    "id": "ph_0801",
+    "category": "倾听与沟通",
+    "cn": "做一个团队合作者",
+    "en": "be a team player"
+  },
+  {
+    "id": "ph_0802",
+    "category": "倾听与沟通",
+    "cn": "好的沟通从好的倾听开始",
+    "en": "good communication starts with good listening"
+  },
+  {
+    "id": "ph_0803",
+    "category": "倾听与沟通",
+    "cn": "立刻回复消息",
+    "en": "reply to messages immediately"
+  },
+  {
+    "id": "ph_0804",
+    "category": "倾听与沟通",
+    "cn": "坐着等消息",
+    "en": "sit around waiting for messages"
+  },
+  {
+    "id": "ph_0805",
+    "category": "倾听与沟通",
+    "cn": "有时间和精力回复",
+    "en": "have the time and energy to reply"
+  },
+  {
+    "id": "ph_0806",
+    "category": "倾听与沟通",
+    "cn": "给双方省去很多麻烦",
+    "en": "save both sides a lot of hassle"
+  },
+  {
+    "id": "ph_0807",
+    "category": "倾听与沟通",
+    "cn": "放下手头所有事立刻回复",
+    "en": "drop everything and reply"
+  },
+  {
+    "id": "ph_0808",
+    "category": "倾听与沟通",
+    "cn": "先查一下自己的时间安排",
+    "en": "check one's schedule first"
+  },
+  {
+    "id": "ph_0809",
+    "category": "倾听与沟通",
+    "cn": "往心里去 / 觉得对方针对自己",
+    "en": "take it personally"
+  },
+  {
+    "id": "ph_0810",
+    "category": "倾听与沟通",
+    "cn": "制造不必要的压力",
+    "en": "create unnecessary pressure"
+  },
+  {
+    "id": "ph_0811",
+    "category": "倾听与沟通",
+    "cn": "给别人一点空间",
+    "en": "give people a bit of breathing room"
+  },
+  {
+    "id": "ph_0812",
+    "category": "倾听与沟通",
+    "cn": "如果是紧急情况，打电话更好",
+    "en": "if it is an emergency, calling is better"
+  },
+  {
+    "id": "ph_0813",
+    "category": "倾听与沟通",
+    "cn": "主动和某人聊起来",
+    "en": "strike up a conversation with someone"
+  },
+  {
+    "id": "ph_0814",
+    "category": "倾听与沟通",
+    "cn": "主动联系某人",
+    "en": "reach out to someone"
+  },
+  {
+    "id": "ph_0815",
+    "category": "倾听与沟通",
+    "cn": "打破尴尬 / 破冰",
+    "en": "break the ice"
+  },
+  {
+    "id": "ph_0816",
+    "category": "倾听与沟通",
+    "cn": "内向的人",
+    "en": "an introvert"
+  },
+  {
+    "id": "ph_0817",
+    "category": "倾听与沟通",
+    "cn": "外向的人",
+    "en": "an extrovert"
+  },
+  {
+    "id": "ph_0818",
+    "category": "思维能力与个人素质",
+    "cn": "跳出框架思考",
+    "en": "think outside the box"
+  },
+  {
+    "id": "ph_0819",
+    "category": "思维能力与个人素质",
+    "cn": "想出新点子",
+    "en": "come up with fresh ideas / novel ideas"
+  },
+  {
+    "id": "ph_0820",
+    "category": "思维能力与个人素质",
+    "cn": "尝试不同想法",
+    "en": "experiment with different ideas"
+  },
+  {
+    "id": "ph_0821",
+    "category": "思维能力与个人素质",
+    "cn": "突破边界",
+    "en": "push the boundaries"
+  },
+  {
+    "id": "ph_0822",
+    "category": "思维能力与个人素质",
+    "cn": "解决问题的能力",
+    "en": "problem-solving skills"
+  },
+  {
+    "id": "ph_0823",
+    "category": "思维能力与个人素质",
+    "cn": "自己把事情想明白",
+    "en": "figure things out on one's own"
+  },
+  {
+    "id": "ph_0824",
+    "category": "思维能力与个人素质",
+    "cn": "理清事情 / 把事情想通",
+    "en": "make sense of things"
+  },
+  {
+    "id": "ph_0825",
+    "category": "思维能力与个人素质",
+    "cn": "独立思考",
+    "en": "think independently"
+  },
+  {
+    "id": "ph_0826",
+    "category": "思维能力与个人素质",
+    "cn": "逻辑推理 / 批判性思维能力",
+    "en": "logical reasoning / critical thinking skills"
+  },
+  {
+    "id": "ph_0827",
+    "category": "思维能力与个人素质",
+    "cn": "学东西很快",
+    "en": "pick things up really quickly"
+  },
+  {
+    "id": "ph_0828",
+    "category": "思维能力与个人素质",
+    "cn": "学会一门语言 / 乐器",
+    "en": "pick up a language / pick up a musical instrument"
+  },
+  {
+    "id": "ph_0829",
+    "category": "思维能力与个人素质",
+    "cn": "慢慢上手",
+    "en": "get the hang of something"
+  },
+  {
+    "id": "ph_0830",
+    "category": "思维能力与个人素质",
+    "cn": "理解难懂的概念",
+    "en": "get one's head around difficult ideas"
+  },
+  {
+    "id": "ph_0831",
+    "category": "思维能力与个人素质",
+    "cn": "走出舒适区",
+    "en": "step out of one's comfort zone"
+  },
+  {
+    "id": "ph_0832",
+    "category": "思维能力与个人素质",
+    "cn": "获得亲身参与、沉浸式体验",
+    "en": "get a hands-on, immersive experience"
+  },
+  {
+    "id": "ph_0833",
+    "category": "思维能力与个人素质",
+    "cn": "通过吃亏或困难学到东西",
+    "en": "learn things the hard way"
+  },
+  {
+    "id": "ph_0834",
+    "category": "思维能力与个人素质",
+    "cn": "从经验中学习",
+    "en": "learn from experience"
+  },
+  {
+    "id": "ph_0835",
+    "category": "思维能力与个人素质",
+    "cn": "权衡利弊",
+    "en": "weigh the pros and cons"
+  },
+  {
+    "id": "ph_0836",
+    "category": "思维能力与个人素质",
+    "cn": "在充分了解后做决定",
+    "en": "make an informed decision"
+  },
+  {
+    "id": "ph_0837",
+    "category": "思维能力与个人素质",
+    "cn": "从挫折中恢复",
+    "en": "bounce back from setbacks"
+  },
+  {
+    "id": "ph_0838",
+    "category": "思维能力与个人素质",
+    "cn": "建立自控和纪律性",
+    "en": "build self-control and discipline"
+  },
+  {
+    "id": "ph_0839",
+    "category": "思维能力与个人素质",
+    "cn": "管理好时间",
+    "en": "manage one's time well"
+  },
+  {
+    "id": "ph_0840",
+    "category": "思维能力与个人素质",
+    "cn": "保持清醒和专注",
+    "en": "stay sharp and focused"
+  },
+  {
+    "id": "ph_0841",
+    "category": "思维能力与个人素质",
+    "cn": "从内而外建立自信",
+    "en": "build confidence from the inside out"
+  },
+  {
+    "id": "ph_0842",
+    "category": "思维能力与个人素质",
+    "cn": "变得更有适应能力",
+    "en": "become more adaptable"
+  },
+  {
+    "id": "ph_0843",
+    "category": "思维能力与个人素质",
+    "cn": "站在别人的角度思考",
+    "en": "put oneself in other people's shoes"
+  },
+  {
+    "id": "ph_0844",
+    "category": "思维能力与个人素质",
+    "cn": "有情商",
+    "en": "have emotional intelligence"
+  },
+  {
+    "id": "ph_0845",
+    "category": "思维能力与个人素质",
+    "cn": "沟通能力 / 与人相处的能力 / 人际能力",
+    "en": "communication skills / people skills / interpersonal skills"
+  },
+  {
+    "id": "ph_0846",
+    "category": "思维能力与个人素质",
+    "cn": "清楚表达自己 / 表达清晰 / 善于倾听",
+    "en": "express oneself clearly / be articulate / be a good listener"
+  },
+  {
+    "id": "ph_0847",
+    "category": "思维能力与个人素质",
+    "cn": "激励、鼓励或启发某人做某事",
+    "en": "motivate / encourage / inspire someone to do something"
+  },
+  {
+    "id": "ph_0848",
+    "category": "思维能力与个人素质",
+    "cn": "从长远来看有好处",
+    "en": "be beneficial in the long run"
+  },
+  {
+    "id": "ph_0849",
+    "category": "思维能力与个人素质",
+    "cn": "有助于身心健康",
+    "en": "contribute to one's mental and physical well-being"
+  },
+  {
+    "id": "ph_0850",
+    "category": "思维能力与个人素质",
+    "cn": "给某人竞争优势",
+    "en": "give someone a competitive edge"
+  },
+  {
+    "id": "ph_0851",
+    "category": "思维能力与个人素质",
+    "cn": "对健康造成损耗",
+    "en": "take a toll on one's health"
+  },
+  {
+    "id": "ph_0852",
+    "category": "思维能力与个人素质",
+    "cn": "对……有害",
+    "en": "be detrimental to / harmful to"
+  },
+  {
+    "id": "ph_0853",
+    "category": "思维能力与个人素质",
+    "cn": "扰乱睡眠 / 专注力 / 日常节奏",
+    "en": "mess with one's sleep / concentration / daily routine"
+  },
+  {
+    "id": "ph_0854",
+    "category": "思维能力与个人素质",
+    "cn": "扭曲事实",
+    "en": "distort the truth"
+  },
+  {
+    "id": "ph_0855",
+    "category": "思维能力与个人素质",
+    "cn": "在某事中起关键 / 核心 / 不可或缺的作用",
+    "en": "play a key / pivotal / integral role in something"
+  },
+  {
+    "id": "ph_0856",
+    "category": "思维能力与个人素质",
+    "cn": "必不可少",
+    "en": "be indispensable"
+  },
+  {
+    "id": "ph_0857",
+    "category": "电影与观影",
+    "cn": "喜剧片",
+    "en": "comedies"
+  },
+  {
+    "id": "ph_0858",
+    "category": "电影与观影",
+    "cn": "动作片",
+    "en": "action movies"
+  },
+  {
+    "id": "ph_0859",
+    "category": "电影与观影",
+    "cn": "爱情片",
+    "en": "romantic films"
+  },
+  {
+    "id": "ph_0860",
+    "category": "电影与观影",
+    "cn": "催泪片",
+    "en": "tearjerkers"
+  },
+  {
+    "id": "ph_0861",
+    "category": "电影与观影",
+    "cn": "现实题材电影",
+    "en": "realistic films"
+  },
+  {
+    "id": "ph_0862",
+    "category": "电影与观影",
+    "cn": "两大类电影",
+    "en": "two main types of films"
+  },
+  {
+    "id": "ph_0863",
+    "category": "电影与观影",
+    "cn": "轻松娱乐型电影",
+    "en": "light, entertaining films"
+  },
+  {
+    "id": "ph_0864",
+    "category": "电影与观影",
+    "cn": "暂时放空一下",
+    "en": "switch off for a while"
+  },
+  {
+    "id": "ph_0865",
+    "category": "电影与观影",
+    "cn": "经历做某事的麻烦",
+    "en": "go through the hassle of doing something"
+  },
+  {
+    "id": "ph_0866",
+    "category": "电影与观影",
+    "cn": "在家瘫着 / 懒散放松",
+    "en": "lounge around at home"
+  },
+  {
+    "id": "ph_0867",
+    "category": "电影与观影",
+    "cn": "打开投影仪",
+    "en": "turn on the projector"
+  },
+  {
+    "id": "ph_0868",
+    "category": "电影与观影",
+    "cn": "看点轻松放松的东西",
+    "en": "watch something easy and relaxing"
+  },
+  {
+    "id": "ph_0869",
+    "category": "电影与观影",
+    "cn": "释放情绪",
+    "en": "let their emotions out"
+  },
+  {
+    "id": "ph_0870",
+    "category": "电影与观影",
+    "cn": "普通人的挣扎",
+    "en": "ordinary people’s struggles"
+  },
+  {
+    "id": "ph_0871",
+    "category": "电影与观影",
+    "cn": "引起某人共鸣",
+    "en": "strike a chord with someone"
+  },
+  {
+    "id": "ph_0872",
+    "category": "电影与观影",
+    "cn": "贴近生活 / 感觉很真实",
+    "en": "feel close to home"
+  },
+  {
+    "id": "ph_0873",
+    "category": "电影与观影",
+    "cn": "娱乐性强、有共鸣、有情绪吸引力",
+    "en": "entertaining, relatable, and emotionally engaging"
+  },
+  {
+    "id": "ph_0874",
+    "category": "电影与观影",
+    "cn": "取决于电影类型和人的心情",
+    "en": "it depends on the type of movie and people’s mood"
+  },
+  {
+    "id": "ph_0875",
+    "category": "电影与观影",
+    "cn": "日常观影",
+    "en": "everyday viewing"
+  },
+  {
+    "id": "ph_0876",
+    "category": "电影与观影",
+    "cn": "更倾向于做某事",
+    "en": "gravitate towards doing something"
+  },
+  {
+    "id": "ph_0877",
+    "category": "电影与观影",
+    "cn": "省很多时间和麻烦",
+    "en": "save a lot of time and hassle"
+  },
+  {
+    "id": "ph_0878",
+    "category": "电影与观影",
+    "cn": "穿着睡衣窝在沙发上",
+    "en": "lounge around on the sofa in their PJs"
+  },
+  {
+    "id": "ph_0879",
+    "category": "电影与观影",
+    "cn": "想暂停就暂停",
+    "en": "pause the movie whenever they want"
+  },
+  {
+    "id": "ph_0880",
+    "category": "电影与观影",
+    "cn": "拿点零食",
+    "en": "grab some snacks"
+  },
+  {
+    "id": "ph_0881",
+    "category": "电影与观影",
+    "cn": "大片",
+    "en": "a blockbuster"
+  },
+  {
+    "id": "ph_0882",
+    "category": "电影与观影",
+    "cn": "科幻片",
+    "en": "a sci-fi film"
+  },
+  {
+    "id": "ph_0883",
+    "category": "电影与观影",
+    "cn": "去电影院更说得通",
+    "en": "the cinema still makes more sense"
+  },
+  {
+    "id": "ph_0884",
+    "category": "电影与观影",
+    "cn": "大屏幕",
+    "en": "the big screen"
+  },
+  {
+    "id": "ph_0885",
+    "category": "电影与观影",
+    "cn": "音效",
+    "en": "the sound effects"
+  },
+  {
+    "id": "ph_0886",
+    "category": "电影与观影",
+    "cn": "共同观影氛围",
+    "en": "the shared atmosphere"
+  },
+  {
+    "id": "ph_0887",
+    "category": "电影与观影",
+    "cn": "让整个体验更有沉浸感",
+    "en": "make the whole experience feel much more immersive"
+  },
+  {
+    "id": "ph_0888",
+    "category": "电影与观影",
+    "cn": "更实用、更常用的选择",
+    "en": "the more practical, go-to option"
+  },
+  {
+    "id": "ph_0889",
+    "category": "电影与观影",
+    "cn": "需要完整体验的电影",
+    "en": "films that need the full experience"
+  },
+  {
+    "id": "ph_0890",
+    "category": "电影与观影",
+    "cn": "情绪敏感度",
+    "en": "emotional sensitivity"
+  },
+  {
+    "id": "ph_0891",
+    "category": "电影与观影",
+    "cn": "敷衍地走流程 / 机械完成",
+    "en": "go through the motions"
+  },
+  {
+    "id": "ph_0892",
+    "category": "电影与观影",
+    "cn": "捕捉小细节",
+    "en": "pick up on small details"
+  },
+  {
+    "id": "ph_0893",
+    "category": "电影与观影",
+    "cn": "细微的非语言线索",
+    "en": "subtle non-verbal cues"
+  },
+  {
+    "id": "ph_0894",
+    "category": "电影与观影",
+    "cn": "不断打磨自己的技艺",
+    "en": "keep polishing their craft"
+  },
+  {
+    "id": "ph_0895",
+    "category": "电影与观影",
+    "cn": "让人不舒服 / 让人反感",
+    "en": "rub people the wrong way"
+  },
+  {
+    "id": "ph_0896",
+    "category": "电影与观影",
+    "cn": "语气 / 声音语调",
+    "en": "tone of voice"
+  }
+]
