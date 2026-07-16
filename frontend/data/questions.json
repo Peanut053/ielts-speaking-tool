@@ -1,0 +1,3140 @@
+[
+  {
+    "id": "q_0001",
+    "part": "P1",
+    "topic": "Work",
+    "text": "Where do you work?"
+  },
+  {
+    "id": "q_0002",
+    "part": "P1",
+    "topic": "Work",
+    "text": "How do you usually spend your day at work?"
+  },
+  {
+    "id": "q_0003",
+    "part": "P1",
+    "topic": "Work",
+    "text": "Have you found anything interesting at work recently?"
+  },
+  {
+    "id": "q_0004",
+    "part": "P1",
+    "topic": "Work",
+    "text": "Is there anything you don't like about your job?"
+  },
+  {
+    "id": "q_0005",
+    "part": "P1",
+    "topic": "Work",
+    "text": "What is the most interesting part of your work?"
+  },
+  {
+    "id": "q_0006",
+    "part": "P1",
+    "topic": "Work",
+    "text": "What's your future work plan?"
+  },
+  {
+    "id": "q_0007",
+    "part": "P1",
+    "topic": "Study",
+    "text": "What do you study?"
+  },
+  {
+    "id": "q_0008",
+    "part": "P1",
+    "topic": "Study",
+    "text": "Where do you study?"
+  },
+  {
+    "id": "q_0009",
+    "part": "P1",
+    "topic": "Study",
+    "text": "How do you usually spend your day when you're studying?"
+  },
+  {
+    "id": "q_0010",
+    "part": "P1",
+    "topic": "Study",
+    "text": "Have you learned anything interesting in your studies recently?"
+  },
+  {
+    "id": "q_0011",
+    "part": "P1",
+    "topic": "Study",
+    "text": "What kinds of things you don't like about your study?"
+  },
+  {
+    "id": "q_0012",
+    "part": "P1",
+    "topic": "Study",
+    "text": "What is the most interesting part of your major?"
+  },
+  {
+    "id": "q_0013",
+    "part": "P1",
+    "topic": "Study",
+    "text": "How will you use what you have learned in the future?"
+  },
+  {
+    "id": "q_0014",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "Where do you live now?"
+  },
+  {
+    "id": "q_0015",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "Do you live in an apartment or somewhere else?"
+  },
+  {
+    "id": "q_0016",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "Do you think it is an interesting place to live?"
+  },
+  {
+    "id": "q_0017",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "How long have you lived in your area now?"
+  },
+  {
+    "id": "q_0018",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "What do you enjoy most about living in this place?"
+  },
+  {
+    "id": "q_0019",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "Is your area now busy or quiet?"
+  },
+  {
+    "id": "q_0020",
+    "part": "P1",
+    "topic": "Where you live",
+    "text": "Have you met many neighbors?"
+  },
+  {
+    "id": "q_0021",
+    "part": "P1",
+    "topic": "Hometown",
+    "text": "Where is your hometown?"
+  },
+  {
+    "id": "q_0022",
+    "part": "P1",
+    "topic": "Hometown",
+    "text": "Is that a big city or a small place?"
+  },
+  {
+    "id": "q_0023",
+    "part": "P1",
+    "topic": "Hometown",
+    "text": "How long have you lived there?"
+  },
+  {
+    "id": "q_0024",
+    "part": "P1",
+    "topic": "Food",
+    "text": "What's your favourite food when you were a child?"
+  },
+  {
+    "id": "q_0025",
+    "part": "P1",
+    "topic": "Food",
+    "text": "Has the kind of food you like changed as you've got older?"
+  },
+  {
+    "id": "q_0026",
+    "part": "P1",
+    "topic": "Food",
+    "text": "Do you eat different food at different times of the year?"
+  },
+  {
+    "id": "q_0027",
+    "part": "P1",
+    "topic": "Food",
+    "text": "Do you like to eat with others?"
+  },
+  {
+    "id": "q_0028",
+    "part": "P1",
+    "topic": "Food",
+    "text": "In your country, is it very important to eat with other people?"
+  },
+  {
+    "id": "q_0029",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "text": "Did you want to have a pet when you were a child?"
+  },
+  {
+    "id": "q_0030",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "text": "Would you like to have pets in the future?"
+  },
+  {
+    "id": "q_0031",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "text": "Where do you prefer to keep your pet, indoors or outdoors?"
+  },
+  {
+    "id": "q_0032",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "text": "Do you see many birds and animals where you live?"
+  },
+  {
+    "id": "q_0033",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "text": "Have you ever been to a zoo？"
+  },
+  {
+    "id": "q_0034",
+    "part": "P1",
+    "topic": "Pets and animals",
+    "text": "What kind of animals is famous in your country？"
+  },
+  {
+    "id": "q_0035",
+    "part": "P1",
+    "topic": "Typing",
+    "text": "How often do you type on a keyboard?"
+  },
+  {
+    "id": "q_0036",
+    "part": "P1",
+    "topic": "Typing",
+    "text": "Did you learn how to type at school when you were younger?"
+  },
+  {
+    "id": "q_0037",
+    "part": "P1",
+    "topic": "Typing",
+    "text": "When did you learn how to type on a keyboard?"
+  },
+  {
+    "id": "q_0038",
+    "part": "P1",
+    "topic": "Typing",
+    "text": "Which do you find easier: typing on a keyboard or writing by hand?"
+  },
+  {
+    "id": "q_0039",
+    "part": "P1",
+    "topic": "Typing",
+    "text": "Do you like to improve your typing skills?"
+  },
+  {
+    "id": "q_0040",
+    "part": "P1",
+    "topic": "Stage of life",
+    "text": "Are you satisfied with your age now?"
+  },
+  {
+    "id": "q_0041",
+    "part": "P1",
+    "topic": "Stage of life",
+    "text": "What did you enjoy most about your childhood?"
+  },
+  {
+    "id": "q_0042",
+    "part": "P1",
+    "topic": "Stage of life",
+    "text": "What's the most important thing you've done so far?"
+  },
+  {
+    "id": "q_0043",
+    "part": "P1",
+    "topic": "Stage of life",
+    "text": "At what age do you think people enjoy their lives most?"
+  },
+  {
+    "id": "q_0044",
+    "part": "P1",
+    "topic": "Stage of life",
+    "text": "What do you want to do five years later?"
+  },
+  {
+    "id": "q_0045",
+    "part": "P1",
+    "topic": "Long walk",
+    "text": "Did you go for long walks when you were a child?"
+  },
+  {
+    "id": "q_0046",
+    "part": "P1",
+    "topic": "Long walk",
+    "text": "How often do you walk to the shops now?"
+  },
+  {
+    "id": "q_0047",
+    "part": "P1",
+    "topic": "Long walk",
+    "text": "Are there many parks near where you live?"
+  },
+  {
+    "id": "q_0048",
+    "part": "P1",
+    "topic": "Long walk",
+    "text": "Do people enjoy walking in parks in your country?"
+  },
+  {
+    "id": "q_0049",
+    "part": "P1",
+    "topic": "Long walk",
+    "text": "Where would you want to go for a long walk if you have a chance?"
+  },
+  {
+    "id": "q_0050",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "text": "What kinds of things do you have to"
+  },
+  {
+    "id": "q_0051",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "text": "read carefully in your language?"
+  },
+  {
+    "id": "q_0052",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "text": "Do you like to read things carefully or quickly in daily life?"
+  },
+  {
+    "id": "q_0053",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "text": "Do you read things more carefully on paper or on a screen?"
+  },
+  {
+    "id": "q_0054",
+    "part": "P1",
+    "topic": "Reading carefully",
+    "text": "Why do you think some people don't read messages very carefully?"
+  },
+  {
+    "id": "q_0055",
+    "part": "P1",
+    "topic": "Morning Routine",
+    "text": "Do you get up early in the morning?"
+  },
+  {
+    "id": "q_0056",
+    "part": "P1",
+    "topic": "Morning Routine",
+    "text": "Did you get up early in the morning when you were younger?"
+  },
+  {
+    "id": "q_0057",
+    "part": "P1",
+    "topic": "Morning Routine",
+    "text": "What do you do every morning?"
+  },
+  {
+    "id": "q_0058",
+    "part": "P1",
+    "topic": "Morning Routine",
+    "text": "What's your favourite morning of the week?"
+  },
+  {
+    "id": "q_0059",
+    "part": "P1",
+    "topic": "Gift",
+    "text": "What kinds of gifts do you like to receive?"
+  },
+  {
+    "id": "q_0060",
+    "part": "P1",
+    "topic": "Gift",
+    "text": "What kinds of gifts did you like when you were younger?"
+  },
+  {
+    "id": "q_0061",
+    "part": "P1",
+    "topic": "Gift",
+    "text": "Have you received any gifts recently?"
+  },
+  {
+    "id": "q_0062",
+    "part": "P1",
+    "topic": "Gift",
+    "text": "Do you enjoy giving people gifts?"
+  },
+  {
+    "id": "q_0063",
+    "part": "P1",
+    "topic": "Gift",
+    "text": "Do you think buying gifts online is a good idea?"
+  },
+  {
+    "id": "q_0064",
+    "part": "P1",
+    "topic": "Team sport",
+    "text": "Have you ever played a sport in a team?"
+  },
+  {
+    "id": "q_0065",
+    "part": "P1",
+    "topic": "Team sport",
+    "text": "Is your sport team famous?"
+  },
+  {
+    "id": "q_0066",
+    "part": "P1",
+    "topic": "Team sport",
+    "text": "Are team sports popular in your country?"
+  },
+  {
+    "id": "q_0067",
+    "part": "P1",
+    "topic": "Team sport",
+    "text": "Would you like to try a new team sport in the future?"
+  },
+  {
+    "id": "q_0068",
+    "part": "P1",
+    "topic": "Team sport",
+    "text": "Do you enjoy watching team sports?"
+  },
+  {
+    "id": "q_0069",
+    "part": "P1",
+    "topic": "Building",
+    "text": "Are there many tall buildings where you live?"
+  },
+  {
+    "id": "q_0070",
+    "part": "P1",
+    "topic": "Building",
+    "text": "Have you ever taken a photo of a building?"
+  },
+  {
+    "id": "q_0071",
+    "part": "P1",
+    "topic": "Building",
+    "text": "What kind of building would you like to live in?"
+  },
+  {
+    "id": "q_0072",
+    "part": "P1",
+    "topic": "Building",
+    "text": "Is there a famous building that you would like to have a visit?"
+  },
+  {
+    "id": "q_0073",
+    "part": "P1",
+    "topic": "Building",
+    "text": "What is the tallest building in your city?"
+  },
+  {
+    "id": "q_0074",
+    "part": "P1",
+    "topic": "Travelling",
+    "text": "When you're travelling, do you usually look at the view?"
+  },
+  {
+    "id": "q_0075",
+    "part": "P1",
+    "topic": "Travelling",
+    "text": "Did you ever travel to a faraway place when you were a child?"
+  },
+  {
+    "id": "q_0076",
+    "part": "P1",
+    "topic": "Travelling",
+    "text": "Do you prefer to look at mountain views or ocean views?"
+  },
+  {
+    "id": "q_0077",
+    "part": "P1",
+    "topic": "Travelling",
+    "text": "When you see a beautiful view, do you like to take a photo of it?"
+  },
+  {
+    "id": "q_0078",
+    "part": "P1",
+    "topic": "Travelling",
+    "text": "Would you like to hang a a beautiful view picture on the wall at home?"
+  },
+  {
+    "id": "q_0079",
+    "part": "P1",
+    "topic": "Free time activity",
+    "text": "What's your favourite free-time activity when you were a child?"
+  },
+  {
+    "id": "q_0080",
+    "part": "P1",
+    "topic": "Free time activity",
+    "text": "Do you prefer to do free-time activities alone or with other people?"
+  },
+  {
+    "id": "q_0081",
+    "part": "P1",
+    "topic": "Free time activity",
+    "text": "What activities do you enjoy doing in your free time now?"
+  },
+  {
+    "id": "q_0082",
+    "part": "P1",
+    "topic": "Free time activity",
+    "text": "Is there an activity you would like to try in the future?"
+  },
+  {
+    "id": "q_0083",
+    "part": "P1",
+    "topic": "Memory",
+    "text": "Do you think it easy to remember people's names?"
+  },
+  {
+    "id": "q_0084",
+    "part": "P1",
+    "topic": "Memory",
+    "text": "Do you remember things easily when you're studying or working?"
+  },
+  {
+    "id": "q_0085",
+    "part": "P1",
+    "topic": "Memory",
+    "text": "Would you like to have a better memory?"
+  },
+  {
+    "id": "q_0086",
+    "part": "P1",
+    "topic": "Memory",
+    "text": "Have you forgotten something that was very important?"
+  },
+  {
+    "id": "q_0087",
+    "part": "P1",
+    "topic": "Singing",
+    "text": "Did you like singing when you were a child?"
+  },
+  {
+    "id": "q_0088",
+    "part": "P1",
+    "topic": "Singing",
+    "text": "Do you like singing now?"
+  },
+  {
+    "id": "q_0089",
+    "part": "P1",
+    "topic": "Singing",
+    "text": "Will you sing in the car?"
+  },
+  {
+    "id": "q_0090",
+    "part": "P1",
+    "topic": "Singing",
+    "text": "Do you like listening to other people sing?"
+  },
+  {
+    "id": "q_0091",
+    "part": "P1",
+    "topic": "Singing",
+    "text": "Did you learn to sing when you were at school？"
+  },
+  {
+    "id": "q_0092",
+    "part": "P1",
+    "topic": "Music",
+    "text": "Do you like music?"
+  },
+  {
+    "id": "q_0093",
+    "part": "P1",
+    "topic": "Music",
+    "text": "What kinds of music do you listen to?"
+  },
+  {
+    "id": "q_0094",
+    "part": "P1",
+    "topic": "Music",
+    "text": "Do you prefer sad or happy music?"
+  },
+  {
+    "id": "q_0095",
+    "part": "P1",
+    "topic": "Music",
+    "text": "Does happy music make you feel more excited?"
+  },
+  {
+    "id": "q_0096",
+    "part": "P1",
+    "topic": "Music",
+    "text": "Is it easy to learn music?"
+  },
+  {
+    "id": "q_0097",
+    "part": "P1",
+    "topic": "Music",
+    "text": "Do you learn music lessons at school?"
+  },
+  {
+    "id": "q_0098",
+    "part": "P1",
+    "topic": "Watch",
+    "text": "Do you wear a watch in your daily life?"
+  },
+  {
+    "id": "q_0099",
+    "part": "P1",
+    "topic": "Watch",
+    "text": "What kind of watch do you have?"
+  },
+  {
+    "id": "q_0100",
+    "part": "P1",
+    "topic": "Watch",
+    "text": "Has anyone ever given you a watch as a gift?"
+  },
+  {
+    "id": "q_0101",
+    "part": "P1",
+    "topic": "Watch",
+    "text": "What kind of watch do the people around you like to wear?"
+  },
+  {
+    "id": "q_0102",
+    "part": "P1",
+    "topic": "Parks and Gardens",
+    "text": "What kind of parks and gardens did you like when you were a child?"
+  },
+  {
+    "id": "q_0103",
+    "part": "P1",
+    "topic": "Parks and Gardens",
+    "text": "Do you enjoy visiting parks and gardens now?"
+  },
+  {
+    "id": "q_0104",
+    "part": "P1",
+    "topic": "Parks and Gardens",
+    "text": "Do you think there should be more parks and gardens in your city?"
+  },
+  {
+    "id": "q_0105",
+    "part": "P1",
+    "topic": "Parks and Gardens",
+    "text": "Is there a famous park or garden that you want to visit?"
+  },
+  {
+    "id": "q_0106",
+    "part": "P1",
+    "topic": "Tidiness",
+    "text": "Were you a tidy person when you were a child?"
+  },
+  {
+    "id": "q_0107",
+    "part": "P1",
+    "topic": "Tidiness",
+    "text": "Are you a tidy person now?"
+  },
+  {
+    "id": "q_0108",
+    "part": "P1",
+    "topic": "Tidiness",
+    "text": "What do you think of those who don't care about tidiness?"
+  },
+  {
+    "id": "q_0109",
+    "part": "P1",
+    "topic": "Tidiness",
+    "text": "What do you think of those who are overly concerned about tidiness?"
+  },
+  {
+    "id": "q_0110",
+    "part": "P1",
+    "topic": "Headphone",
+    "text": "How often do you wear headphones?"
+  },
+  {
+    "id": "q_0111",
+    "part": "P1",
+    "topic": "Headphone",
+    "text": "Do you think headphones are useful?"
+  },
+  {
+    "id": "q_0112",
+    "part": "P1",
+    "topic": "Headphone",
+    "text": "Are headphones popular in your country?"
+  },
+  {
+    "id": "q_0113",
+    "part": "P1",
+    "topic": "Headphone",
+    "text": "In what situations should people not wear headphones?"
+  },
+  {
+    "id": "q_0114",
+    "part": "P1",
+    "topic": "Website",
+    "text": "Do you usually use websites?"
+  },
+  {
+    "id": "q_0115",
+    "part": "P1",
+    "topic": "Website",
+    "text": "Which website do you usually use?"
+  },
+  {
+    "id": "q_0116",
+    "part": "P1",
+    "topic": "Website",
+    "text": "Do you prefer to search for information through websites or books?"
+  },
+  {
+    "id": "q_0117",
+    "part": "P1",
+    "topic": "Website",
+    "text": "Do you want to create your own website in the future?"
+  },
+  {
+    "id": "q_0118",
+    "part": "P1",
+    "topic": "Telling Jokes",
+    "text": "Do you like to tell jokes?"
+  },
+  {
+    "id": "q_0119",
+    "part": "P1",
+    "topic": "Telling Jokes",
+    "text": "Do you have friends who love telling jokes?"
+  },
+  {
+    "id": "q_0120",
+    "part": "P1",
+    "topic": "Telling Jokes",
+    "text": "What are some common comedy shows in your country?"
+  },
+  {
+    "id": "q_0121",
+    "part": "P1",
+    "topic": "Telling Jokes",
+    "text": "Do you often joke with your friends?"
+  },
+  {
+    "id": "q_0122",
+    "part": "P1",
+    "topic": "Telling Jokes",
+    "text": "Do you like being joked about?"
+  },
+  {
+    "id": "q_0123",
+    "part": "P1",
+    "topic": "Science",
+    "text": "Do you like science?"
+  },
+  {
+    "id": "q_0124",
+    "part": "P1",
+    "topic": "Science",
+    "text": "Do you enjoy watching science TV programs?"
+  },
+  {
+    "id": "q_0125",
+    "part": "P1",
+    "topic": "Science",
+    "text": "Have you learnt about science in school?"
+  },
+  {
+    "id": "q_0126",
+    "part": "P1",
+    "topic": "Teachers",
+    "text": "Do you have a favorite teacher?"
+  },
+  {
+    "id": "q_0127",
+    "part": "P1",
+    "topic": "Teachers",
+    "text": "Which teacher do you prefer, the one from primary school or the one from junior high school?"
+  },
+  {
+    "id": "q_0128",
+    "part": "P1",
+    "topic": "Teachers",
+    "text": "Do you think being a teacher is a good choice?"
+  },
+  {
+    "id": "q_0129",
+    "part": "P1",
+    "topic": "Teachers",
+    "text": "Do you still keep in touch with your former teachers?"
+  },
+  {
+    "id": "q_0130",
+    "part": "P1",
+    "topic": "Social media",
+    "text": "Do your friends and family use social media?"
+  },
+  {
+    "id": "q_0131",
+    "part": "P1",
+    "topic": "Social media",
+    "text": "Do you think people in your country find social media useful?"
+  },
+  {
+    "id": "q_0132",
+    "part": "P1",
+    "topic": "Social media",
+    "text": "Do you spend too much time on social media?"
+  },
+  {
+    "id": "q_0133",
+    "part": "P1",
+    "topic": "Social media",
+    "text": "When did you start using social media?"
+  },
+  {
+    "id": "q_0134",
+    "part": "P1",
+    "topic": "Cars",
+    "text": "Would you like to be the driver or the passenger?"
+  },
+  {
+    "id": "q_0135",
+    "part": "P1",
+    "topic": "Cars",
+    "text": "Is there a lot of cars on the roads in your city?"
+  },
+  {
+    "id": "q_0136",
+    "part": "P1",
+    "topic": "Cars",
+    "text": "Do you want to own a very expensive car?"
+  },
+  {
+    "id": "q_0137",
+    "part": "P1",
+    "topic": "Clothes",
+    "text": "What kind of clothes do you like to wear?"
+  },
+  {
+    "id": "q_0138",
+    "part": "P1",
+    "topic": "Clothes",
+    "text": "Do you wear different clothes on the weekend?"
+  },
+  {
+    "id": "q_0139",
+    "part": "P1",
+    "topic": "Shopping",
+    "text": "Do you often go shopping?"
+  },
+  {
+    "id": "q_0140",
+    "part": "P1",
+    "topic": "Shopping",
+    "text": "Do you prefer online or offline shopping?"
+  },
+  {
+    "id": "q_0141",
+    "part": "P1",
+    "topic": "Shopping",
+    "text": "Do you compare prices before making a purchase?"
+  },
+  {
+    "id": "q_0142",
+    "part": "P1",
+    "topic": "Space travel",
+    "text": "Have you ever learnt anything about space and the stars when you were at school?"
+  },
+  {
+    "id": "q_0143",
+    "part": "P1",
+    "topic": "Space travel",
+    "text": "Would you like to know more about space and the stars?"
+  },
+  {
+    "id": "q_0144",
+    "part": "P1",
+    "topic": "Space travel",
+    "text": "Do you like science-fiction movies set in space?"
+  },
+  {
+    "id": "q_0145",
+    "part": "P1",
+    "topic": "Space travel",
+    "text": "Do you want to go into outer space in the future？"
+  },
+  {
+    "id": "q_0146",
+    "part": "P1",
+    "topic": "Feeling bored",
+    "text": "Do you often feel bored?"
+  },
+  {
+    "id": "q_0147",
+    "part": "P1",
+    "topic": "Feeling bored",
+    "text": "Did you ever find school boring when you were a child?"
+  },
+  {
+    "id": "q_0148",
+    "part": "P1",
+    "topic": "Feeling bored",
+    "text": "What sort of things do you find most boring now?"
+  },
+  {
+    "id": "q_0149",
+    "part": "P1",
+    "topic": "Feeling bored",
+    "text": "What do you do to stop yourself feeling bored?"
+  },
+  {
+    "id": "q_0150",
+    "part": "P1",
+    "topic": "Dream and ambition",
+    "text": "When you were a child, what job did you dream of doing?"
+  },
+  {
+    "id": "q_0151",
+    "part": "P1",
+    "topic": "Dream and ambition",
+    "text": "Do you think you are an ambitious person?"
+  },
+  {
+    "id": "q_0152",
+    "part": "P1",
+    "topic": "Dream and ambition",
+    "text": "What kind of job do you want to do in the future?"
+  },
+  {
+    "id": "q_0153",
+    "part": "P1",
+    "topic": "Dream and ambition",
+    "text": "Do you have any dreams or hopes for your life?"
+  },
+  {
+    "id": "q_0154",
+    "part": "P1",
+    "topic": "Talking to eldly people",
+    "text": "Do you often talk to elderly people?"
+  },
+  {
+    "id": "q_0155",
+    "part": "P1",
+    "topic": "Talking to eldly people",
+    "text": "Do you enjoy spending time with elderly people?"
+  },
+  {
+    "id": "q_0156",
+    "part": "P1",
+    "topic": "Talking to eldly people",
+    "text": "How do you feel about getting old?"
+  },
+  {
+    "id": "q_0157",
+    "part": "P1",
+    "topic": "Tidiness",
+    "text": "Do you like to keep things tidy?"
+  },
+  {
+    "id": "q_0158",
+    "part": "P1",
+    "topic": "Tidiness",
+    "text": "Did you use to keep your room tidy as a child?"
+  },
+  {
+    "id": "q_0159",
+    "part": "P1",
+    "topic": "Mirrors",
+    "text": "Do you like looking at yourself in the mirror? How often?"
+  },
+  {
+    "id": "q_0160",
+    "part": "P1",
+    "topic": "Mirrors",
+    "text": "Have you ever bought mirrors?"
+  },
+  {
+    "id": "q_0161",
+    "part": "P1",
+    "topic": "Mirrors",
+    "text": "Do you usually take a mirror with you?"
+  },
+  {
+    "id": "q_0162",
+    "part": "P1",
+    "topic": "Mirrors",
+    "text": "Would you use mirrors to decorate your room?"
+  },
+  {
+    "id": "q_0163",
+    "part": "P1",
+    "topic": "Outer space and stars",
+    "text": "Have you ever learnt about outer space and stars?"
+  },
+  {
+    "id": "q_0164",
+    "part": "P1",
+    "topic": "Outer space and stars",
+    "text": "Do you like science fiction movies? Why?"
+  },
+  {
+    "id": "q_0165",
+    "part": "P1",
+    "topic": "Outer space and stars",
+    "text": "Do you want to know more about outer space?"
+  },
+  {
+    "id": "q_0166",
+    "part": "P1",
+    "topic": "Outer space and stars",
+    "text": "Do you want to go into outer space in the future?"
+  },
+  {
+    "id": "q_0167",
+    "part": "P2",
+    "topic": "特别节日的食物",
+    "text": "Describe a kind of food that you ate at special occasions | What it is | What occasion it was | Why you would like to eat it | And explain how you feel about it"
+  },
+  {
+    "id": "q_0168",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "text": "What are the differences between what people eat now and in the past?"
+  },
+  {
+    "id": "q_0169",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "text": "Why do people eat special foods on certain festivals or special occasions?"
+  },
+  {
+    "id": "q_0170",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "text": "What is the difference between the food people eat on special festivals and the food they eat every day?"
+  },
+  {
+    "id": "q_0171",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "text": "Do people prefer to eat out or eat at home?"
+  },
+  {
+    "id": "q_0172",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "text": "What kinds of food are popular in your country?"
+  },
+  {
+    "id": "q_0173",
+    "part": "P3",
+    "topic": "特别节日的食物",
+    "text": "Do people in your country grow plants at home?"
+  },
+  {
+    "id": "q_0174",
+    "part": "P2",
+    "topic": "困难的决定",
+    "text": "Describe a difficult decision you made that had a good result. | What the decision was | Why it was difficult to make the decision | What helped you to decide | And explain why the decision you made had a good result."
+  },
+  {
+    "id": "q_0175",
+    "part": "P3",
+    "topic": "困难的决定",
+    "text": "What kinds of important decisions do young people have to make?"
+  },
+  {
+    "id": "q_0176",
+    "part": "P3",
+    "topic": "困难的决定",
+    "text": "Who are the best people to help teenagers make important decisions?"
+  },
+  {
+    "id": "q_0177",
+    "part": "P3",
+    "topic": "困难的决定",
+    "text": "Is it necessary to allow children of any age to make some decisions themselves?"
+  },
+  {
+    "id": "q_0178",
+    "part": "P3",
+    "topic": "困难的决定",
+    "text": "In what ways do other young people influence the decisions teenagers make?"
+  },
+  {
+    "id": "q_0179",
+    "part": "P3",
+    "topic": "困难的决定",
+    "text": "How does advertising influence people's everyday decisions?"
+  },
+  {
+    "id": "q_0180",
+    "part": "P3",
+    "topic": "困难的决定",
+    "text": "Is it difficult to make decisions because there is too much information on the internet?"
+  },
+  {
+    "id": "q_0181",
+    "part": "P2",
+    "topic": "从事医疗行业的人",
+    "text": "Describe a person who has chosen a career in medical field | Who this person is | What does this person do | Why this person chose medical career | And explain how you felt about this person"
+  },
+  {
+    "id": "q_0182",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "text": "Why do some people want to become doctors?"
+  },
+  {
+    "id": "q_0183",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "text": "Is it difficult to become a doctor?"
+  },
+  {
+    "id": "q_0184",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "text": "Why do some children want to be doctors?"
+  },
+  {
+    "id": "q_0185",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "text": "Do children find learning biology interesting?"
+  },
+  {
+    "id": "q_0186",
+    "part": "P3",
+    "topic": "从事医疗行业的人",
+    "text": "Do you think studying biology at school can make students healthier?"
+  },
+  {
+    "id": "q_0187",
+    "part": "P2",
+    "topic": "宜居之地",
+    "text": "Describe a place you have visited that you think it is a good place to live. | Where it is | What you know about this place | What people can do there | And explain why you would recommend this place as a good place to live."
+  },
+  {
+    "id": "q_0188",
+    "part": "P3",
+    "topic": "宜居之地",
+    "text": "What are the types of places where people like to live?"
+  },
+  {
+    "id": "q_0189",
+    "part": "P3",
+    "topic": "宜居之地",
+    "text": "What are some advantages for people living near their workplace?"
+  },
+  {
+    "id": "q_0190",
+    "part": "P3",
+    "topic": "宜居之地",
+    "text": "What are the differences between places older and younger people like to live?"
+  },
+  {
+    "id": "q_0191",
+    "part": "P3",
+    "topic": "宜居之地",
+    "text": "Why do some people move to a different area to live?"
+  },
+  {
+    "id": "q_0192",
+    "part": "P3",
+    "topic": "宜居之地",
+    "text": "What preparations should people make before moving to a new area?"
+  },
+  {
+    "id": "q_0193",
+    "part": "P3",
+    "topic": "宜居之地",
+    "text": "Is choosing where to live the most important decision people make in their > lives?"
+  },
+  {
+    "id": "q_0194",
+    "part": "P2",
+    "topic": "高楼",
+    "text": "Describe a tall building in your city you like or dislike | Where it is | What it is used for | What it looks like | And explain why you like or dislike it"
+  },
+  {
+    "id": "q_0195",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "What are the disadvantages of living in tall buildings?"
+  },
+  {
+    "id": "q_0196",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "Do you think there will be more tall buildings in the future?"
+  },
+  {
+    "id": "q_0197",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "Why do some people like to live in tall buildings nowadays?"
+  },
+  {
+    "id": "q_0198",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "Why do some people choose to design their own homes?"
+  },
+  {
+    "id": "q_0199",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "What are the advantages of living in a high-rise building?"
+  },
+  {
+    "id": "q_0200",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "Will more people live in high-rise buildings in the future?"
+  },
+  {
+    "id": "q_0201",
+    "part": "P3",
+    "topic": "高楼",
+    "text": "How does climate affect building design?"
+  },
+  {
+    "id": "q_0202",
+    "part": "P2",
+    "topic": "事业成功的人",
+    "text": "Describe a person you know about who runs a successful business. | How you knew him/her | What business does this person do | How long has this person run his/her business | And explain why you think his/her business is successful"
+  },
+  {
+    "id": "q_0203",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "text": "What kinds of businesses have recently emerged in your city?"
+  },
+  {
+    "id": "q_0204",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "text": "Why do some people prefer to shop at 2 small supermarkets rather than large ones?"
+  },
+  {
+    "id": "q_0205",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "text": "Is the quality of products in small shops the same as that in large supermarkets?"
+  },
+  {
+    "id": "q_0206",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "text": "In your country, is it easy or difficult to achieve success in business?"
+  },
+  {
+    "id": "q_0207",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "text": "Why do some people fail to start their own business?"
+  },
+  {
+    "id": "q_0208",
+    "part": "P3",
+    "topic": "事业成功的人",
+    "text": "What are the key factors for achieving success in business?"
+  },
+  {
+    "id": "q_0209",
+    "part": "P2",
+    "topic": "喜欢种植物的人",
+    "text": "Describe a person you know who enjoys growing plants | How you know this person | What plants this person enjoys growing | Where this person grows plants | And explain why you think this person enjoys growing these plants."
+  },
+  {
+    "id": "q_0210",
+    "part": "P3",
+    "topic": "喜欢种植物的人",
+    "text": "Why do some people like to keep plants at home?"
+  },
+  {
+    "id": "q_0211",
+    "part": "P3",
+    "topic": "喜欢种植物的人",
+    "text": "Should schools teach children how to grow plants?"
+  },
+  {
+    "id": "q_0212",
+    "part": "P3",
+    "topic": "喜欢种植物的人",
+    "text": "Do people in your country like growing plants?"
+  },
+  {
+    "id": "q_0213",
+    "part": "P3",
+    "topic": "喜欢种植物的人",
+    "text": "Why do people grow fruits and vegetables by themselves?"
+  },
+  {
+    "id": "q_0214",
+    "part": "P3",
+    "topic": "喜欢种植物的人",
+    "text": "Will people grow more food by themselves in the future?"
+  },
+  {
+    "id": "q_0215",
+    "part": "P2",
+    "topic": "现场体育比赛",
+    "text": "Describe a live sport match you have ever watched | What it was | When you watched | What it was like | And explain how you felt about it"
+  },
+  {
+    "id": "q_0216",
+    "part": "P3",
+    "topic": "现场体育比赛",
+    "text": "What kinds of sports are popular in your country?"
+  },
+  {
+    "id": "q_0217",
+    "part": "P3",
+    "topic": "现场体育比赛",
+    "text": "In your country, what kinds of sports 2 competitions do children usually take part in?"
+  },
+  {
+    "id": "q_0218",
+    "part": "P3",
+    "topic": "现场体育比赛",
+    "text": "Do you think people prefer to watch live sports or watch it on TV?"
+  },
+  {
+    "id": "q_0219",
+    "part": "P3",
+    "topic": "现场体育比赛",
+    "text": "What are the differences between watching live sports and watching it on TV?"
+  },
+  {
+    "id": "q_0220",
+    "part": "P2",
+    "topic": "当地新闻",
+    "text": "Describe a piece of local news that people are interested in | What it was about | Where you saw/heard it | Who was involved | And explain why people were interested in it"
+  },
+  {
+    "id": "q_0221",
+    "part": "P3",
+    "topic": "当地新闻",
+    "text": "Do people read the newspaper where you live?"
+  },
+  {
+    "id": "q_0222",
+    "part": "P3",
+    "topic": "当地新闻",
+    "text": "Are people more interested in local news than national news?"
+  },
+  {
+    "id": "q_0223",
+    "part": "P3",
+    "topic": "当地新闻",
+    "text": "Why do some people want to be very involved in their community?"
+  },
+  {
+    "id": "q_0224",
+    "part": "P3",
+    "topic": "当地新闻",
+    "text": "Do you think local communities were stronger in the past than they are today?"
+  },
+  {
+    "id": "q_0225",
+    "part": "P3",
+    "topic": "当地新闻",
+    "text": "Do you think it is important to have a national identity?"
+  },
+  {
+    "id": "q_0226",
+    "part": "P3",
+    "topic": "当地新闻",
+    "text": "How can people develop their national identity?"
+  },
+  {
+    "id": "q_0227",
+    "part": "P2",
+    "topic": "电子产品故障",
+    "text": "Describe a problem of technology you have encountered, like a computer or a cell phone | what it was | when and where you had this problem | how the problem was solved | and explain how you felt when you had this problem."
+  },
+  {
+    "id": "q_0228",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "text": "What kinds of technology products do people use at home?"
+  },
+  {
+    "id": "q_0229",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "text": "What are the advantages and 2 disadvantages of students using technology products?"
+  },
+  {
+    "id": "q_0230",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "text": "Do you think young children today are over-reliant on technology products?"
+  },
+  {
+    "id": "q_0231",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "text": "Should parents limit their children's screen time?"
+  },
+  {
+    "id": "q_0232",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "text": "Why do many young people spend so much time looking at screens?"
+  },
+  {
+    "id": "q_0233",
+    "part": "P3",
+    "topic": "电子产品故障",
+    "text": "Does relying on technology prevent children from learning skills?"
+  },
+  {
+    "id": "q_0234",
+    "part": "P2",
+    "topic": "早起的经历",
+    "text": "Describe a time when you had to get up very early. | What time you had to get up | Where you were | Why you had to get up so early | And explain how you felt about getting up very early."
+  },
+  {
+    "id": "q_0235",
+    "part": "P3",
+    "topic": "早起的经历",
+    "text": "Why do people get up early?"
+  },
+  {
+    "id": "q_0236",
+    "part": "P3",
+    "topic": "早起的经历",
+    "text": "Why do many people dislike getting up early?"
+  },
+  {
+    "id": "q_0237",
+    "part": "P3",
+    "topic": "早起的经历",
+    "text": "Is the early morning the best part of the day?"
+  },
+  {
+    "id": "q_0238",
+    "part": "P3",
+    "topic": "早起的经历",
+    "text": "What's the advantages of arriving early for an appointment?"
+  },
+  {
+    "id": "q_0239",
+    "part": "P3",
+    "topic": "早起的经历",
+    "text": "When it is not good for people to arrive very early Why do some people think it's important to be on time and others don't"
+  },
+  {
+    "id": "q_0240",
+    "part": "P2",
+    "topic": "去过但不喜欢的别人的家",
+    "text": "Describe a home that you like to visit but did not want to live in | Where it is | What it is like | Why you visited it | And explain why you would not like to live there"
+  },
+  {
+    "id": "q_0241",
+    "part": "P3",
+    "topic": "去过但不喜欢的别人的家",
+    "text": "In your country, do people often visit each other's homes, and how frequently?"
+  },
+  {
+    "id": "q_0242",
+    "part": "P3",
+    "topic": "去过但不喜欢的别人的家",
+    "text": "In your country, what do people usually bring when they visit someone's home?"
+  },
+  {
+    "id": "q_0243",
+    "part": "P3",
+    "topic": "去过但不喜欢的别人的家",
+    "text": "What differences do you think there are between houses in the countryside and those in the city?"
+  },
+  {
+    "id": "q_0244",
+    "part": "P3",
+    "topic": "去过但不喜欢的别人的家",
+    "text": "What's the difference between homes in cities and those in the countryside?"
+  },
+  {
+    "id": "q_0245",
+    "part": "P2",
+    "topic": "一直以来的追求",
+    "text": "Describe an ambition you have had for a long time | What it was | How you got the desire to want to achieve it | What you have to do to achieve it | And explain how you feel about it"
+  },
+  {
+    "id": "q_0246",
+    "part": "P3",
+    "topic": "一直以来的追求",
+    "text": "What kinds of ambitions do young people have? Why?"
+  },
+  {
+    "id": "q_0247",
+    "part": "P3",
+    "topic": "一直以来的追求",
+    "text": "What kinds of ambitions do children have?"
+  },
+  {
+    "id": "q_0248",
+    "part": "P3",
+    "topic": "一直以来的追求",
+    "text": "Do you think ambition is necessary within a company team?"
+  },
+  {
+    "id": "q_0249",
+    "part": "P3",
+    "topic": "一直以来的追求",
+    "text": "Do you think people need to have ambition in their careers? Why?"
+  },
+  {
+    "id": "q_0250",
+    "part": "P3",
+    "topic": "一直以来的追求",
+    "text": "Should parents interfere with their children's ambitions?"
+  },
+  {
+    "id": "q_0251",
+    "part": "P3",
+    "topic": "一直以来的追求",
+    "text": "Why should parents encourage children to have ambitions?"
+  },
+  {
+    "id": "q_0252",
+    "part": "P2",
+    "topic": "童年好友",
+    "text": "Describe a friend from childhood who you remember very well. | Who the friend is | How you met him/her | What you used to do together | And explain why you remember this childhood friend so well."
+  },
+  {
+    "id": "q_0253",
+    "part": "P3",
+    "topic": "童年好友",
+    "text": "How do children usually make friends?"
+  },
+  {
+    "id": "q_0254",
+    "part": "P3",
+    "topic": "童年好友",
+    "text": "Is it easy for children to make friends?"
+  },
+  {
+    "id": "q_0255",
+    "part": "P3",
+    "topic": "童年好友",
+    "text": "Do adults need older friends?"
+  },
+  {
+    "id": "q_0256",
+    "part": "P3",
+    "topic": "童年好友",
+    "text": "What are the benefits of having an older friend?"
+  },
+  {
+    "id": "q_0257",
+    "part": "P3",
+    "topic": "童年好友",
+    "text": "Can friendships last a lifetime?"
+  },
+  {
+    "id": "q_0258",
+    "part": "P2",
+    "topic": "不得不改变计划的经历",
+    "text": "Describe a time that you had to change your plan/you changed your mind | When this happened | What made you change the plan | What the new plan was | And how you felt about the change"
+  },
+  {
+    "id": "q_0259",
+    "part": "P3",
+    "topic": "不得不改变计划的经历",
+    "text": "Do people often change their plans?"
+  },
+  {
+    "id": "q_0260",
+    "part": "P3",
+    "topic": "不得不改变计划的经历",
+    "text": "What are the common reasons when people need to change plans?"
+  },
+  {
+    "id": "q_0261",
+    "part": "P3",
+    "topic": "不得不改变计划的经历",
+    "text": "Do young people like to change plans?"
+  },
+  {
+    "id": "q_0262",
+    "part": "P3",
+    "topic": "不得不改变计划的经历",
+    "text": "What kinds of plans are practical?"
+  },
+  {
+    "id": "q_0263",
+    "part": "P3",
+    "topic": "不得不改变计划的经历",
+    "text": "How would you tell your friends when you must change your plans?"
+  },
+  {
+    "id": "q_0264",
+    "part": "P3",
+    "topic": "不得不改变计划的经历",
+    "text": "Do old people often change plans?"
+  },
+  {
+    "id": "q_0265",
+    "part": "P2",
+    "topic": "社交媒体看到的有趣视频",
+    "text": "Describe an interesting video you watched in social media | When and where you saw it | What it was about | Why you think it is interesting | And explain how you felt about it"
+  },
+  {
+    "id": "q_0266",
+    "part": "P3",
+    "topic": "社交媒体看到的有趣视频",
+    "text": "What types of videos do young people and elderly people prefer?"
+  },
+  {
+    "id": "q_0267",
+    "part": "P3",
+    "topic": "社交媒体看到的有趣视频",
+    "text": "What are the differences between learning through videos and learning through books?"
+  },
+  {
+    "id": "q_0268",
+    "part": "P3",
+    "topic": "社交媒体看到的有趣视频",
+    "text": "What skills or things can people learn from videos?"
+  },
+  {
+    "id": "q_0269",
+    "part": "P3",
+    "topic": "社交媒体看到的有趣视频",
+    "text": "What are the advantages of online learning？"
+  },
+  {
+    "id": "q_0270",
+    "part": "P2",
+    "topic": "改变观点的经历",
+    "text": "Describe a time you changed your opinion"
+  },
+  {
+    "id": "q_0271",
+    "part": "P3",
+    "topic": "改变观点的经历",
+    "text": "You should say： Do children like to change opinions?"
+  },
+  {
+    "id": "q_0272",
+    "part": "P3",
+    "topic": "改变观点的经历",
+    "text": "When do people change opinions?"
+  },
+  {
+    "id": "q_0273",
+    "part": "P3",
+    "topic": "改变观点的经历",
+    "text": "Who do young people turn to for advice?"
+  },
+  {
+    "id": "q_0274",
+    "part": "P3",
+    "topic": "改变观点的经历",
+    "text": "Do people like giving opinions about politics?"
+  },
+  {
+    "id": "q_0275",
+    "part": "P2",
+    "topic": "推荐的度假胜地",
+    "text": "Describe a place you went to on holiday that you would recommend. | Where you went | Why you went to this place | What you did | And explain why you would recommend this place for a holiday"
+  },
+  {
+    "id": "q_0276",
+    "part": "P3",
+    "topic": "推荐的度假胜地",
+    "text": "What are some popular attractions that people like to visit in your country?"
+  },
+  {
+    "id": "q_0277",
+    "part": "P3",
+    "topic": "推荐的度假胜地",
+    "text": "Do old people and young people choose different places to go on vacation?Why?"
+  },
+  {
+    "id": "q_0278",
+    "part": "P3",
+    "topic": "推荐的度假胜地",
+    "text": "What do young people and old people think about when making travel plans?"
+  },
+  {
+    "id": "q_0279",
+    "part": "P3",
+    "topic": "推荐的度假胜地",
+    "text": "How do people get to know a new place?"
+  },
+  {
+    "id": "q_0280",
+    "part": "P3",
+    "topic": "推荐的度假胜地",
+    "text": "How do people make decisions about when to take their holidays?"
+  },
+  {
+    "id": "q_0281",
+    "part": "P3",
+    "topic": "推荐的度假胜地",
+    "text": "What are the advantages and disadvantages of planning every detail of a holiday/vacation in advance?"
+  },
+  {
+    "id": "q_0282",
+    "part": "P2",
+    "topic": "无聊的地方",
+    "text": "Describe a place you have been to and felt bored | Where it was | When you went there | What you did there | And explain why you think it is boring"
+  },
+  {
+    "id": "q_0283",
+    "part": "P3",
+    "topic": "无聊的地方",
+    "text": "Why do young people find chatting with elderly people boring?"
+  },
+  {
+    "id": "q_0284",
+    "part": "P3",
+    "topic": "无聊的地方",
+    "text": "Why do students find their teachers' lessons boring?"
+  },
+  {
+    "id": "q_0285",
+    "part": "P3",
+    "topic": "无聊的地方",
+    "text": "What should teachers do to make lessons less boring for students?"
+  },
+  {
+    "id": "q_0286",
+    "part": "P3",
+    "topic": "无聊的地方",
+    "text": "Why do most children find education boring?"
+  },
+  {
+    "id": "q_0287",
+    "part": "P3",
+    "topic": "无聊的地方",
+    "text": "When do people feel bored?"
+  },
+  {
+    "id": "q_0288",
+    "part": "P3",
+    "topic": "无聊的地方",
+    "text": "What can people do when they feel bored?"
+  },
+  {
+    "id": "q_0289",
+    "part": "P2",
+    "topic": "完成困难挑战的人",
+    "text": "Describe a person you know who successfully achieved something difficult | Who is it | What he/she had achieved | How difficult it was | And explain how you felt about it"
+  },
+  {
+    "id": "q_0290",
+    "part": "P3",
+    "topic": "完成困难挑战的人",
+    "text": "Who are some successful people in your country?"
+  },
+  {
+    "id": "q_0291",
+    "part": "P3",
+    "topic": "完成困难挑战的人",
+    "text": "Does earning a lot of money mean someone is successful?"
+  },
+  {
+    "id": "q_0292",
+    "part": "P3",
+    "topic": "完成困难挑战的人",
+    "text": "How do you define success?"
+  },
+  {
+    "id": "q_0293",
+    "part": "P3",
+    "topic": "完成困难挑战的人",
+    "text": "Should people set goals for themselves?"
+  },
+  {
+    "id": "q_0294",
+    "part": "P3",
+    "topic": "完成困难挑战的人",
+    "text": "Are successful people lonely?"
+  },
+  {
+    "id": "q_0295",
+    "part": "P2",
+    "topic": "21.想实施的环保法律",
+    "text": "Describe a law of environment protection that you would like to introduce | What it is | How you first learned about it | Who benefits from it | And explain how you feel about this law"
+  },
+  {
+    "id": "q_0296",
+    "part": "P3",
+    "topic": "21.想实施的环保法律",
+    "text": "Why should students learn to follow rules from an early age?"
+  },
+  {
+    "id": "q_0297",
+    "part": "P3",
+    "topic": "21.想实施的环保法律",
+    "text": "Should schools increase or reduce rules?"
+  },
+  {
+    "id": "q_0298",
+    "part": "P3",
+    "topic": "21.想实施的环保法律",
+    "text": "Are rules important for young children?"
+  },
+  {
+    "id": "q_0299",
+    "part": "P3",
+    "topic": "21.想实施的环保法律",
+    "text": "What rules do schools have in your country?"
+  },
+  {
+    "id": "q_0300",
+    "part": "P3",
+    "topic": "21.想实施的环保法律",
+    "text": "Do you think it is necessary to create laws for society?"
+  },
+  {
+    "id": "q_0301",
+    "part": "P3",
+    "topic": "21.想实施的环保法律",
+    "text": "Do you agree that people who break the law must be punished?"
+  },
+  {
+    "id": "q_0302",
+    "part": "P2",
+    "topic": "做重要决定的时刻",
+    "text": "Describe a time when you had to make an important decision. | What decision you had to make | How you made the decision | Why this decision was important | And explain whether you think it was a right decision."
+  },
+  {
+    "id": "q_0303",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "text": "What important decisions do people need to make slowly?"
+  },
+  {
+    "id": "q_0304",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "text": "Why do some people make decisions very quickly while others take a long time?"
+  },
+  {
+    "id": "q_0305",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "text": "Do you think children ever have to make important decisions?"
+  },
+  {
+    "id": "q_0306",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "text": "What important decisions do teenagers need to make after graduation?"
+  },
+  {
+    "id": "q_0307",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "text": "Who can children turn to for help when making a decision?"
+  },
+  {
+    "id": "q_0308",
+    "part": "P3",
+    "topic": "做重要决定的时刻",
+    "text": "Do you think advertisements can influence our decisions when shopping?"
+  },
+  {
+    "id": "q_0309",
+    "part": "P2",
+    "topic": "公开发言",
+    "text": "Describe a time when you had to give a talk to lots of people. | Who you gave this talk to | What the talk was about | Why you gave this talk | And explain how you felt about giving the talk to lots of people."
+  },
+  {
+    "id": "q_0310",
+    "part": "P3",
+    "topic": "公开发言",
+    "text": "What benefits does the internet bring to communication?"
+  },
+  {
+    "id": "q_0311",
+    "part": "P3",
+    "topic": "公开发言",
+    "text": "Which one is better, being a communicator or a listener?"
+  },
+  {
+    "id": "q_0312",
+    "part": "P3",
+    "topic": "公开发言",
+    "text": "What qualities does a person need to have to be a communicator?"
+  },
+  {
+    "id": "q_0313",
+    "part": "P3",
+    "topic": "公开发言",
+    "text": "Why do some people dislike using the internet to communicate?"
+  },
+  {
+    "id": "q_0314",
+    "part": "P2",
+    "topic": "跟别人一起做事的经历",
+    "text": "Describe something you did with one or more people (e.g. an activity, a piece of work.) | What you did | Who you did it with | How long it took | And explain how you felt about doing something with one or more people."
+  },
+  {
+    "id": "q_0315",
+    "part": "P3",
+    "topic": "跟别人一起做事的经历",
+    "text": "Should children learn to work in teams?"
+  },
+  {
+    "id": "q_0316",
+    "part": "P3",
+    "topic": "跟别人一起做事的经历",
+    "text": "What kind of group work do children do at school?"
+  },
+  {
+    "id": "q_0317",
+    "part": "P3",
+    "topic": "跟别人一起做事的经历",
+    "text": "Why do many people prefer to solve problems on their own rather than work in a team?"
+  },
+  {
+    "id": "q_0318",
+    "part": "P3",
+    "topic": "跟别人一起做事的经历",
+    "text": "What problems might a leader face?"
+  },
+  {
+    "id": "q_0319",
+    "part": "P3",
+    "topic": "跟别人一起做事的经历",
+    "text": "What qualities does a good leader need?"
+  },
+  {
+    "id": "q_0320",
+    "part": "P2",
+    "topic": "动物故事",
+    "text": "Describe a story you knew that involves an animal (like in a movie or a book) | What the movie or book is about | When and where you watched it | Are there any other animals in the movie or book | And explain how you felt about this movie or book"
+  },
+  {
+    "id": "q_0321",
+    "part": "P3",
+    "topic": "动物故事",
+    "text": "Do many people in your country keep pets?"
+  },
+  {
+    "id": "q_0322",
+    "part": "P3",
+    "topic": "动物故事",
+    "text": "What kinds of animals do people in your country like to keep as pets?"
+  },
+  {
+    "id": "q_0323",
+    "part": "P3",
+    "topic": "动物故事",
+    "text": "Some people think that keeping pets 3 should be banned in cities. What is your opinion?"
+  },
+  {
+    "id": "q_0324",
+    "part": "P3",
+    "topic": "动物故事",
+    "text": "Do you think schools should teach children about animals?"
+  },
+  {
+    "id": "q_0325",
+    "part": "P2",
+    "topic": "一个很长时间不回你信息的人",
+    "text": "Describe a person who has not replied to your messages for a long time. | Who he/she is | What message you sent him/her | Did he/she finally reply you | And explain how you felt about him/her"
+  },
+  {
+    "id": "q_0326",
+    "part": "P3",
+    "topic": "一个很长时间不回你信息的人",
+    "text": "Why do people sometimes not reply to messages?"
+  },
+  {
+    "id": "q_0327",
+    "part": "P3",
+    "topic": "一个很长时间不回你信息的人",
+    "text": "How can people show respect when replying to messages?"
+  },
+  {
+    "id": "q_0328",
+    "part": "P3",
+    "topic": "一个很长时间不回你信息的人",
+    "text": "Do you think eye contact and body 3 language are more important than words?"
+  },
+  {
+    "id": "q_0329",
+    "part": "P3",
+    "topic": "一个很长时间不回你信息的人",
+    "text": "Should people expect others to reply to messages immediately?"
+  },
+  {
+    "id": "q_0330",
+    "part": "P2",
+    "topic": "关于名人的广告",
+    "text": "Describe a piece of advertisement which is about a famous people | What the advertisement is about | When and where you saw it | What the famous person does in the advertisement | And explain how you felt about it"
+  },
+  {
+    "id": "q_0331",
+    "part": "P3",
+    "topic": "关于名人的广告",
+    "text": "Where do advertisements usually appear?"
+  },
+  {
+    "id": "q_0332",
+    "part": "P3",
+    "topic": "关于名人的广告",
+    "text": "What are the advantages and disadvantages of advertisements?"
+  },
+  {
+    "id": "q_0333",
+    "part": "P3",
+    "topic": "关于名人的广告",
+    "text": "Is it effective to use celebrities in advertisements? Why or why not?"
+  },
+  {
+    "id": "q_0334",
+    "part": "P2",
+    "topic": "一个擅长学习语言的人",
+    "text": "Describe a person who is good at learning languages | Who it is | How you knew him/her | What languages he/she has learnt | And explain why you think he/she is good at learning languages"
+  },
+  {
+    "id": "q_0335",
+    "part": "P3",
+    "topic": "一个擅长学习语言的人",
+    "text": "Do people in your country learn other languages?"
+  },
+  {
+    "id": "q_0336",
+    "part": "P3",
+    "topic": "一个擅长学习语言的人",
+    "text": "How can people learn new languages?"
+  },
+  {
+    "id": "q_0337",
+    "part": "P3",
+    "topic": "一个擅长学习语言的人",
+    "text": "Do you think it is necessary for study or work to learn new languages?"
+  },
+  {
+    "id": "q_0338",
+    "part": "P3",
+    "topic": "一个擅长学习语言的人",
+    "text": "What are the differences between how adults and children learn languages?"
+  },
+  {
+    "id": "q_0339",
+    "part": "P3",
+    "topic": "一个擅长学习语言的人",
+    "text": "Is it necessary for people to learn a new language just for travelling?"
+  },
+  {
+    "id": "q_0340",
+    "part": "P2",
+    "topic": "为家人骄傲",
+    "text": "Describe a time when you felt very proud of something a family member did. | Who the family member was | What he/she did | Where and when this happened | And explain why you felt so proud of what your family member did"
+  },
+  {
+    "id": "q_0341",
+    "part": "P3",
+    "topic": "为家人骄傲",
+    "text": "What kinds of behaviors of young children can make their parents feel proud?"
+  },
+  {
+    "id": "q_0342",
+    "part": "P3",
+    "topic": "为家人骄傲",
+    "text": "Why do giving academic prizes or 2 rewards help promote children's progress?"
+  },
+  {
+    "id": "q_0343",
+    "part": "P3",
+    "topic": "为家人骄傲",
+    "text": "Do you think it is good for parents to give children too many prizes or rewards?"
+  },
+  {
+    "id": "q_0344",
+    "part": "P3",
+    "topic": "为家人骄傲",
+    "text": "Does any job bring people a sense of pride?"
+  },
+  {
+    "id": "q_0345",
+    "part": "P3",
+    "topic": "为家人骄傲",
+    "text": "Have the things that people are proud of changed compared to the past?"
+  },
+  {
+    "id": "q_0346",
+    "part": "P3",
+    "topic": "为家人骄傲",
+    "text": "When do adults feel proud of themselves?"
+  },
+  {
+    "id": "q_0347",
+    "part": "P2",
+    "topic": "禁止使用手机的场合",
+    "text": "Describe a time when you were not allowed to use your mobile phone | When it was | Where it was | Why you were not allowed to use your mobile phone | And explain how you feel about the whole experience"
+  },
+  {
+    "id": "q_0348",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "text": "In your country, which places are not allowed people to use phones?"
+  },
+  {
+    "id": "q_0349",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "text": "Do you think it is important to introduce new rules for using mobile phones?"
+  },
+  {
+    "id": "q_0350",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "text": "Why do young and old people use mobile phones differently?"
+  },
+  {
+    "id": "q_0351",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "text": "When should parents allow their children to have mobile phones?"
+  },
+  {
+    "id": "q_0352",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "text": "Do you agree that the social rules in the past were stricter than those of today?"
+  },
+  {
+    "id": "q_0353",
+    "part": "P3",
+    "topic": "禁止使用手机的场合",
+    "text": "Is it quite prevalent that people are addicted to mobile phones?"
+  },
+  {
+    "id": "q_0354",
+    "part": "P2",
+    "topic": "完美的工作",
+    "text": "Describe a perfect job you would like to have in the future | What it is | How you knew it | What it is like | And explain why you think it is perfect"
+  },
+  {
+    "id": "q_0355",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "What types of jobs do children usually want to do?"
+  },
+  {
+    "id": "q_0356",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "What are the dream jobs of people in your country?"
+  },
+  {
+    "id": "q_0357",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "Why do some jobs attract more people than others?"
+  },
+  {
+    "id": "q_0358",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "Why do people choose the job they mentioned as their dream job?"
+  },
+  {
+    "id": "q_0359",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "Why do people change their dream jobs as they grow older?"
+  },
+  {
+    "id": "q_0360",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "Do you think that money is the only factor for people to choose their jobs?"
+  },
+  {
+    "id": "q_0361",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "Why some people don't want to work hard?"
+  },
+  {
+    "id": "q_0362",
+    "part": "P3",
+    "topic": "完美的工作",
+    "text": "In what ways do coworkers influence people's work habits and performance?"
+  },
+  {
+    "id": "q_0363",
+    "part": "P2",
+    "topic": "微笑的场合",
+    "text": "Describe an occasion when many people were smiling | When it happened | Who you were with | What happened | And explain why many people were smiling"
+  },
+  {
+    "id": "q_0364",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "Why do people smile?"
+  },
+  {
+    "id": "q_0365",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "Do children tend to smile more frequently than adults?"
+  },
+  {
+    "id": "q_0366",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "Why do people usually smile when taking photos?"
+  },
+  {
+    "id": "q_0367",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "Do elderly older people have better control over their feelings compared to young people?"
+  },
+  {
+    "id": "q_0368",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "When is it important for people not to show their emotions?"
+  },
+  {
+    "id": "q_0369",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "Do you agree or disagree that people might be motivated more by their emotions than by logical thinkings?"
+  },
+  {
+    "id": "q_0370",
+    "part": "P3",
+    "topic": "微笑的场合",
+    "text": "Is it a good thing for people to be driven by emotions?"
+  },
+  {
+    "id": "q_0371",
+    "part": "P2",
+    "topic": "想见的名人",
+    "text": "Describe a foreign celebrity that you would like to meet in person | Who the person is | How you know about this person | What this person does | And explain why you would like to meet this person"
+  },
+  {
+    "id": "q_0372",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "What kinds of famous people are often in the news in your country?"
+  },
+  {
+    "id": "q_0373",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "Why do children want to become famous?"
+  },
+  {
+    "id": "q_0374",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "Are there more celebrities in the news now?"
+  },
+  {
+    "id": "q_0375",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "Do you agree that everyone enjoys reading news about celebrities?"
+  },
+  {
+    "id": "q_0376",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "Do people like these packaged celebrities or those with genuine talent?"
+  },
+  {
+    "id": "q_0377",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "Is it possible for people to become famous without talent?"
+  },
+  {
+    "id": "q_0378",
+    "part": "P3",
+    "topic": "想见的名人",
+    "text": "Would people still want to become 7 famous if they knew what they are going to face?"
+  },
+  {
+    "id": "q_0379",
+    "part": "P2",
+    "topic": "乐于助人的人",
+    "text": "Describe someone who often help other people. | Who this person is | What kinds of help they usually offer | Why this person likes helping others | And explain how this person has influenced you"
+  },
+  {
+    "id": "q_0380",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "What kinds of machines do people usually use at home to help them?"
+  },
+  {
+    "id": "q_0381",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "What is your opinion on the question of whether parents should teach their children to help housework?"
+  },
+  {
+    "id": "q_0382",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "How can children help their parents at home?"
+  },
+  {
+    "id": "q_0383",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "Do you agree that it's important for everyone in a family to help at home?"
+  },
+  {
+    "id": "q_0384",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "Should students do community service?Why?"
+  },
+  {
+    "id": "q_0385",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "What kinds of help do people need when they start a new job?"
+  },
+  {
+    "id": "q_0386",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "Is it necessary for employees to ask their manager for help?"
+  },
+  {
+    "id": "q_0387",
+    "part": "P3",
+    "topic": "乐于助人的人",
+    "text": "Do you agree or disagree that many people will lose their jobs because of AI?"
+  },
+  {
+    "id": "q_0388",
+    "part": "P2",
+    "topic": "常用的软件",
+    "text": "Describe an application (program) you usually use on your phone or computer | What it is | When you started to use it | Why you use it often | And how you feel about it"
+  },
+  {
+    "id": "q_0389",
+    "part": "P3",
+    "topic": "常用的软件",
+    "text": "What kinds of programs or apps are popular in your country?"
+  },
+  {
+    "id": "q_0390",
+    "part": "P3",
+    "topic": "常用的软件",
+    "text": "Why some people don't like to use programs or apps?"
+  },
+  {
+    "id": "q_0391",
+    "part": "P3",
+    "topic": "常用的软件",
+    "text": "What are the differences between the kinds of apps and programs young people and old people use?"
+  },
+  {
+    "id": "q_0392",
+    "part": "P3",
+    "topic": "常用的软件",
+    "text": "Is it necessary for parents to limit the time their children spend on apps or computer programs?"
+  },
+  {
+    "id": "q_0393",
+    "part": "P3",
+    "topic": "常用的软件",
+    "text": "What are the benefits for using apps as a tool for education?"
+  },
+  {
+    "id": "q_0394",
+    "part": "P2",
+    "topic": "喜欢的电影",
+    "text": "Describe a movie you watched and enjoyed recently. | What the movie is | What it is about | When you watched it | And explain why it is your favorite movie"
+  },
+  {
+    "id": "q_0395",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "What kind of movies do people in your country like to watch?"
+  },
+  {
+    "id": "q_0396",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "In your country, what kinds of movies do people like to watch?"
+  },
+  {
+    "id": "q_0397",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "Do people like to watch movies at home or cinema?"
+  },
+  {
+    "id": "q_0398",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "Why don't some people enjoy watching movies?"
+  },
+  {
+    "id": "q_0399",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "What qualities does people need to be good actors?"
+  },
+  {
+    "id": "q_0400",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "Which is more important for an actor, acting skills or appearance?"
+  },
+  {
+    "id": "q_0401",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "Do you agree or disagree that being an actor is a difficult job?"
+  },
+  {
+    "id": "q_0402",
+    "part": "P3",
+    "topic": "喜欢的电影",
+    "text": "How important are famous actors to the success of a movie?"
+  },
+  {
+    "id": "q_0403",
+    "part": "P2",
+    "topic": "发挥想象力的时刻",
+    "text": "Describe a time you needed to use your imagination | When it was | Why you need to use imagination | How difficult or easy it was | And explain how you felt about it"
+  },
+  {
+    "id": "q_0404",
+    "part": "P3",
+    "topic": "发挥想象力的时刻",
+    "text": "What kinds of games do children need to use imagination to play?"
+  },
+  {
+    "id": "q_0405",
+    "part": "P3",
+    "topic": "发挥想象力的时刻",
+    "text": "Is it very important for teachers to 2 encourage children to use their imagination?"
+  },
+  {
+    "id": "q_0406",
+    "part": "P3",
+    "topic": "发挥想象力的时刻",
+    "text": "Do you think reading stories needs more imagination or watching cartoons?"
+  },
+  {
+    "id": "q_0407",
+    "part": "P3",
+    "topic": "发挥想象力的时刻",
+    "text": "What are some jobs that require a good imagination?"
+  },
+  {
+    "id": "q_0408",
+    "part": "P3",
+    "topic": "发挥想象力的时刻",
+    "text": "Do scientists need to use their imagination?"
+  },
+  {
+    "id": "q_0409",
+    "part": "P2",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "Describe a bicycle/motorbike/car trip that you think would be interesting. | Where you could go | Who you could go with | How easy/difficult the trip would be | And explain why you think using a bicycle/ motorbike/car for this trip would be interesting"
+  },
+  {
+    "id": "q_0410",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "Are bicycles and motorbikes popular in your country?"
+  },
+  {
+    "id": "q_0411",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "Which form of vehicle is more popular in your country, bikes, cars or motorcycles?"
+  },
+  {
+    "id": "q_0412",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "What is the best thing about public transport in the area you live?"
+  },
+  {
+    "id": "q_0413",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "Do you agree that more and more people want to buy cars these days?"
+  },
+  {
+    "id": "q_0414",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "How do people travel today in cities and in the countryside?"
+  },
+  {
+    "id": "q_0415",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "Do city planners consider the needs of pedestrians enough?"
+  },
+  {
+    "id": "q_0416",
+    "part": "P3",
+    "topic": "感兴趣的单车/摩托车/汽车旅行",
+    "text": "What impact can an inadequate transport system have on a country?"
+  },
+  {
+    "id": "q_0417",
+    "part": "P2",
+    "topic": "安静的地方",
+    "text": "Describe a place you enjoyed visiting that was very quiet | Where this place is and why you wanted to visit it | Why this place was very quiet | What you did there | And explain why you enjoyed visiting this place that was very quiet."
+  },
+  {
+    "id": "q_0418",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "In your country, what quiet places do people like to go?"
+  },
+  {
+    "id": "q_0419",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "Why do some people not like quiet places?"
+  },
+  {
+    "id": "q_0420",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "Are there more or fewer quiet places now than in the past?"
+  },
+  {
+    "id": "q_0421",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "Can a place ever be completely quiet?"
+  },
+  {
+    "id": "q_0422",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "Can people listen to music while doing something else?"
+  },
+  {
+    "id": "q_0423",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "What are the benefits of quietness for people of all ages?"
+  },
+  {
+    "id": "q_0424",
+    "part": "P3",
+    "topic": "安静的地方",
+    "text": "Do you agree or disagree that people 7 today feel uncomfortable if there is no noise?"
+  },
+  {
+    "id": "q_0425",
+    "part": "P2",
+    "topic": "校外学到技能的人",
+    "text": "Describe a person you know who learned something from others (not a teacher) | Who he/she is | How you know him/her | What he/she had learned | And explain how you feel about him/her"
+  },
+  {
+    "id": "q_0426",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "What can children learn from parents?"
+  },
+  {
+    "id": "q_0427",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "What subjects do children often enjoy studying at school?"
+  },
+  {
+    "id": "q_0428",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "Do you agree or disagree that children 3 have to study too many subjects at school?"
+  },
+  {
+    "id": "q_0429",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "Do you think some children are well-behaved because they are influenced by their parents?"
+  },
+  {
+    "id": "q_0430",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "Does a good teacher make learning more interesting?"
+  },
+  {
+    "id": "q_0431",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "What are the benefits for adults of returning to studying after leaving full-time education?"
+  },
+  {
+    "id": "q_0432",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "Might it ever be a good idea for retired people to go back to full-time education?"
+  },
+  {
+    "id": "q_0433",
+    "part": "P3",
+    "topic": "校外学到技能的人",
+    "text": "Do you agree that companies should provide regular training courses for their employees?"
+  },
+  {
+    "id": "q_0434",
+    "part": "P2",
+    "topic": "经常做计划的人",
+    "text": "Describe a person who often plan things | Who he/she is | How you know him/her | What he/she usually plans about | And explain how you feel about him/her"
+  },
+  {
+    "id": "q_0435",
+    "part": "P3",
+    "topic": "经常做计划的人",
+    "text": "What types of plans do people often make with friends and family?"
+  },
+  {
+    "id": "q_0436",
+    "part": "P3",
+    "topic": "经常做计划的人",
+    "text": "Is it important for people to plan special events, such as weddings?"
+  },
+  {
+    "id": "q_0437",
+    "part": "P3",
+    "topic": "经常做计划的人",
+    "text": "Why don't some people like to plan their social life in advance?"
+  },
+  {
+    "id": "q_0438",
+    "part": "P3",
+    "topic": "经常做计划的人",
+    "text": "What are the advantages for young people of planning their future careers?"
+  },
+  {
+    "id": "q_0439",
+    "part": "P3",
+    "topic": "经常做计划的人",
+    "text": "Should young people ask for advice about career planning, for example from teachers or family？ Do you agree or disagree that it is only possible to have a successful career if it has been carefully planned?"
+  },
+  {
+    "id": "q_0440",
+    "part": "P2",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "Describe a child who like drawing or painting | Who he/she is | How you know him/her | What he/she often draws or paints | And why do you think he/she like drawing or painting"
+  },
+  {
+    "id": "q_0441",
+    "part": "P3",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "At what age do you think children can start drawing?"
+  },
+  {
+    "id": "q_0442",
+    "part": "P3",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "Should children have art lessons or classes at school?"
+  },
+  {
+    "id": "q_0443",
+    "part": "P3",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "Why do children often paint and draw more than adults do?"
+  },
+  {
+    "id": "q_0444",
+    "part": "P3",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "Why do many people enjoy going to galleries and museums to see art?"
+  },
+  {
+    "id": "q_0445",
+    "part": "P3",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "Should entry to galleries and museums be free for everyone?"
+  },
+  {
+    "id": "q_0446",
+    "part": "P3",
+    "topic": "你认识的喜欢画画的小孩",
+    "text": "Do you agree or disagree that when people look at art in galleries or museums, they can learn a lot about life in general?"
+  },
+  {
+    "id": "q_0447",
+    "part": "P2",
+    "topic": "购物的地方",
+    "text": "Describe a place that people like to go shopping (eg. shopping centre) | Where it is | How often you go there | Why do people like to go there shopping | And explain how you feel about it"
+  },
+  {
+    "id": "q_0448",
+    "part": "P3",
+    "topic": "购物的地方",
+    "text": "What places do people like to go shopping in your country?"
+  },
+  {
+    "id": "q_0449",
+    "part": "P3",
+    "topic": "购物的地方",
+    "text": "Has shopping become a hobby for many people?"
+  },
+  {
+    "id": "q_0450",
+    "part": "P3",
+    "topic": "购物的地方",
+    "text": "Do you agree or disagree that most people waste too much time shopping?"
+  },
+  {
+    "id": "q_0451",
+    "part": "P3",
+    "topic": "购物的地方",
+    "text": "Do you agree or disagree that people 4 often buy things that they don't really need?"
+  },
+  {
+    "id": "q_0452",
+    "part": "P3",
+    "topic": "购物的地方",
+    "text": "Does buying things really make people happy?"
+  },
+  {
+    "id": "q_0453",
+    "part": "P3",
+    "topic": "购物的地方",
+    "text": "How much influence does advertising have when people are buying things?"
+  },
+  {
+    "id": "q_0454",
+    "part": "P2",
+    "topic": "外国的短暂停留",
+    "text": "Describe a foreign country you would like to stay or work for a short period of time | Which country it is | How you knew it | What you will do there | And explain why you want to stay or work there for a short period of time"
+  },
+  {
+    "id": "q_0455",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "text": "What jobs can people do in another country for a short time?"
+  },
+  {
+    "id": "q_0456",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "text": "What are the benefits for young people of working in another country for a short time?"
+  },
+  {
+    "id": "q_0457",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "text": "Why might some people not want to work in another country?"
+  },
+  {
+    "id": "q_0458",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "text": "What are the advantages of working for an international company?"
+  },
+  {
+    "id": "q_0459",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "text": "What personal skills do people need in order to work for an international company?"
+  },
+  {
+    "id": "q_0460",
+    "part": "P3",
+    "topic": "外国的短暂停留",
+    "text": "Do you agree or disagree that practical experience is more useful than qualifications when working in an international company?"
+  },
+  {
+    "id": "q_0461",
+    "part": "P2",
+    "topic": "给别人的建议",
+    "text": "Describe a time when you gave advice to others | When it was | To whom you gave the advice | What the advice was | And explain why you gave the advice"
+  },
+  {
+    "id": "q_0462",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "text": "When is it better to ask friends for advice rather than family?"
+  },
+  {
+    "id": "q_0463",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "text": "Why do older people sometimes ask younger people for advice?"
+  },
+  {
+    "id": "q_0464",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "text": "What problems can someone have when they ask lots of different people for advice?"
+  },
+  {
+    "id": "q_0465",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "text": "In what situations is it important to 4 think carefully before giving advice to someone?"
+  },
+  {
+    "id": "q_0466",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "text": "What kinds of personal qualities do people need to give good advice?"
+  },
+  {
+    "id": "q_0467",
+    "part": "P3",
+    "topic": "给别人的建议",
+    "text": "Do you agree or disagree that anyone can learn how to give advice effectively?"
+  },
+  {
+    "id": "q_0468",
+    "part": "P2",
+    "topic": "想拥有的科技产品",
+    "text": "Describe a piece of technology (not a mobile phone) that you would like to have | What it is | How much it is | What you will use it for | And explain why you would like to own it"
+  },
+  {
+    "id": "q_0469",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "text": "What are the different types of technology that young people often use?"
+  },
+  {
+    "id": "q_0470",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "text": "Do you agree or disagree that technology has a positive effect on young people's lives?"
+  },
+  {
+    "id": "q_0471",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "text": "How healthy is it for young people to spend a lot of time online?"
+  },
+  {
+    "id": "q_0472",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "text": "What are the differences between talking to people online and talking to them face to face?"
+  },
+  {
+    "id": "q_0473",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "text": "What do you think of the view that it is possible for people to make good friends online?"
+  },
+  {
+    "id": "q_0474",
+    "part": "P3",
+    "topic": "想拥有的科技产品",
+    "text": "What types of impacts can technology have on family relationships?"
+  },
+  {
+    "id": "q_0475",
+    "part": "P2",
+    "topic": "不喜欢的音乐场合",
+    "text": "Describe an event you took part in but you didn't enjoy its music | When and where it was | What the event was about | What kind of music it played | And explain why you didn't enjoy its music"
+  },
+  {
+    "id": "q_0476",
+    "part": "P3",
+    "topic": "不喜欢的音乐场合",
+    "text": "What kinds of music events are popular in your country?"
+  },
+  {
+    "id": "q_0477",
+    "part": "P3",
+    "topic": "不喜欢的音乐场合",
+    "text": "What do people enjoy about going to large music events?"
+  },
+  {
+    "id": "q_0478",
+    "part": "P3",
+    "topic": "不喜欢的音乐场合",
+    "text": "Why might younger and older people not enjoy the same music events?"
+  },
+  {
+    "id": "q_0479",
+    "part": "P3",
+    "topic": "不喜欢的音乐场合",
+    "text": "Should children have music lessons or classes at school?"
+  },
+  {
+    "id": "q_0480",
+    "part": "P3",
+    "topic": "不喜欢的音乐场合",
+    "text": "Why is music often played when people are doing physical exercise?"
+  },
+  {
+    "id": "q_0481",
+    "part": "P3",
+    "topic": "不喜欢的音乐场合",
+    "text": "Do you agree or disagree that playing music in shops or stores is an effective way of selling more products?"
+  },
+  {
+    "id": "q_0482",
+    "part": "P2",
+    "topic": "喜欢看的网络节目",
+    "text": "Describe an online TV program that you like to watch | What it was | When you watch it | What it was about | And explain why you like to watch it"
+  },
+  {
+    "id": "q_0483",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "text": "What types of TV or online programmes or shows are popular in your country?"
+  },
+  {
+    "id": "q_0484",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "text": "Do younger and older people enjoy watching similar programmes or shows?"
+  },
+  {
+    "id": "q_0485",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "text": "Why do some people spend so much time watching TV and online programmes or shows?"
+  },
+  {
+    "id": "q_0486",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "text": "What makes some TV or online programmes or shows popular?"
+  },
+  {
+    "id": "q_0487",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "text": "Do you agree or disagree that there are too many programmes/shows for people > to choose from these days?"
+  },
+  {
+    "id": "q_0488",
+    "part": "P3",
+    "topic": "喜欢看的网络节目",
+    "text": "What do you think of the view that parents should choose what programmes or shows their children watch?"
+  },
+  {
+    "id": "q_0489",
+    "part": "P2",
+    "topic": "超预算的购买经历",
+    "text": "Describe a time when you bought something that was over your budget. | What you bought | Why you wanted to buy it | Why it was more expensive than you planned | And explain how you felt about it."
+  },
+  {
+    "id": "q_0490",
+    "part": "P3",
+    "topic": "超预算的购买经历",
+    "text": "What kinds of things do young people like to spend money on?"
+  },
+  {
+    "id": "q_0491",
+    "part": "P3",
+    "topic": "超预算的购买经历",
+    "text": "Why do some people spend money on things they don't really need?"
+  },
+  {
+    "id": "q_0492",
+    "part": "P3",
+    "topic": "超预算的购买经历",
+    "text": "How important is saving money for the future?"
+  },
+  {
+    "id": "q_0493",
+    "part": "P3",
+    "topic": "超预算的购买经历",
+    "text": "How important is it to teach children about giving money to support people in need?"
+  },
+  {
+    "id": "q_0494",
+    "part": "P3",
+    "topic": "超预算的购买经历",
+    "text": "Do you agree or disagree that rich people should give some of their money to help other people?"
+  },
+  {
+    "id": "q_0495",
+    "part": "P3",
+    "topic": "超预算的购买经历",
+    "text": "What other ways are there to support 6 people in need, apart from giving money to them?"
+  },
+  {
+    "id": "q_0496",
+    "part": "P2",
+    "topic": "去过的城市",
+    "text": "Describe a city you have been to | Where it is | What you do there | How many times you have been there | And explain why you think it is enjoyable to be there"
+  },
+  {
+    "id": "q_0497",
+    "part": "P3",
+    "topic": "去过的城市",
+    "text": "Why do tourists choose to visit certain cities?"
+  },
+  {
+    "id": "q_0498",
+    "part": "P3",
+    "topic": "去过的城市",
+    "text": "Are modern cities more interesting for tourists than historical ones?"
+  },
+  {
+    "id": "q_0499",
+    "part": "P3",
+    "topic": "去过的城市",
+    "text": "Are cities that tourists like to visit also good places to live?"
+  },
+  {
+    "id": "q_0500",
+    "part": "P3",
+    "topic": "去过的城市",
+    "text": "Why do many people choose to live in cities?"
+  },
+  {
+    "id": "q_0501",
+    "part": "P3",
+    "topic": "去过的城市",
+    "text": "Does living in cities have more advantages for younger or older people?"
+  },
+  {
+    "id": "q_0502",
+    "part": "P3",
+    "topic": "去过的城市",
+    "text": "Do you agree or disagree that cities lose their individual character as they grow in size"
+  },
+  {
+    "id": "q_0503",
+    "part": "P2",
+    "topic": "机智解决问题的人",
+    "text": "Describe a person who solved a problem in a smart way | Who this person is | What the problem was | How he/ she solved it | And explain why you think he/ she did it in a smart"
+  },
+  {
+    "id": "q_0504",
+    "part": "P3",
+    "topic": "机智解决问题的人",
+    "text": "Do you think children are born clever, or do they learn to be clever?"
+  },
+  {
+    "id": "q_0505",
+    "part": "P3",
+    "topic": "机智解决问题的人",
+    "text": "How important are schools in helping children become more clever?"
+  },
+  {
+    "id": "q_0506",
+    "part": "P3",
+    "topic": "机智解决问题的人",
+    "text": "Do you agree or disagree that very clever children are usually happy?"
+  },
+  {
+    "id": "q_0507",
+    "part": "P3",
+    "topic": "机智解决问题的人",
+    "text": "Why may a person be very good at one thing, but not another?"
+  },
+  {
+    "id": "q_0508",
+    "part": "P3",
+    "topic": "机智解决问题的人",
+    "text": "Why does society need people with different types of intelligence?"
+  },
+  {
+    "id": "q_0509",
+    "part": "P3",
+    "topic": "机智解决问题的人",
+    "text": "Do you think people can become very good at anything if they try hardenough？"
+  },
+  {
+    "id": "q_0510",
+    "part": "P2",
+    "topic": "鼓励你环保的人",
+    "text": "Describe a person who encouraged you to protect the environment or nature. | Who the person is | What they told you or did | How it influenced you | And explain how you felt about their advice or actions"
+  },
+  {
+    "id": "q_0511",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "text": "How can parents help children to learn about nature?"
+  },
+  {
+    "id": "q_0512",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "text": "Do you agree or disagree that children should spend more time learning about nature at school?"
+  },
+  {
+    "id": "q_0513",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "text": "Is it easy for children living in cities to enjoy the natural world?"
+  },
+  {
+    "id": "q_0514",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "text": "What things can people do to help to protect nature?"
+  },
+  {
+    "id": "q_0515",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "text": "Do you think there is a need for new laws to protect nature?"
+  },
+  {
+    "id": "q_0516",
+    "part": "P3",
+    "topic": "鼓励你环保的人",
+    "text": "Are punishments or rewards more effective in encouraging people to protect nature?"
+  },
+  {
+    "id": "q_0517",
+    "part": "P2",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "Describe a time when you encouraged someone to do something that he/she didn't want to do | Who this person is | What you encourage him/her to do | How he/she reacted | And explain why you encouraged him/her to do it"
+  },
+  {
+    "id": "q_0518",
+    "part": "P3",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "In what situations do parents need to encourage their children to do something?"
+  },
+  {
+    "id": "q_0519",
+    "part": "P3",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "What ways can parents use to 2 encourage children to do things they don't want to do?"
+  },
+  {
+    "id": "q_0520",
+    "part": "P3",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "Why do children often not want to do what their parents ask?"
+  },
+  {
+    "id": "q_0521",
+    "part": "P3",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "How can employees be encouraged to work hard?"
+  },
+  {
+    "id": "q_0522",
+    "part": "P3",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "Do you agree or disagree that the most important role of a boss is to encourage employees?"
+  },
+  {
+    "id": "q_0523",
+    "part": "P3",
+    "topic": "鼓励别人做不愿意做的事",
+    "text": "Are people at work more motivated by praise or money?"
+  }
+]
